@@ -1,0 +1,697 @@
+Marca,Modelo,Ano,Kilometraje,Condicion,Color,price,location,Comuna,Category,Marca_enc,Modelo_enc,Combustible_Diesel,Combustible_Eléctrico,Combustible_Híbrido,Combustible_Otro,Transmision_Manual
+Mitsubishi,L200,2022,178180,Usado,ROJO,14900000,Bío Bío,Los Ángeles,"Autos, Camionetas y 4x4",45,176,True,False,False,False,True
+Audi,Q5,2011,169100,Usado,Plata,10800000,Metropolitana de Santiago,Las Condes,"Autos, camionetas y 4x4",1,222,True,False,False,False,False
+Renault,Logan,2008,75000,Usado,Plata,3950000,Metropolitana de Santiago,La Reina,"Autos, camionetas y 4x4",52,180,False,False,False,False,True
+MG,3,2020,34000,Usado,Negro,6990000,Coquimbo,La Serena,"Autos, Camionetas y 4x4",38,8,False,False,False,False,True
+Toyota,Aygo,2020,45000,Usado,Gris,6900000,Araucanía,Temuco,"Autos, camionetas y 4x4",59,44,False,False,False,False,True
+Peugeot,3008,2020,72300,Usado,bordeaux,14599999,Valparaíso,Valparaiso,"Autos, camionetas y 4x4",48,11,True,False,False,False,True
+Peugeot,208,2016,167000,Usado,Blanco,6300000,Metropolitana de Santiago,Santiago,"Autos, Camionetas y 4x4",48,7,False,False,False,False,True
+Toyota,Rav4,2015,155663,Usado,Plata,11690000,Los Lagos,Osorno,"Autos, Camionetas y 4x4",59,230,False,False,False,False,False
+Kia,Morning,2017,78000,Usado,Blanco,6200000,Los Lagos,Ancud,"Autos, camionetas y 4x4",35,200,False,False,False,False,True
+Chevrolet,Captiva,2020,74200,Usado,Plata,10990000,Metropolitana de Santiago,Chicureo,"Autos, Camionetas y 4x4",7,65,False,False,False,False,False
+Opel,Adam,2023,44355,Usado,Cs/gris Plata,12390000,Metropolitana de Santiago,Huechuraba,"Autos, Camionetas y 4x4",47,31,False,False,False,False,True
+Lexus,Is,2008,150000,Usado,Plata,8200000,Metropolitana de Santiago,La Florida,"Autos, camionetas y 4x4",37,160,False,False,False,False,False
+Jetour,X70,2024,29000,Usado,BLANCO,12990000,Metropolitana de Santiago,San Bernardo,"Autos, Camionetas y 4x4",32,310,False,False,False,False,False
+Jeep,Compass,2022,130376,Usado,Blanco Blanco,14290000,Metropolitana de Santiago,Cerrillos,"Autos, camionetas y 4x4",31,78,False,False,False,False,False
+Suzuki,Jimny,2024,36700,Usado,Gris,16500000,Metropolitana de Santiago,Santiago,"Autos, camionetas y 4x4",58,161,False,False,False,False,True
+Hyundai,Santa Fe,2012,105000,Usado,Negro,7200000,Metropolitana de Santiago,Las Condes,"Autos, camionetas y 4x4",27,244,False,False,False,False,True
+Volkswagen,Gol,2016,69509,Usado,Gris,7700000,Metropolitana de Santiago,Pudahuel,Autos-vehículo,60,135,False,False,False,False,True
+Hyundai,Tucson,2020,85400,Usado,Blanco,14000000,Los Lagos,Calbuco,Autos-vehículo,27,280,False,False,False,False,True
+Nissan,X-Trail,2021,92000,Usado,Gris,13500000,Valparaíso,Los Andes,Autos-vehículo,46,299,False,False,False,False,False
+Opel,Mokka,2022,32000,Usado,Verde,14000000,Valparaíso,Villa Alemana,Autos-vehículo,47,198,False,False,False,False,False
+Chery,Tiggo 8 Pro,2022,147000,Usado,Negro,14000000,Metropolitana de Santiago,Lampa,Autos-vehículo,6,272,False,False,False,False,False
+Ram,1000,2021,58000,Usado,Blanco,21500000,Metropolitana de Santiago,Colina,Autos-vehículo,50,0,True,False,False,False,False
+JAC,Js8,2022,45000,Usado,Rojo,14000000,Los Lagos,Frutillar,Autos-vehículo,28,169,False,False,False,False,True
+Mercedes-Benz,Sprinter 316,2014,125000,Usado,Blanco,14000000,Bío Bío,Chiguayante,Autos-vehículo,44,257,False,False,False,False,False
+Fiat,500,2022,32500,Usado,Gris,13800000,Metropolitana de Santiago,Huechuraba,Autos-vehículo,17,19,False,False,False,False,True
+Suzuki,Swift,2018,104175,Usado,Rojo,5600000,Metropolitana de Santiago,Peñaflor,Autos-vehículo,58,260,False,False,False,False,True
+Subaru,Impreza,1998,100000,Usado,Blanco,800000,Metropolitana de Santiago,Providencia,Autos-vehículo,57,159,False,False,False,False,False
+Changan,Cs35,2016,95000,Usado,Rojo,5400000,Bío Bío,Hualpén,Autos-vehículo,5,93,False,False,False,False,True
+Mazda,3,2007,178541,Usado,Gris,5200000,Metropolitana de Santiago,La Florida,Autos-vehículo,43,8,False,False,False,False,False
+Audi,A3,2024,23000,Usado,Rojo,27990000,Araucanía,Temuco,Autos-vehículo,1,25,False,False,False,False,False
+Changan,M201,2016,70400,Usado,Blanco,3800000,Metropolitana de Santiago,San José De Maipo,Autos-vehículo,5,182,False,False,False,False,True
+Chevrolet,Silverado,2020,82000,Usado,Rojo,32000000,Bío Bío,Los Ángeles,Autos-vehículo,7,247,False,False,False,False,False
+Jeep,Compass,2013,150000,Usado,Gris,7200000,Metropolitana de Santiago,Talagante,Autos-vehículo,31,78,False,False,False,False,False
+Renault,Symbol,2022,68600,Usado,Gris,7200000,Metropolitana de Santiago,Vitacura,Autos-vehículo,52,263,False,False,False,False,True
+Chevrolet,Groove,2025,5610,Usado,Plata Plata,10090000,Metropolitana de Santiago,Cerrillos,Autos-vehículo,7,144,False,False,False,False,True
+Chevrolet,Sail,2021,44000,Usado,Gris,7200000,Antofagasta,San Pedro de Atacama,Autos-vehículo,7,243,False,False,False,False,True
+Chevrolet,Captiva,2013,114025,Usado,Plata,8500000,Metropolitana de Santiago,Pudahuel,Autos-vehículo,7,65,False,False,False,False,False
+Mazda,2,2017,55000,Usado,Rojo,8599000,Metropolitana de Santiago,Huechuraba,Autos-vehículo,43,5,False,False,False,False,True
+Dodge,Challenger,2016,72000,Usado,Negro,35990000,Maule,Talca,Autos-vehículo,13,71,False,False,False,False,False
+BMW,530,2023,34560,Usado,Gris,39000000,Metropolitana de Santiago,Vitacura,Autos-vehículo,2,22,False,False,True,False,False
+Chevrolet,Traverse,2015,123000,Usado,Blanco,12000000,Metropolitana de Santiago,Colina,Autos-vehículo,7,279,False,False,False,False,False
+Hyundai,Creta,2020,95821,Usado,Negro,12000000,Ñuble,Chillán,Autos-vehículo,27,87,False,False,False,False,False
+Audi,A4,2010,142000,Usado,Azul,10500000,Valparaíso,Viña del Mar,"Autos, camionetas y 4x4",1,27,False,False,False,False,False
+Chevrolet,Sail,2011,100000,Usado,Blanco,3950000,Metropolitana de Santiago,Las Condes,"Autos, camionetas y 4x4",7,243,False,False,False,False,True
+Peugeot,3008,2018,90000,Usado,Rojo,10800000,Maule,Linares,"Autos, camionetas y 4x4",48,11,True,False,False,False,True
+Great Wall,Wingle 5,2016,189000,Usado,Gris,5300000,Metropolitana de Santiago,Puente Alto,"Autos, camionetas y 4x4",22,294,True,False,False,False,True
+Renault,Master,2018,165000,Usado,Blanco,9100000,Metropolitana de Santiago,Colina,"Autos, camionetas y 4x4",52,187,True,False,False,False,True
+Subaru,Xv,2014,145000,Usado,Gris,7590000,Los Lagos,Puerto Montt,"Autos, Camionetas y 4x4",57,314,False,False,False,False,True
+Kia,Grand Carnival,2016,132000,Usado,Gris,18500000,Metropolitana de Santiago,Las Condes,"Autos, camionetas y 4x4",35,137,True,False,False,False,False
+Subaru,Forester,2020,95000,Usado,Plata,18000000,Maule,Talca,"Autos, camionetas y 4x4",57,125,False,False,False,False,False
+Peugeot,5008,2023,38747,Usado,Blanco Blanco,22190000,Araucanía,Temuco,"Autos, camionetas y 4x4",48,20,True,False,False,False,False
+SsangYong,Musso,2019,120029,Usado,Blanco,18990000,Metropolitana de Santiago,Huechuraba,"Autos, Camionetas y 4x4",56,201,True,False,False,False,False
+Renault,Duster,2023,43720,Usado,Marrón Marrón,12190000,Metropolitana de Santiago,Cerrillos,"Autos, camionetas y 4x4",52,107,False,False,False,False,True
+BMW,X4,2016,121000,Usado,Blanco,21990000,Metropolitana de Santiago,Vitacura,"Autos, camionetas y 4x4",2,306,False,False,False,False,False
+Chevrolet,D-Max,2022,120000,Usado,Blanco,14950000,Metropolitana de Santiago,Vitacura,"Autos, camionetas y 4x4",7,99,True,False,False,False,True
+Opel,Mokka,2023,42025,Usado,Marrón Marrón,15290000,Coquimbo,La Serena,"Autos, camionetas y 4x4",47,198,False,False,False,False,False
+Chevrolet,Trailblazer,2023,37598,Usado,Negro,26990000,Metropolitana de Santiago,Chicureo,"Autos, Camionetas y 4x4",7,278,True,False,False,False,False
+Kia,Sportage,2011,150000,Usado,Negro,7600000,Metropolitana de Santiago,Las Condes,"Autos, camionetas y 4x4",35,256,False,False,False,False,True
+Peugeot,Expert,2016,201000,Usado,Gris,9300000,Bío Bío,Coronel,"Autos, camionetas y 4x4",48,117,True,False,False,False,True
+Hyundai,Tucson,2014,158000,Usado,Gris,8500000,Bío Bío,Concepción,"Autos, camionetas y 4x4",27,280,False,False,False,False,True
+Nissan,Altima,2016,56406,Usado,Grafito,8990000,Metropolitana de Santiago,Santiago,"Autos, Camionetas y 4x4",46,32,False,False,False,False,False
+Jetour,X70 Plus,2024,30994,Usado,AZUL,13500000,Coquimbo,La serena,"Autos, Camionetas y 4x4",32,311,False,False,False,False,False
+Ford,Bronco Sport,2024,18000,Usado,GRIS,24500000,Metropolitana de Santiago,Vitacura,"Autos, Camionetas y 4x4",18,54,False,False,False,False,False
+BMW,320I,2015,105000,Usado,Plata,14800000,Coquimbo,La Serena,"Autos, camionetas y 4x4",2,14,False,False,False,False,False
+Mercedes-Benz,Gla 220,2019,81000,Usado,Azul,23890000,Los Lagos,Puerto Montt,"Autos, Camionetas y 4x4",44,133,True,False,False,False,False
+Peugeot,3008,2018,150000,Usado,Azul,11250000,Valparaíso,Quintero,"Autos, camionetas y 4x4",48,11,True,False,False,False,True
+Mitsubishi,Outlander,2010,190000,Usado,Negro,5790000,Metropolitana de Santiago,Peñalolén,"Autos, camionetas y 4x4",45,213,False,False,False,False,True
+Great Wall,Wingle 7,2024,15000,Usado,Blanco,13200000,Araucanía,Lautaro,"Autos, camionetas y 4x4",22,295,False,False,False,False,True
+Great Wall,Wingle 7,2022,26175,Usado,Marrón Marrón,10590000,Metropolitana de Santiago,Cerrillos,Autos-vehículo,22,295,False,False,False,False,False
+Chery,Arrizo5,2017,104000,Usado,Blanco,6490000,Metropolitana de Santiago,La Reina,Autos-vehículo,6,37,False,False,False,False,False
+Jac,S5,2019,39000,Usado,Blanco,8590000,Valparaíso,Viña del Mar,Autos-vehículo,29,242,False,False,False,False,False
+Citroën,C4,2007,103000,Usado,Gris,2985000,Metropolitana de Santiago,Independencia,Autos-vehículo,8,61,False,False,False,False,False
+Ford,Escape,2017,91000,Usado,Blanco,12490000,Los Lagos,Puerto Montt,Autos-vehículo,18,115,False,False,False,False,False
+Suzuki,Baleno,2021,33000,Usado,Azul,8990000,Valparaíso,Viña del Mar - Quillota,Autos-vehículo,58,47,False,False,False,False,False
+Renault,Dokker,2016,66025,Usado,Blanco,4990000,Metropolitana de Santiago,Cerrillos,Autos-vehículo,52,104,False,False,False,False,False
+Ford,Edge,2017,121670,Usado,Bordo,13290000,Coquimbo,La Serena,"Autos, Camionetas y 4x4",18,113,False,False,False,False,False
+Ford,Ecosport,2015,62000,Usado,Rojo,12300000,Coquimbo,La Serena,"Autos, camionetas y 4x4",18,112,False,False,False,False,True
+Ford,Edge,2021,93400,Usado,Rojo Rojo,21690000,OHiggins,Rancagua,"Autos, camionetas y 4x4",18,113,False,False,False,False,False
+Hyundai,Santa Fe,2015,120000,Usado,Plata,10300000,Metropolitana de Santiago,La Florida,"Autos, camionetas y 4x4",27,244,False,False,False,False,True
+Mitsubishi,Montero,2011,225000,Usado,Gris,11600000,Metropolitana de Santiago,Las Condes,"Autos, camionetas y 4x4",45,199,True,False,False,False,True
+Hyundai,Accent,2006,140000,Usado,Azul,2700000,Bío Bío,Lota,"Autos, camionetas y 4x4",27,28,False,False,False,False,True
+Chevrolet,Bolt Euv,2024,100,Usado,Blanco Blanco,20990000,Bío Bío,Los Ángeles,Autos-vehículo,7,52,False,True,False,False,False
+SKODA,Kodiaq,2022,68185,Usado,Blanco Blanco,23790000,Bío Bío,Concepción,Autos-vehículo,53,173,True,False,False,False,False
+Hyundai,Elantra,2011,194000,Usado,Plata,4500000,Valparaíso,Viña del Mar,Autos-vehículo,27,114,False,False,False,False,False
+Subaru,Forester,2014,134000,Usado,Gris,9150000,Bío Bío,Los Ángeles,Autos-vehículo,57,125,False,False,False,False,True
+Mercedes-Benz,E 300,2018,52528,Usado,Plata,39500000,Metropolitana de Santiago,Las Condes,Autos-vehículo,44,110,False,False,False,False,False
+Dodge,Journey,2019,19500,Usado,Gris,16000000,Antofagasta,Antofagasta,Autos-vehículo,13,164,False,False,False,False,False
+Renault,Captur,2019,42700,Usado,Café,10780000,Metropolitana de Santiago,Las Condes,Autos-vehículo,52,66,False,False,False,False,False
+Chevrolet,D-Max,2015,226000,Usado,Blanco,10300000,Bío Bío,Hualpén,Autos-vehículo,7,99,True,False,False,False,True
+Subaru,Wrx,2022,30000,Usado,Blanco,30990000,Valparaíso,Viña del Mar - Quillota,Autos-vehículo,57,297,False,False,False,False,False
+SsangYong,Korando,2011,190000,Usado,Gris,3000000,Los Ríos,Lago Ranco,Autos-vehículo,56,175,True,False,False,False,False
+Dongfeng,Joyear X3,2022,200000,Usado,Amarillo,20000000,Metropolitana de Santiago,Buin,Autos-vehículo,14,166,False,False,False,False,True
+Fiat,Fullback,2018,109300,Usado,Blanco,13700000,Metropolitana de Santiago,Vitacura,Autos-vehículo,17,129,True,False,False,False,True
+BMW,530,2016,115000,Usado,Plata,24590000,Bío Bío,Concepción,Autos-vehículo,2,22,True,False,False,False,False
+Toyota,4Runner,2011,196000,Usado,Negro,14900000,Metropolitana de Santiago,Las Condes,Autos-vehículo,59,18,False,False,False,False,False
+Chevrolet,Onix,2024,27118,Usado,PLATA,13290000,Antofagasta,Calama,Autos-vehículo,7,209,False,False,False,False,True
+Nissan,Navara,2021,103497,Usado,Blanco,22990000,Los Lagos,Osorno,Autos-vehículo,46,204,True,False,False,False,False
+Ford,Maverick,2024,40430,Usado,Azul,22990000,Metropolitana de Santiago,La Reina,Autos-vehículo,18,188,False,False,False,False,False
+Mercedes-Benz,C,2023,17000,Usado,Gris,36900000,Metropolitana de Santiago,Las Condes,Autos-vehículo,44,56,False,False,False,False,False
+MG,Mg5,2022,30000,Usado,Blanco,9000000,Metropolitana de Santiago,San Bernardo,Autos-vehículo,38,193,False,False,False,False,True
+Ford,Ranger,2016,215000,Usado,Gris,8900000,Metropolitana de Santiago,La Florida,Autos-vehículo,18,229,False,False,False,False,True
+BMW,118,2017,200000,Usado,Marrón,17590000,Atacama,Tierra Amarilla,Autos-vehículo,2,1,False,False,False,False,False
+BMW,X1,2018,93000,Usado,Gris,17500000,Ñuble,Chillán,Autos-vehículo,2,301,False,False,False,False,False
+Mitsubishi,L200,2021,89697,Usado,Marrón Marrón,15290000,Metropolitana de Santiago,Cerrillos,Autos-vehículo,45,176,True,False,False,False,True
+Jac,S2,2020,74522,Usado,Marrón Marrón,7290000,Los Lagos,Castro,Autos-vehículo,29,240,False,False,False,False,True
+Ford,Ranger,2023,79091,Usado,Rojo,19590000,Bío Bío,Los Ángeles,Autos-vehículo,18,229,True,False,False,False,True
+Hyundai,Santa Fe,2024,41079,Usado,Blanco,31980000,Metropolitana de Santiago,Vitacura,Autos-vehículo,27,244,True,False,False,False,False
+Peugeot,308,2017,125000,Usado,Blanco,11790000,Metropolitana de Santiago,La Reina,Autos-vehículo,48,13,True,False,False,False,False
+Mahindra,New Scorpio,2014,110926,Usado,Gris,4000000,Metropolitana de Santiago,Puente Alto,Autos-vehículo,40,205,True,False,False,False,True
+Audi,Q2,2019,62000,Usado,Plata,19800000,Metropolitana de Santiago,La Reina,Autos-vehículo,1,221,False,False,False,False,False
+Chevrolet,Silverado,2018,120000,Usado,Negro,19790000,Maule,Curicó,Autos-vehículo,7,247,False,False,False,False,False
+BMW,X5,2020,64596,Usado,Azul,37900000,Metropolitana de Santiago,Las Condes,Autos-vehículo,2,307,True,False,False,False,False
+Audi,A4,2018,67000,Usado,Blanco,16200000,Metropolitana de Santiago,Ñuñoa,Autos-vehículo,1,27,False,False,False,False,False
+Dongfeng,Joyear,2021,98429,Usado,Plata Plata,7490000,Valparaíso,Viña del Mar,Autos-vehículo,14,165,False,False,False,False,True
+Mazda,Bt-50,2013,155000,Usado,Azul,16200000,Araucanía,Temuco,Autos-vehículo,43,55,True,False,False,False,False
+Renault,Duster,2019,128000,Usado,Café,7490000,Valparaíso,Concón,Autos-vehículo,52,107,False,False,False,False,True
+Volkswagen,Voyage,2022,65966,Usado,Negro,7580000,Metropolitana de Santiago,San Miguel,Autos-vehículo,60,291,False,False,False,False,True
+Mazda,Cx-3,2018,97000,Usado,Gris,11800000,Coquimbo,La Serena,"Autos, camionetas y 4x4",43,95,False,False,False,False,False
+Subaru,Forester,2024,29000,Usado,Grafito,22990000,Bío Bío,San Pedro de la Paz,"Autos, Camionetas y 4x4",57,125,False,False,False,False,False
+MG,Mg Zs,2023,27785,Usado,Rojo Rojo,8290000,Araucanía,Temuco,"Autos, camionetas y 4x4",38,191,False,False,False,False,True
+Ford,Fiesta,2007,170000,Usado,Plata,4500000,Bío Bío,Los Ángeles,"Autos, camionetas y 4x4",18,121,False,False,False,False,True
+Toyota,Corolla,2013,175000,Usado,Gris,5650000,Metropolitana de Santiago,La Florida,"Autos, camionetas y 4x4",59,82,False,False,False,False,True
+Chevrolet,Spin,2020,83389,Usado,BLANCO,9490000,Metropolitana de Santiago,Santiago,"Autos, Camionetas y 4x4",7,255,False,False,False,False,True
+Toyota,Yaris,2015,130000,Usado,Negro,8500000,Metropolitana de Santiago,Santiago,"Autos, camionetas y 4x4",59,315,False,False,False,False,True
+Ford,Explorer,2017,85000,Usado,Azul,10000000,Metropolitana de Santiago,Ñuñoa,"Autos, camionetas y 4x4",18,118,False,False,False,False,False
+Ford,Explorer,2009,207000,Usado,Blanco,5690000,Valparaíso,La Cruz,"Autos, camionetas y 4x4",18,118,False,False,False,False,False
+Geely,X7 Sport,2020,73229,Usado,Plata Plata,8790000,Araucanía,Temuco,Autos-vehículo,21,309,False,False,False,False,True
+MG,Marvel R,2024,27312,Usado,Blanco Blanco,25790000,Metropolitana de Santiago,Huechuraba,"Autos, camionetas y 4x4",38,186,False,True,False,False,False
+Hyundai,Creta,2024,256,Usado,Blanco,15290000,Coquimbo,Ovalle,Station Wagon,27,87,False,False,False,False,True
+Chevrolet,Sonic,2014,75264,Usado,Gris,5300000,Metropolitana de Santiago,Las Condes,"Autos, camionetas y 4x4",7,250,False,False,False,False,True
+Nissan,Versa,2017,98000,Usado,Plata,5300000,Metropolitana de Santiago,Cerrillos,"Autos, camionetas y 4x4",46,285,False,False,False,False,True
+Chevrolet,Traverse,2021,81600,Usado,Blanco,27990000,Metropolitana de Santiago,La Reina,"Autos, Camionetas y 4x4",7,279,False,False,False,False,False
+Kia,Soul,2014,124000,Usado,Blanco,6000000,Metropolitana de Santiago,Puente Alto,"Autos, camionetas y 4x4",35,252,False,False,False,False,True
+Dodge,Ram 1500,2019,136000,Usado,Gris,23980000,Metropolitana de Santiago,Las Condes,"Autos, Camionetas y 4x4",13,225,False,False,False,False,False
+Ford,Ecosport,2019,49200,Usado,Blanco,10100000,Metropolitana de Santiago,Las Condes,"Autos, camionetas y 4x4",18,112,False,False,False,False,False
+Chevrolet,Spin,2019,155000,Usado,BLANCO,6980000,Los Ríos,Valdivia,"Autos, Camionetas y 4x4",7,255,False,False,False,False,True
+Volkswagen,Virtus,2020,100000,Usado,Gris,9790000,OHiggins,Rancagua,"Autos, Camionetas y 4x4",60,288,False,False,False,False,True
+Chevrolet,Sail,2016,78400,Usado,Gris,4750000,Metropolitana de Santiago,Ñuñoa,"Autos, camionetas y 4x4",7,243,False,False,False,False,True
+Dfm,Joyear X3,2017,97550,Usado,Plata Plata,5590000,Ñuble,Chillán,"Autos, camionetas y 4x4",11,166,False,False,False,False,True
+Ford,Edge,2023,39377,Usado,Blanco Metalico,29990000,Metropolitana de Santiago,Huechuraba,"Autos, Camionetas y 4x4",18,113,False,False,False,False,False
+Foton,G7,2023,29481,Usado,Rojo,13690000,Valparaíso,Viña del Mar,"Autos, Camionetas y 4x4",19,130,True,False,False,False,True
+Toyota,Rav4,2012,176000,Usado,Gris,6700000,Metropolitana de Santiago,Renca,"Autos, camionetas y 4x4",59,230,False,False,False,False,False
+Ram,700,2022,67000,Usado,Blanco Banchisa,9490000,Metropolitana de Santiago,Quilicura,"Autos, Camionetas y 4x4",50,23,False,False,False,False,True
+Ford,Escape,2020,78300,Usado,Plata,14300000,Araucanía,Temuco,"Autos, camionetas y 4x4",18,115,False,False,False,False,False
+Suzuki,Celerio,2012,165100,Usado,Gris,4300000,Metropolitana de Santiago,La Florida,"Autos, camionetas y 4x4",58,69,False,False,False,False,True
+Volkswagen,Polo,2025,9038,Usado,Plata,15790000,Metropolitana de Santiago,La Florida,"Autos, Camionetas y 4x4",60,218,False,False,False,False,False
+Hyundai,Accent,2013,185147,Usado,Blanco,5600000,Metropolitana de Santiago,Macul,"Autos, camionetas y 4x4",27,28,False,False,False,False,True
+Haval,H6,2025,5000,Usado,Gris,19900000,Bío Bío,Concepción,"Autos, Camionetas y 4x4",24,147,False,False,False,False,False
+Citroën,C3,2024,23261,Usado,Gris,11900000,Metropolitana de Santiago,Quilicura,"Autos, Camionetas y 4x4",8,58,True,False,False,False,True
+Kia,Morning,2019,89150,Usado,Marrón Marrón,8790000,Bío Bío,Concepción,"Autos, camionetas y 4x4",35,200,False,False,False,False,True
+Volkswagen,Tiguan,2018,77000,Usado,Gris,14690000,Metropolitana de Santiago,Vitacura,"Autos, camionetas y 4x4",60,273,False,False,False,False,False
+Subaru,Forester,2020,106000,Usado,Plata,19000000,Ñuble,Chillán,"Autos, camionetas y 4x4",57,125,False,False,False,False,False
+Haval,H6,2022,70695,Usado,Azul Azul,14690000,Metropolitana de Santiago,Macul,Autos-vehículo,24,147,False,False,False,False,False
+Hyundai,Creta,2019,85000,Usado,Plata,10690000,Valparaíso,La Calera,Autos-vehículo,27,87,False,False,False,False,False
+Citroën,C5 Aircross,2021,35000,Usado,Azul,25000000,Metropolitana de Santiago,Colina,Autos-vehículo,8,63,True,False,False,False,False
+Ford,Ecosport,2019,39000,Usado,Gris,8990000,Metropolitana de Santiago,Las Condes,Autos-vehículo,18,112,False,False,False,False,False
+Chery,Tiggo 8,2021,22800,Usado,Blanco,15190000,Metropolitana de Santiago,Vitacura,Autos-vehículo,6,271,False,False,False,False,False
+Mitsubishi,L200,2019,93611,Usado,Grafito,14980000,Metropolitana de Santiago,LAS CONDES,Autos-vehículo,45,176,True,False,False,False,False
+Fiat,Cronos,2022,20286,Usado,Blanco,9800000,Metropolitana de Santiago,Vitacura,Autos-vehículo,17,88,False,False,False,False,False
+Nissan,Sentra,2022,31685,Usado,Marrón Marrón,14790000,Metropolitana de Santiago,Huechuraba,Autos-vehículo,46,245,False,False,False,False,False
+MG,Rx5,2023,12996,Usado,Negro,13863181,Metropolitana de Santiago,Las Condes,Autos-vehículo,38,238,False,False,False,False,False
+Volkswagen,Polo,2022,40000,Usado,Gris,10290000,Metropolitana de Santiago,Puente Alto,Autos-vehículo,60,218,False,False,False,False,False
+Jeep,Renegade,2022,30714,Usado,Blanco Blanco,12490000,Metropolitana de Santiago,La Florida,Autos-vehículo,31,231,False,False,False,False,False
+Chevrolet,Onix,2022,31808,Usado,Plata,9990000,Metropolitana de Santiago,Puente Alto,Autos-vehículo,7,209,False,False,False,False,False
+Dodge,Journey,2009,172684,Usado,Plata,5500000,Metropolitana de Santiago,Santiago,Autos-vehículo,13,164,False,False,False,False,False
+Volkswagen,Gol,2021,64900,Usado,Gris,7490000,Araucanía,Temuco,Autos-vehículo,60,135,False,False,False,False,False
+Opel,Crossland,2021,32000,Usado,Blanco,12280000,Metropolitana de Santiago,Lo Barnechea,Autos-vehículo,47,89,False,False,False,False,False
+MG,3,2017,83000,Usado,Amarillo,5980000,Valparaíso,Viña del Mar,Autos-vehículo,38,8,False,False,False,False,False
+Baic,X35,2023,28349,Usado,Blanco Blanco,8190000,Maule,Curicó,Autos-vehículo,3,305,False,False,False,False,False
+Changan,Cs15,2023,5000,Usado,Negro,9980000,Los Ríos,Valdivia,Autos-vehículo,5,92,False,False,False,False,False
+Renault,Dokker,2022,24463,Usado,Blanco,7900000,Metropolitana de Santiago,Vitacura,Autos-vehículo,52,104,True,False,False,False,False
+MG,Zx,2022,52823,Usado,Blanco Blanco,9690000,Metropolitana de Santiago,Cerrillos,Autos-vehículo,38,318,False,False,False,False,False
+Chevrolet,Colorado,2022,35951,Usado,Blanco Blanco,19890000,Bío Bío,Concepción,Autos-vehículo,7,76,True,False,False,False,False
+Peugeot,Partner,2022,81318,Usado,Blanco,10900000,Bío Bío,Concepción,Autos-vehículo,48,214,True,False,False,False,False
+Toyota,Auris,2017,109167,Usado,Blanco,11490000,Metropolitana de Santiago,Santiago,Autos-vehículo,59,41,False,False,False,False,False
+Subaru,Forester,2017,138000,Usado,Blanco,11490000,Metropolitana de Santiago,Santiago,Autos-vehículo,57,125,False,False,False,False,False
+Mazda,3,2018,123379,Usado,Azul,12580000,Metropolitana de Santiago,Cerrillos,Autos-vehículo,43,8,False,False,False,False,False
+Renault,Captur,2021,26381,Usado,Blanco,12190000,Metropolitana de Santiago,Macul,Autos-vehículo,52,66,True,False,False,False,False
+Nissan,X-Trail,2019,44000,Usado,Blanco,13590000,Metropolitana de Santiago,Santiago,Autos-vehículo,46,299,False,False,False,False,False
+Nissan,Pathfinder,2016,137170,Usado,Azul,10000000,Metropolitana de Santiago,Vitacura,Autos-vehículo,46,215,False,False,False,False,False
+Fiat,Weekend,2007,227800,Usado,Blanco,3800000,Metropolitana de Santiago,Ñuñoa,"Autos, camionetas y 4x4",17,293,False,False,False,False,True
+Exeed,Vx,2023,32199,Usado,BLANCO,24900000,Metropolitana de Santiago,Vitacura,"Autos, Camionetas y 4x4",15,292,False,False,False,False,False
+Chevrolet,Colorado,2011,200000,Usado,Blanco,8500000,Metropolitana de Santiago,La Reina,"Autos, camionetas y 4x4",7,76,False,False,False,False,False
+Volkswagen,T-Cross,2020,75000,Usado,Blanco,11400000,Antofagasta,Antofagasta,"Autos, camionetas y 4x4",60,264,False,False,False,False,True
+Chevrolet,Corsa,2006,211190,Usado,Rojo,2600000,Valparaíso,Villa Alemana,"Autos, camionetas y 4x4",7,84,False,False,False,False,True
+Dfm,A30,2018,37000,Usado,Blanco,7500000,Metropolitana de Santiago,Conchalí,"Autos, camionetas y 4x4",11,26,False,False,False,False,True
+Peugeot,5008,2020,108000,Usado,Blanco,15000000,Bío Bío,San Pedro de la Paz,"Autos, camionetas y 4x4",48,20,True,False,False,False,False
+Toyota,Hilux,2018,152738,Usado,Gris,12500000,Maule,Constitución,"Autos, camionetas y 4x4",59,152,True,False,False,False,True
+SsangYong,Rexton,2024,27000,Usado,NEGRO PERLADO,24980000,Los Ríos,Valdivia,"Autos, Camionetas y 4x4",56,232,True,False,False,False,False
+Ford,Ecosport,2019,94500,Usado,Negro,8300000,Metropolitana de Santiago,Pudahuel,"Autos, camionetas y 4x4",18,112,False,False,False,False,True
+Subaru,Forester,2019,87679,Usado,GRIS GRAFITO,18990000,Metropolitana de Santiago,La Reina,"Autos, Camionetas y 4x4",57,125,False,False,False,False,False
+Kia,Carnival,2014,133000,Usado,Blanco,11000000,Metropolitana de Santiago,Providencia,"Autos, camionetas y 4x4",35,68,True,False,False,False,True
+MINI,John Cooper Works,2011,90000,Usado,Negro,10900000,Bío Bío,San Pedro de la Paz,"Autos, camionetas y 4x4",39,162,False,False,False,False,True
+Nissan,Qashqai,2021,24000,Usado,Gris,15500000,Maule,Linares,"Autos, camionetas y 4x4",46,224,False,False,False,False,True
+Chery,Arrizo5,2023,77024,Usado,Blanco,7490000,Metropolitana de Santiago,Las Condes,Sedán,6,37,False,False,False,False,True
+Ford,Explorer,2017,60000,Usado,Gris,18200000,Valparaíso,La Ligua,"Autos, camionetas y 4x4",18,118,False,False,False,False,False
+Mercedes-Benz,A 200,2017,104468,Usado,Negro,16490000,Metropolitana de Santiago,Vitacura,"Autos, Camionetas y 4x4",44,24,True,False,False,False,False
+Porsche,Macan,2017,75000,Usado,Blanco,28990000,Metropolitana de Santiago,Providencia,"Autos, camionetas y 4x4",49,183,False,False,False,False,True
+Haval,H6 GT,2024,23000,Usado,Negro,18500000,Metropolitana de Santiago,San Bernardo,"Autos, camionetas y 4x4",24,148,False,False,False,False,False
+Toyota,Rav4,2005,211625,Usado,Gris,4200000,Metropolitana de Santiago,Recoleta,"Autos, camionetas y 4x4",59,230,False,False,False,False,True
+Zxauto,Terralord,2021,33800,Usado,Azul,11350000,Araucanía,Angol,"Autos, camionetas y 4x4",63,267,True,False,False,False,True
+Nissan,X-Trail,2017,76084,Usado,Plata Plata,10690000,Los Ríos,Valdivia,"Autos, camionetas y 4x4",46,299,False,False,False,False,False
+Ford,Explorer,2016,113000,Usado,Gris,14500000,Tarapacá,Iquique,"Autos, camionetas y 4x4",18,118,False,False,False,False,False
+Toyota,Rav4,2019,166000,Usado,Rojo,12500000,Bío Bío,Yumbel,"Autos, camionetas y 4x4",59,230,False,False,False,False,False
+Renault,Captur,2018,230000,Usado,Azul,8300000,Metropolitana de Santiago,Puente Alto,"Autos, camionetas y 4x4",52,66,True,False,False,False,True
+Renault,Mégane,2001,200000,Usado,Verde,2500000,Metropolitana de Santiago,Cerro Navia,"Autos, camionetas y 4x4",52,202,False,False,False,False,True
+Mitsubishi,Asx,2019,78000,Usado,Negro,11000000,Metropolitana de Santiago,La Florida,"Autos, camionetas y 4x4",45,39,False,False,False,False,True
+Fiat,Fiorino,2018,160000,Usado,Blanco,4750000,Valparaíso,Concón,"Autos, camionetas y 4x4",17,122,False,False,False,False,True
+Fiat,Marea,1998,85000,Usado,Blanco,2490000,Valparaíso,La Calera,"Autos, Camionetas y 4x4",17,185,False,False,False,False,True
+Chevrolet,Tracker,2022,51813,Usado,Blanco,10590000,Metropolitana de Santiago,Santiago,"Autos, Camionetas y 4x4",7,277,False,False,False,False,True
+Haval,Jolion,2023,13253,Usado,Azul,14790000,Araucanía,Temuco,"Autos, Camionetas y 4x4",24,163,False,False,False,False,False
+Kia,Morning,2018,60032,Usado,Blanco,6980000,Metropolitana de Santiago,Macul,"Autos, camionetas y 4x4",35,200,False,False,False,False,True
+Suzuki,Swift,2016,96000,Usado,Gris,7480000,Metropolitana de Santiago,San Miguel,"Autos, Camionetas y 4x4",58,260,False,False,False,False,True
+Mercedes-Benz,300 E,1990,214400,Usado,Azul,9190000,Metropolitana de Santiago,La Florida,"Autos, camionetas y 4x4",44,10,False,False,False,False,False
+Chevrolet,Captiva,2010,188888,Usado,Bordo,6500000,Metropolitana de Santiago,Recoleta,"Autos, camionetas y 4x4",7,65,True,False,False,False,False
+Mazda,Cx-5,2023,43000,Usado,Blanco,26490000,Metropolitana de Santiago,Lo Barnechea,"Autos, camionetas y 4x4",43,96,False,False,False,False,False
+Dodge,Journey,2018,55909,Usado,Rojo,11500000,Valparaíso,Cartagena,"Autos, camionetas y 4x4",13,164,False,False,False,False,False
+Honda,Fit,2007,192638,Usado,Gris,4700000,Valparaíso,Villa Alemana,"Autos, camionetas y 4x4",25,123,False,False,False,False,True
+Dodge,Journey,2015,84000,Usado,Negro,9900000,Metropolitana de Santiago,Las Condes,"Autos, camionetas y 4x4",13,164,False,False,False,False,False
+Honda,Hr-V,2020,45695,Usado,Blanco,15000000,Valparaíso,Valparaiso,"Autos, camionetas y 4x4",25,153,False,False,False,False,False
+BMW,X6,2017,145000,Usado,Blanco,29000000,Los Lagos,Puerto Varas,"Autos, camionetas y 4x4",2,308,True,False,False,False,False
+Toyota,Corolla,2009,223000,Usado,Plata,4800000,Metropolitana de Santiago,Lo Barnechea,"Autos, camionetas y 4x4",59,82,False,False,False,False,True
+Dongfeng,Ax4,2019,30069,Usado,Blanco,6800000,Metropolitana de Santiago,Ñuñoa,"Autos, camionetas y 4x4",14,43,False,False,False,False,False
+BMW,420,2021,16810,Usado,Blanco,38990000,Los Ríos,Valdivia,"Autos, Camionetas y 4x4",2,17,False,False,False,False,False
+Maxus,T90,2024,77000,Usado,Naranja,24990000,Araucanía,Temuco,"Autos, Camionetas y 4x4",42,265,True,False,False,False,False
+Chevrolet,Groove,2021,63000,Usado,Blanco,9800000,Metropolitana de Santiago,Pirque,"Autos, camionetas y 4x4",7,144,False,False,False,False,True
+Honda,Pilot,2017,81000,Usado,Azul,18500000,Metropolitana de Santiago,Vitacura,"Autos, camionetas y 4x4",25,217,False,False,False,False,False
+Volkswagen,Gol,2022,46700,Usado,BLANCO CANDY,8380000,Metropolitana de Santiago,Vitacura - LAS CONDES,"Autos, Camionetas y 4x4",60,135,False,False,False,False,True
+Jeep,Compass,2013,86000,Usado,Plata,10890000,Metropolitana de Santiago,Providencia,"Autos, camionetas y 4x4",31,78,False,False,False,False,False
+Suzuki,Vitara,2017,77691,Usado,Blanco,10290000,Metropolitana de Santiago,MAIPU,"Autos, Camionetas y 4x4",58,289,False,False,False,False,True
+Renault,Koleos,2021,35028,Usado,Gris Gris,17390000,Metropolitana de Santiago,Quilicura,Autos-vehículo,52,174,False,False,False,False,False
+Peugeot,3008,2023,6900,Usado,Blanco,19990000,Maule,Talca,Autos-vehículo,48,11,False,False,False,False,False
+Foton,Midi,2020,24000,Usado,Blanco,5880000,Metropolitana de Santiago,San Miguel,Autos-vehículo,19,195,False,False,False,False,False
+Toyota,Yaris Sport,2017,104200,Usado,Blanco,7990000,Metropolitana de Santiago,Lo Barnechea,Autos-vehículo,59,316,False,False,False,False,False
+Kia,Soluto,2023,68213,Usado,Blanco,9300000,Bío Bío,Los Ángeles,Autos-vehículo,35,248,False,False,False,False,False
+Geely,Azkarra,2022,12599,Usado,Plata Plata,14390000,Araucanía,Temuco,Autos-vehículo,21,45,False,False,False,False,False
+Toyota,Rav4,2021,10800,Usado,Grafito,18990000,Los Lagos,Puerto Montt,Autos-vehículo,59,230,False,False,False,False,False
+Nissan,Tiida,2017,119556,Usado,Gris,5390000,Metropolitana de Santiago,La Florida,Autos-vehículo,46,274,False,False,False,False,False
+Volkswagen,Voyage,2022,40000,Usado,Gris,7990000,Metropolitana de Santiago,La Florida,Autos-vehículo,60,291,False,False,False,False,False
+Hyundai,Tucson,2020,57000,Usado,Negro,15990000,Valparaíso,La Calera,Autos-vehículo,27,280,False,False,False,False,False
+Peugeot,2008,2017,80000,Usado,Rojo,9990000,Metropolitana de Santiago,Ñuñoa,Autos-vehículo,48,6,True,False,False,False,False
+SsangYong,Actyon Sports,2019,180000,Usado,Blanco,9200000,Metropolitana de Santiago,Providencia,Autos-vehículo,56,30,True,False,False,False,False
+Mazda,3,2016,89000,Usado,Plata,10950000,Metropolitana de Santiago,Ñuñoa,"Autos, camionetas y 4x4",43,8,False,False,False,False,False
+Kia,Sportage,2021,46000,Usado,Negro,17200000,Ñuble,Chillán,"Autos, camionetas y 4x4",35,256,True,False,False,False,True
+Nissan,X-Trail E-Power,2023,41200,Usado,Gris,29000000,Metropolitana de Santiago,Padre Hurtado,"Autos, camionetas y 4x4",46,300,False,False,True,False,False
+Renault,Captur,2020,80941,Usado,Azul,11790000,Araucanía,Temuco,"Autos, Camionetas y 4x4",52,66,True,False,False,False,True
+Citroën,Berlingo,2025,700,Usado,BLANCO,19990000,Metropolitana de Santiago,Colina,Autos-vehículo,8,48,True,False,False,False,True
+Baic,Cargo Van,2016,56000,Usado,Blanco,3500000,Los Lagos,Osorno,Autos-vehículo,3,67,False,False,False,False,True
+BMW,128,2021,56230,Usado,Gris,26980000,Metropolitana de Santiago,Providencia,Autos-vehículo,2,3,False,False,False,False,False
+Nissan,Kicks,2022,36115,Usado,Blanco Blanco,12890000,Metropolitana de Santiago,Huechuraba,Autos-vehículo,46,172,False,False,False,False,True
+Chevrolet,Cruze,2018,115000,Usado,Gris,7800000,Metropolitana de Santiago,La Florida,Autos-vehículo,7,91,False,False,False,False,False
+Chevrolet,Silverado,2019,127300,Usado,PLATEADO,23990000,Metropolitana de Santiago,Vitacura,Autos-vehículo,7,247,False,False,False,False,False
+Haval,Dargo,2024,13800,Usado,Blanco,22490000,Maule,Curicó,Autos-vehículo,24,101,False,False,False,False,False
+Citroën,C3 Aircross,2019,80000,Usado,Beige,17000000,Valparaíso,Algarrobo,Autos-vehículo,8,59,True,False,False,False,True
+Subaru,Forester,2019,105000,Usado,Azul,17000000,Metropolitana de Santiago,Padre Hurtado,Autos-vehículo,57,125,False,False,False,False,False
+Nissan,Navara,2017,137000,Usado,Negro,17000000,Metropolitana de Santiago,Las Condes,Autos-vehículo,46,204,True,False,False,False,True
+BMW,335,2016,86537,Usado,Plata,22500000,Metropolitana de Santiago,San Miguel,Autos-vehículo,2,15,False,False,False,False,False
+Peugeot,2008,2025,670,Usado,ROJO,17990000,Metropolitana de Santiago,Vitacura,Autos-vehículo,48,6,False,False,True,False,False
+Citroën,C4,2014,171188,Usado,Blanco,6400000,Los Lagos,Puerto Varas,Autos-vehículo,8,61,True,False,False,False,True
+Dfsk,500,2022,28000,Usado,Blanco,8800000,Los Lagos,Puerto Montt,Autos-vehículo,12,19,False,False,False,False,True
+Dfsk,500,2022,80000,Usado,Blanco,6490000,Los Lagos,Puerto Montt,Autos-vehículo,12,19,False,False,False,False,True
+Nissan,Navara,2020,60000,Usado,Blanco,15980000,Metropolitana de Santiago,Las Condes,"Autos, Camionetas y 4x4",46,204,True,False,False,False,True
+Honda,Civic,2008,229000,Usado,Gris,5500000,Metropolitana de Santiago,Santiago,"Autos, camionetas y 4x4",25,73,False,False,False,False,False
+Mazda,Cx-9,2011,165000,Usado,Plata,7800000,Metropolitana de Santiago,La Florida,"Autos, camionetas y 4x4",43,97,False,False,False,False,False
+Chevrolet,Sail,2022,11500,Usado,Azul,8200000,Metropolitana de Santiago,Padre Hurtado,"Autos, camionetas y 4x4",7,243,False,False,False,False,True
+MG,Mg5,2023,97405,Usado,Rojo Rojo,8190000,Bío Bío,Hualpén,"Autos, camionetas y 4x4",38,193,False,False,False,False,True
+Mitsubishi,Eclipse Cross,2019,48000,Usado,Rojo,14790000,Ñuble,Chillán,"Autos, camionetas y 4x4",45,111,False,False,False,False,False
+Suzuki,Jimny,2015,96000,Usado,Negro,7980000,Metropolitana de Santiago,la granja,"Autos, Camionetas y 4x4",58,161,False,False,False,False,True
+Land Rover,Range Rover Velar,2021,65000,Usado,Blanco,36900000,Valparaíso,Viña del Mar,"Autos, camionetas y 4x4",36,228,False,False,False,False,False
+Chery,Tiggo 8,2022,49031,Usado,Azul,13200000,Ñuble,Chillan Viejo,"Autos, Camionetas y 4x4",6,271,False,False,False,False,False
+Toyota,Yaris Sport,2021,31550,Usado,Gris,10000000,Los Lagos,Castro,"Autos, camionetas y 4x4",59,316,False,False,False,False,True
+Dodge,Caliber,2011,142000,Usado,Negro,5800000,Valparaíso,Viña del Mar,"Autos, camionetas y 4x4",13,64,False,False,False,False,False
+Volkswagen,Tiguan,2019,85000,Usado,Negro,18490000,Metropolitana de Santiago,San Bernardo,Autos-vehículo,60,273,False,False,False,False,False
+Suzuki,Grand Vitara,2014,126000,Usado,Gris,6950000,Valparaíso,Concón,"Autos, camionetas y 4x4",58,142,False,False,False,False,True
+Haval,H6,2019,95000,Usado,Rojo,9980000,Valparaíso,Viña del Mar,"Autos, camionetas y 4x4",24,147,False,False,False,False,False
+Mercedes-Benz,Gla 200,2019,79000,Usado,Blanco,18590000,Maule,Talca,"Autos, camionetas y 4x4",44,132,False,False,False,False,False
+Volvo,Xc40,2022,33500,Usado,Blanco,35100000,Los Lagos,Puerto Montt,"Autos, Camionetas y 4x4",61,312,False,False,False,False,False
+Citroën,C4 Cactus,2020,90000,Usado,Rojo,10900000,Metropolitana de Santiago,Las Condes,Autos-vehículo,8,62,True,False,False,False,False
+Great Wall,Haval,2018,68900,Usado,Gris,9890000,Metropolitana de Santiago,Huechuraba,Autos-vehículo,22,150,False,False,False,False,False
+Opel,Vivaro,2023,5700,Usado,Blanco,20500000,Metropolitana de Santiago,La Florida,Autos-vehículo,47,290,True,False,False,False,False
+Citroën,C3 Aircross,2018,57500,Usado,Beige,13490000,Metropolitana de Santiago,Vitacura,Autos-vehículo,8,59,True,False,False,False,False
+Nissan,Urvan,2023,8000,Usado,Blanco,24990000,Metropolitana de Santiago,Santiago,Autos-vehículo,46,282,True,False,False,False,False
+Suzuki,Swift,2020,85129,Usado,Blanco Blanco,7990000,Metropolitana de Santiago,Cerrillos,Autos-vehículo,58,260,False,False,False,False,False
+Peugeot,208,2019,82000,Usado,Blanco,8980000,Metropolitana de Santiago,Cerrillos,Autos-vehículo,48,7,True,False,False,False,False
+Jeep,Grand Cherokee,2022,37500,Usado,Blanco,37990000,Metropolitana de Santiago,Vitacura,Autos-vehículo,31,138,False,False,False,False,False
+Toyota,Hilux,2022,75940,Usado,Rojo,25800000,Metropolitana de Santiago,San Joaquin,Autos-vehículo,59,152,True,False,False,False,False
+Chevrolet,Colorado,2021,49200,Usado,Rojo,19980000,Metropolitana de Santiago,Lo Barnechea,Autos-vehículo,7,76,True,False,False,False,False
+Peugeot,3008,2020,79659,Usado,Plata,17990000,Metropolitana de Santiago,Huechuraba,Autos-vehículo,48,11,True,False,False,False,False
+Chevrolet,D-Max,2018,134274,Usado,Blanco,9900000,Metropolitana de Santiago,Providencia,Autos-vehículo,7,99,True,False,False,False,False
+Chery,Tiggo 8 Pro,2023,5000,Usado,Grafito,19990000,Metropolitana de Santiago,Las Condes,Autos-vehículo,6,272,False,False,False,False,False
+Changan,Hunter,2023,20000,Usado,Gris,14800000,Metropolitana de Santiago,Las Condes,Autos-vehículo,5,154,True,False,False,False,False
+Jeep,Renegade,2017,80512,Usado,Negro,9790000,Metropolitana de Santiago,Huechuraba,Autos-vehículo,31,231,False,False,False,False,False
+SKODA,Kodiaq,2021,42000,Usado,Plata,20990000,Metropolitana de Santiago,La Reina,Autos-vehículo,53,173,False,False,False,False,False
+Citroën,C3,2013,125999,Usado,Negro,5200000,Bío Bío,San Pedro de la Paz,Autos-vehículo,8,58,False,False,False,False,False
+Fiat,500,2013,146000,Usado,Rojo,7490000,Metropolitana de Santiago,Santiago,Autos-vehículo,17,19,False,False,False,False,False
+Hyundai,Santa Fe,2019,54700,Usado,Plata,21990000,Metropolitana de Santiago,Las Condes,Autos-vehículo,27,244,True,False,False,False,False
+Subaru,Forester,2019,55000,Usado,Plata,15980000,Metropolitana de Santiago,Nuñoa,Autos-vehículo,57,125,False,False,False,False,False
+Renault,Clio,2023,6095,Usado,Naranja,13990000,Metropolitana de Santiago,Las Condes,Autos-vehículo,52,75,False,False,False,False,False
+Chevrolet,Sail,2015,142000,Usado,Azul,1700000,Metropolitana de Santiago,SANTIAGO,Autos-vehículo,7,243,False,False,False,False,False
+Citroën,C5 Aircross,2023,10400,Usado,Azul,25500000,Metropolitana de Santiago,Vitacura,Autos-vehículo,8,63,True,False,False,False,False
+Toyota,Corolla,2020,108803,Usado,Marrón Marrón,9490000,Los Ríos,Valdivia,Autos-vehículo,59,82,False,False,False,False,False
+Jeep,Patriot,2015,88200,Usado,Gris Gris,9990000,Araucanía,Temuco,Autos-vehículo,31,216,False,False,False,False,False
+Jeep,Wrangler,2014,149000,Usado,Rojo,18490000,Metropolitana de Santiago,Las Condes,Autos-vehículo,31,296,False,False,False,False,False
+Kia,Cerato,2018,104313,Usado,Plata,10690000,Metropolitana de Santiago,Maipú,"Autos, Camionetas y 4x4",35,70,False,False,False,False,True
+SsangYong,Korando,2019,58000,Usado,Blanco,9000000,Metropolitana de Santiago,Maipú,"Autos, camionetas y 4x4",56,175,False,False,False,False,True
+Citroën,Berlingo,2017,85000,Usado,Beige,8300000,Bío Bío,Los Ángeles,"Autos, camionetas y 4x4",8,48,True,False,False,False,True
+Kawasaki,Versys,2009,77000,Usado,Rojo,2300000,Valparaíso,Viña del Mar,"Autos, camionetas y 4x4",34,286,False,False,False,False,True
+Chevrolet,Captiva,2009,195000,Usado,Verde,5500000,Los Lagos,Castro,"Autos, camionetas y 4x4",7,65,True,False,False,False,True
+Audi,Q2,2018,88000,Usado,Blanco,17000000,Coquimbo,Illapel,"Autos, camionetas y 4x4",1,221,False,False,False,False,False
+Haval,H6,2019,62912,Usado,Blanco Blanco,11590000,Metropolitana de Santiago,Huechuraba,"Autos, camionetas y 4x4",24,147,False,False,False,False,False
+Kia,K3,2024,12149,Usado,Plata Plata,17990000,Metropolitana de Santiago,Cerrillos,"Autos, camionetas y 4x4",35,171,False,False,False,False,False
+Chevrolet,Silverado,2019,26500,Usado,Rojo,32000000,Metropolitana de Santiago,Vitacura,"Autos, camionetas y 4x4",7,247,False,False,False,False,False
+Renault,Clio,2021,105000,Usado,Blanco,8790000,Valparaíso,QUILPÚE,"Autos, Camionetas y 4x4",52,75,False,False,False,False,True
+BMW,X1,2019,74000,Usado,Negro,21990000,Metropolitana de Santiago,Providencia,SUV,2,301,True,False,False,False,False
+Volkswagen,Golf,2017,99200,Usado,Azul,16500000,Valparaíso,Algarrobo,"Autos, camionetas y 4x4",60,136,False,False,False,False,False
+Chevrolet,Blazer,2024,35000,Usado,Rojo,33000000,OHiggins,Rancagua,"Autos, camionetas y 4x4",7,51,False,False,False,False,False
+Mercedes-Benz,Glc 220,2020,79088,Usado,Gris,34990000,Metropolitana de Santiago,Lo Barnechea,"Autos, Camionetas y 4x4",44,134,True,False,False,False,False
+Toyota,Rav4,2017,124000,Usado,Azul,15000000,Metropolitana de Santiago,Buin,"Autos, camionetas y 4x4",59,230,False,False,False,False,False
+Renault,Koleos,2013,100000,Usado,Azul,8350000,Metropolitana de Santiago,Colina,"Autos, camionetas y 4x4",52,174,False,False,False,False,False
+Hyundai,Grand Santa Fe,2011,209000,Usado,Blanco,6900000,Metropolitana de Santiago,Maipú,"Autos, camionetas y 4x4",27,141,False,False,False,False,True
+Peugeot,308,2024,13,Usado,GRAFITO,21990000,Valparaíso,San Antonio,"Autos, Camionetas y 4x4",48,13,False,False,False,False,False
+Citroën,Berlingo,2021,139000,Usado,Blanco,10300000,Araucanía,Temuco,"Autos, camionetas y 4x4",8,48,True,False,False,False,True
+Volkswagen,T-Cross,2022,11893,Usado,Gris,12590000,Bío Bío,Hualpén,"Autos, Camionetas y 4x4",60,264,False,False,False,False,True
+Hyundai,Santa Fe,2012,76500,Usado,Plata,11980000,Metropolitana de Santiago,Ñuñoa,"Autos, camionetas y 4x4",27,244,False,False,False,False,False
+Chevrolet,Aveo,2009,146000,Usado,Blanco,2800000,Metropolitana de Santiago,La Granja,"Autos, camionetas y 4x4",7,42,False,False,False,False,False
+MG,Mg Zs,2021,56040,Usado,Rojo,11990000,Metropolitana de Santiago,Huechuraba,Sedan,38,191,False,False,False,False,False
+Land Rover,Range Rover Sport,2017,66000,Usado,Blanco,36990000,Bío Bío,Concepción,"Autos, Camionetas y 4x4",36,227,True,False,False,False,False
+MG,Mg6,2021,48000,Usado,Gris Gris,9290000,Los Lagos,Puerto Montt,"Autos, camionetas y 4x4",38,194,False,False,False,False,False
+Subaru,Crosstrek,2025,4200,Usado,Gris,21500000,Metropolitana de Santiago,Providencia,"Autos, camionetas y 4x4",57,90,False,False,False,False,False
+Chery,Tiggo 8,2021,74000,Usado,Blanco,9690000,Metropolitana de Santiago,Las Condes,"Autos, Camionetas y 4x4",6,271,False,False,False,False,True
+Chevrolet,Orlando,2016,120574,Usado,Blanco,7990000,Metropolitana de Santiago,Maipú,Autos-vehículo,7,210,False,False,False,False,False
+Haval,Jolion,2022,101017,Usado,Blanco,9990000,Metropolitana de Santiago,Cerrillos,"Autos, Camionetas y 4x4",24,163,False,False,False,False,False
+Citroën,C4,2023,9000,Usado,Blanco,21790000,Metropolitana de Santiago,La Reina,"Autos, camionetas y 4x4",8,61,False,False,False,False,False
+Ford,F-150,2015,132500,Usado,Negro,18980000,Metropolitana de Santiago,Vitacura,"Autos, Camionetas y 4x4",18,119,False,False,False,False,False
+Mazda,Bt-50,2022,54710,Usado,Azul,26490000,Los Lagos,Osorno,"Autos, Camionetas y 4x4",43,55,True,False,False,False,False
+Land Rover,Range Rover,2014,174000,Usado,Café,37790000,Metropolitana de Santiago,Huechuraba,"Autos, Camionetas y 4x4",36,226,True,False,False,False,False
+Kia,Sportage,2023,69050,Usado,Gris,22680000,Coquimbo,La Serena,Autos-vehículo,35,256,True,False,False,False,False
+Toyota,Yaris,2022,16000,Usado,Gris,11890000,Metropolitana de Santiago,Maipú,Autos-vehículo,59,315,False,False,False,False,False
+Chevrolet,Tracker,2021,81500,Usado,Plata,11390000,Metropolitana de Santiago,San Bernardo,Autos-vehículo,7,277,False,False,False,False,False
+Citroën,C3,2019,81045,Usado,Gris,11200000,Maule,Linares,Autos-vehículo,8,58,True,False,False,False,False
+Subaru,Legacy,2020,57100,Usado,Plata,23490000,Metropolitana de Santiago,Las Condes,Autos-vehículo,57,179,False,False,False,False,False
+Volvo,Xc60,2011,90000,Usado,Gris,9800000,Los Lagos,Osorno,Autos-vehículo,61,313,False,False,False,False,False
+Nissan,Qashqai,2021,19150,Usado,Plata Plata,12790000,Valparaíso,San Felipe,Autos-vehículo,46,224,False,False,False,False,False
+Chery,Tiggo,2018,67289,Usado,Gris,8590000,Metropolitana de Santiago,La Florida,Autos-vehículo,6,268,False,False,False,False,False
+Ram,Van 1000,2022,40000,Usado,Blanco,7990000,Maule,Talca,Autos-vehículo,50,284,True,False,False,False,False
+Mazda,3 Sport,2022,29850,Usado,Plata,16880000,Los Lagos,Osorno,Autos-vehículo,43,9,False,False,False,False,False
+Toyota,Hilux,2019,141831,Usado,Rojo,11480000,Metropolitana de Santiago,Providencia,Autos-vehículo,59,152,True,False,False,False,False
+Hyundai,Grand I10,2018,60000,Usado,Gris,6490000,Metropolitana de Santiago,Ñuñoa,Autos-vehículo,27,139,False,False,False,False,False
+Kia,Sonet,2021,71207,Usado,Gris,11990000,OHiggins,Rancagua,Autos-vehículo,35,249,False,False,False,False,False
+Subaru,Xv,2017,100,Usado,Blanco,12380000,Metropolitana de Santiago,Colina,Autos-vehículo,57,314,False,False,False,False,False
+Peugeot,5008,2022,84500,Usado,Gris,18390000,Valparaíso,Viña del Mar,Autos-vehículo,48,20,True,False,False,False,False
+Citroën,Jumper,2018,38904,Usado,Blanco,18980000,Metropolitana de Santiago,Las Condes,Autos-vehículo,8,170,True,False,False,False,False
+SsangYong,Rexton,2019,92500,Usado,Granate,20990000,Araucanía,Temuco,Autos-vehículo,56,232,True,False,False,False,False
+Ford,Edge,2021,52767,Usado,Gris,21990000,Metropolitana de Santiago,San Joaquín,Autos-vehículo,18,113,False,False,False,False,False
+Chevrolet,Tracker,2022,79000,Usado,Blanco Blanco,9490000,Bío Bío,Los Angeles,"Autos, camionetas y 4x4",7,277,False,False,False,False,True
+MG,Mg5,2013,114000,Usado,Blanco,4850000,Metropolitana de Santiago,Recoleta,"Autos, camionetas y 4x4",38,193,False,False,False,False,True
+Mercedes-Benz,E 200,2018,60792,Usado,Blanco,32570000,Metropolitana de Santiago,Vitacura,"Autos, Camionetas y 4x4",44,109,False,False,False,False,False
+Chevrolet,Colorado,2019,107357,Usado,Blanco,19233915,Los Lagos,Osorno,Pick Up,7,76,True,False,False,False,False
+Land Rover,Evoque,2020,57500,Usado,Plata,29990000,Metropolitana de Santiago,Vitacura,"Autos, Camionetas y 4x4",36,116,False,False,False,False,False
+Ford,Ranger,2019,101000,Usado,Rojo,18990000,Los Lagos,Puerto Montt,"Autos, Camionetas y 4x4",18,229,True,False,False,False,True
+JAC,Js2,2021,70000,Usado,Plata,7790000,Araucanía,Temuco,"Autos, Camionetas y 4x4",28,167,False,False,False,False,True
+Peugeot,208,2022,24500,Usado,Gris,12880000,Metropolitana de Santiago,Las Condes,"Autos, Camionetas y 4x4",48,7,True,False,False,False,True
+Dodge,Durango,2014,190000,Usado,Azul,12590000,Valparaíso,Villa Alemana,"Autos, Camionetas y 4x4",13,106,False,False,False,False,False
+Chevrolet,Trailblazer,2022,70300,Usado,NEGRO,23990000,Metropolitana de Santiago,La Reina,"Autos, Camionetas y 4x4",7,278,True,False,False,False,False
+Honda,Cr-V,2014,124776,Usado,Gris,9780000,Metropolitana de Santiago,Vitacura,"Autos, Camionetas y 4x4",25,86,False,False,False,False,False
+Ford,F-150,2010,145000,Usado,Naranja,17990000,Metropolitana de Santiago,Vitacura,"Autos, Camionetas y 4x4",18,119,False,False,False,False,False
+Mitsubishi,Montero,2017,122000,Usado,Gris,23990000,OHiggins,Rancagua,"Autos, Camionetas y 4x4",45,199,True,False,False,False,False
+JAC,Js3,2022,48000,Usado,Rojo,8900000,Metropolitana de Santiago,Maipú,"Autos, camionetas y 4x4",28,168,False,False,False,False,False
+Kia,Rio 5,2019,35000,Usado,Gris,11000000,Metropolitana de Santiago,Cerrillos,"Autos, camionetas y 4x4",35,236,False,False,False,False,True
+BMW,520,2013,86000,Usado,Gris,15500000,Metropolitana de Santiago,Macul,"Autos, camionetas y 4x4",2,21,False,False,False,False,False
+Jeep,Grand Cherokee,2022,44000,Usado,Negro,29900000,Metropolitana de Santiago,Las Condes,"Autos, camionetas y 4x4",31,138,False,False,False,False,False
+Opel,Mokka,2025,300,Usado,Rojo,18790000,Metropolitana de Santiago,Lo Barnechea,"Autos, Camionetas y 4x4",47,198,False,False,False,False,False
+BMW,120,2017,90500,Usado,Negro,19850000,Metropolitana de Santiago,Santiago,"Autos, camionetas y 4x4",2,2,False,False,False,False,False
+Peugeot,Partner,2019,170000,Usado,Blanco,8600000,Araucanía,Padre de las casas,"Autos, camionetas y 4x4",48,214,True,False,False,False,True
+Dodge,Durango,2014,166000,Usado,Negro,9300000,Metropolitana de Santiago,Colina,"Autos, camionetas y 4x4",13,106,False,False,False,False,False
+Baic,X35,2024,1700,Usado,BLANCO,9490000,Valparaíso,Quillota,"Autos, Camionetas y 4x4",3,305,False,False,False,False,True
+Opel,Astra,2015,107000,Usado,Blanco,6500000,Metropolitana de Santiago,La Florida,"Autos, camionetas y 4x4",47,38,False,False,False,False,False
+Toyota,Hilux,2021,100000,Usado,Gris,31800000,Metropolitana de Santiago,Las Condes,"Autos, camionetas y 4x4",59,152,True,False,False,False,False
+Subaru,Impreza,2018,62000,Usado,Blanco,12990000,Metropolitana de Santiago,Las Condes,"Autos, camionetas y 4x4",57,159,False,False,False,False,False
+Subaru,Forester,2021,31000,Usado,Verde,21500000,Valparaíso,Viña del Mar,"Autos, camionetas y 4x4",57,125,False,False,False,False,False
+Chevrolet,Onix,2019,128000,Usado,Negro,7100000,Metropolitana de Santiago,Santiago,"Autos, camionetas y 4x4",7,209,False,False,False,False,True
+Chevrolet,Tracker,2024,40300,Usado,Blanco,11490000,Araucanía,PADRE LAS CASAS,"Autos, Camionetas y 4x4",7,277,False,False,False,False,False
+Hummer,H2t,2006,119870,Usado,Azul,32990000,Metropolitana de Santiago,La Florida,"Autos, camionetas y 4x4",26,146,False,False,False,False,False
+Subaru,Xv,2020,129826,Usado,AZUL,13900000,Metropolitana de Santiago,Providencia,"Autos, Camionetas y 4x4",57,314,False,False,False,False,False
+Chevrolet,N400 Max,2024,19000,Usado,Blanco,9800000,Ñuble,Chillán,"Autos, camionetas y 4x4",7,203,False,False,False,False,True
+Subaru,Forester,2022,86738,Usado,PLATEADO,22790000,Metropolitana de Santiago,Las Condes,"Autos, Camionetas y 4x4",57,125,False,False,False,False,False
+Subaru,Crosstrek,2024,13628,Usado,Blanco,21380000,Metropolitana de Santiago,Nuñoa,SUV,57,90,False,False,False,False,False
+Ram,1500,2020,145042,Usado,Blanco,31990000,Araucanía,Temuco,"Autos, camionetas y 4x4",50,4,False,False,False,False,False
+Nissan,Armada,2010,100000,Usado,Beige,10300000,Los Lagos,Llanquihue,"Autos, camionetas y 4x4",46,35,False,False,False,False,False
+Chevrolet,Onix,2025,10,Usado,Blanco Blanco,11490000,Bío Bío,Concepción,"Autos, camionetas y 4x4",7,209,False,False,False,False,True
+Opel,Corsa,2022,17000,Usado,Rojo,12300000,Metropolitana de Santiago,Las Condes,"Autos, camionetas y 4x4",47,84,False,False,False,False,False
+Volkswagen,Atlas,2024,52000,Usado,GRIS,30990000,Metropolitana de Santiago,Lo Barnechea,"Autos, Camionetas y 4x4",60,40,False,False,False,False,False
+Daihatsu,Cuore,2001,157967,Usado,Azul,1800000,Metropolitana de Santiago,Maipú,"Autos, Camionetas y 4x4",10,94,False,False,False,False,True
+Nissan,Versa,2023,43424,Usado,Plata Plata,11090000,Los Ríos,Valdivia,"Autos, camionetas y 4x4",46,285,False,False,False,False,False
+Suzuki,Grand Vitara,2005,25000,Usado,Blanco,6500000,Maule,Linares,"Autos, camionetas y 4x4",58,142,False,False,False,False,True
+Kia,Rio 5,2019,37000,Usado,Blanco,12100000,Metropolitana de Santiago,Maipú,"Autos, camionetas y 4x4",35,236,False,False,False,False,True
+Gwm,Haval Jolion,2025,18000,Usado,Rojo,11990000,Coquimbo,Coquimbo - Ovalle,"Autos, Camionetas y 4x4",23,151,False,False,False,False,True
+Peugeot,308,2020,37000,Usado,Gris,15450000,Metropolitana de Santiago,Macul,"Autos, camionetas y 4x4",48,13,True,False,False,False,True
+Jeep,Commander,2007,168000,Usado,Gris,8000000,Valparaíso,Viña del Mar,"Autos, camionetas y 4x4",31,77,False,False,False,False,False
+MG,3,2021,56230,Usado,Azul,7290000,Metropolitana de Santiago,Lo Barnechea,"Autos, Camionetas y 4x4",38,8,False,False,False,False,False
+BMW,Serie 4,2020,56149,Usado,Negro,25000000,Metropolitana de Santiago,San Joaquín,"Autos, camionetas y 4x4",2,246,False,False,False,False,False
+MG,Zx,2022,52000,Usado,Negro,8000000,Metropolitana de Santiago,Quinta Normal,"Autos, camionetas y 4x4",38,318,False,False,False,False,False
+Mazda,Bt-50,2021,83000,Usado,Azul,21750000,Araucanía,Villarrica,"Autos, camionetas y 4x4",43,55,True,False,False,False,False
+Peugeot,3008,2016,165000,Usado,Negro,7900000,Metropolitana de Santiago,Maipú,"Autos, camionetas y 4x4",48,11,True,False,False,False,True
+Peugeot,208,2018,110000,Usado,Blanco,7100000,Coquimbo,Los vilos,"Autos, camionetas y 4x4",48,7,True,False,False,False,True
+Mazda,Cx-5,2014,188000,Usado,Gris,9190000,Metropolitana de Santiago,Las Condes,"Autos, camionetas y 4x4",43,96,False,False,False,False,False
+Toyota,Rav4,2017,188000,Usado,Gris,10950000,Valparaíso,Viña del Mar,"Autos, Camionetas y 4x4",59,230,False,False,False,False,False
+Suzuki,Grand Nomade,2007,150700,Usado,Gris,4800000,Metropolitana de Santiago,Ñuñoa,Autos-vehículo,58,140,False,False,False,False,True
+Subaru,Outback,2024,10000,Usado,Verde,33990000,Metropolitana de Santiago,Las Condes,Autos-vehículo,57,212,False,False,False,False,False
+Mazda,Cx-9,2018,98000,Usado,Blanco,20980000,Metropolitana de Santiago,Las Condes,Autos-vehículo,43,97,False,False,False,False,False
+Foton,Midi Doble Cabina,2018,108000,Usado,Blanco,5000000,Bío Bío,Mulchén,Autos-vehículo,19,196,False,False,False,False,True
+Foton,Midi,2017,133224,Usado,Blanco,5000000,Metropolitana de Santiago,Maipú,Autos-vehículo,19,195,False,False,False,False,True
+Chery,Tiggo 8,2021,112300,Usado,Gris,11100000,Metropolitana de Santiago,Isla de Maipo,Autos-vehículo,6,271,False,False,False,False,False
+Ram,700,2024,24947,Usado,Blanco Blanco,11090000,Los Ríos,Valdivia,Autos-vehículo,50,23,False,False,False,False,True
+Kia,Rio 4,2015,175500,Usado,Gris,5800000,Metropolitana de Santiago,Pedro Aguirre Cerda,Autos-vehículo,35,235,False,False,False,False,True
+Kia,Soul,2010,195000,Usado,Negro,4300000,Valparaíso,Quilpué,Autos-vehículo,35,252,False,False,False,False,True
+Kia,Morning,2023,17800,Usado,Blanco,9390000,Metropolitana de Santiago,Maipú,Autos-vehículo,35,200,False,False,False,False,False
+Peugeot,2008,2021,55000,Usado,Blanco,10890000,Metropolitana de Santiago,Las Condes,Autos-vehículo,48,6,False,False,False,False,True
+Jaguar,F-Pace,2018,100000,Usado,Rojo,25990000,Araucanía,Temuco,Autos-vehículo,30,120,True,False,False,False,False
+Ford,Focus,2018,103000,Usado,Azul,10890000,Valparaíso,Valparaiso,Autos-vehículo,18,124,False,False,False,False,False
+Ford,Explorer,2023,50000,Usado,Plata,30990000,Bío Bío,Concepcion,"Autos, Camionetas y 4x4",18,118,False,False,False,False,False
+Jeep,Renegade,2022,72165,Usado,Blanco,12480000,Metropolitana de Santiago,Cerrillos,"Autos, Camionetas y 4x4",31,231,False,False,False,False,True
+Byd,Dolphin Mini,2025,16000,Usado,Amarillo,14980000,Valparaíso,Concón,"Autos, camionetas y 4x4",4,105,False,True,False,False,False
+Volkswagen,Taos,2023,25000,Usado,Plata,18490000,Metropolitana de Santiago,Las Condes,"Autos, Camionetas y 4x4",60,266,False,False,False,False,False
+Mitsubishi,Outlander,2018,88547,Usado,Rojo Rojo,12090000,Metropolitana de Santiago,San Joaquin,"Autos, camionetas y 4x4",45,213,False,False,False,False,False
+Jeep,Commander,2023,12372,Usado,Azul,29990000,Metropolitana de Santiago,Huechuraba,Sedan,31,77,False,False,False,False,False
+Nissan,Qashqai,2021,45000,Usado,Gris,17490000,Metropolitana de Santiago,Las Condes,"Autos, Camionetas y 4x4",46,224,False,False,False,False,False
+MINI,Cooper,2022,29800,Usado,Verde,21780000,Metropolitana de Santiago,Vitacura,"Autos, Camionetas y 4x4",39,80,False,False,False,False,False
+SKODA,Yeti,2014,144000,Usado,Grafito,7990000,Metropolitana de Santiago,Lo Barnechea,Autos-vehículo,53,317,True,False,False,False,False
+Chevrolet,D-Max,2020,83700,Usado,Rojo,13400000,Atacama,Copiapó,Autos-vehículo,7,99,True,False,False,False,False
+Nissan,Kicks,2020,16900,Usado,Plata Plata,12090000,Metropolitana de Santiago,La Dehesa,Autos-vehículo,46,172,False,False,False,False,False
+Suzuki,Jimny,2022,15185,Usado,Verde,14990000,Los Lagos,Puerto Montt,Autos-vehículo,58,161,False,False,False,False,False
+Gac Motor,Gs4,2022,32000,Usado,Negro,9490000,Metropolitana de Santiago,Providencia,Autos-vehículo,20,145,False,False,False,False,False
+Seat,Arona,2021,48013,Usado,Plata Plata,11490000,Araucanía,Temuco,Autos-vehículo,54,36,False,False,False,False,False
+Volkswagen,Nivus,2023,14165,Usado,Marrón Marrón,14890000,Metropolitana de Santiago,Huechuraba,Autos-vehículo,60,206,False,False,False,False,False
+Citroën,C-Elysee,2022,29000,Usado,Gris,9900000,Metropolitana de Santiago,Maipú,Autos-vehículo,8,57,False,False,False,False,False
+Kia,Sorento,2012,104000,Usado,Plata,8980000,Metropolitana de Santiago,Las Condes,Autos-vehículo,35,251,False,False,False,False,False
+Chevrolet,Spark Gt,2021,69774,Usado,Plata Plata,6690000,Bío Bío,Los Angeles,Autos-vehículo,7,254,False,False,False,False,False
+Suzuki,Swift,2016,136000,Usado,Negro,6690000,Metropolitana de Santiago,Chicureo,Autos-vehículo,58,260,False,False,False,False,False
+Hyundai,Accent Prime,2024,31000,Usado,Rojo,12190000,Coquimbo,La Serena,"Autos, camionetas y 4x4",27,29,False,False,False,False,False
+Honda,Cr-V,2020,32000,Usado,Plata,19000000,Metropolitana de Santiago,Providencia,"Autos, camionetas y 4x4",25,86,False,False,False,False,False
+Jeep,Patriot,2016,121700,Usado,Gris,10290000,Maule,Curicó,"Autos, Camionetas y 4x4",31,216,False,False,False,False,False
+Toyota,Yaris,2022,1500,Usado,Plata,12990000,Coquimbo,La Serena,"Autos, camionetas y 4x4",59,315,False,False,False,False,True
+Kia,Sonet,2022,32000,Usado,Gris,13790000,Metropolitana de Santiago,Las Condes,"Autos, Camionetas y 4x4",35,249,False,False,False,False,True
+Suzuki,Baleno,2019,117000,Usado,Blanco,7800000,OHiggins,Rancagua,"Autos, camionetas y 4x4",58,47,False,False,False,False,True
+Ford,Escape,2017,83000,Usado,Blanco,16000000,Metropolitana de Santiago,Las Condes,"Autos, camionetas y 4x4",18,115,False,False,False,False,False
+Hyundai,Grand I10,2022,42000,Usado,Rojo,8500000,Metropolitana de Santiago,Providencia,"Autos, camionetas y 4x4",27,139,False,False,False,False,True
+MG,Mg3,2021,47702,Usado,Blanco Blanco,8190000,Metropolitana de Santiago,La Florida,"Autos, camionetas y 4x4",38,192,False,False,False,False,False
+Hyundai,Elantra,2012,165000,Usado,Plata,5800000,Valparaíso,Concón,"Autos, camionetas y 4x4",27,114,False,False,False,False,False
+Volkswagen,Voyage,2021,94500,Usado,Gris,6800000,Los Lagos,Osorno,"Autos, camionetas y 4x4",60,291,False,False,False,False,True
+Nissan,Np300,2018,200000,Usado,Gris,17250000,Araucanía,Pucón,"Autos, camionetas y 4x4",46,207,True,False,False,False,False
+Subaru,Outback,2021,45000,Usado,Gris,21890000,OHiggins,Rancagua,"Autos, camionetas y 4x4",57,212,False,False,False,False,False
+SsangYong,Korando,2022,31400,Usado,Negro,16990000,Araucanía,Temuco,"Autos, Camionetas y 4x4",56,175,True,False,False,False,True
+Toyota,Auris,2013,160000,Usado,Azul,6500000,Atacama,Copiapó,"Autos, camionetas y 4x4",59,41,False,False,False,False,True
+Mercedes-Benz,Clase Glc,2022,83600,Usado,Blanco,36970000,Los Lagos,OSORNO,"Autos, Camionetas y 4x4",44,74,True,False,False,False,False
+Kia,Morning,2016,108000,Usado,Gris,5650000,Metropolitana de Santiago,La Florida,"Autos, camionetas y 4x4",35,200,False,False,False,False,True
+Mazda,Cx-5,2014,170000,Usado,Rojo,9680000,Metropolitana de Santiago,Santiago,"Autos, camionetas y 4x4",43,96,False,False,False,False,False
+Chevrolet,N400 Max,2024,20806,Usado,Blanco,9490000,Metropolitana de Santiago,Vitacura,"Autos, Camionetas y 4x4",7,203,False,False,False,False,True
+Volvo,C30,2013,112000,Usado,Azul,6000000,Bío Bío,Concepción,"Autos, camionetas y 4x4",61,60,False,False,False,False,True
+Volkswagen,Touareg,2015,160000,Usado,Blanco,25400000,Metropolitana de Santiago,Colina,"Autos, camionetas y 4x4",60,276,True,False,False,False,False
+Lexus,Ls,2009,74000,Usado,Negro,19000000,Metropolitana de Santiago,El Monte,"Autos, camionetas y 4x4",37,181,False,False,False,False,False
+Mercedes-Benz,E 200,2015,86000,Usado,Azul,15800000,Metropolitana de Santiago,Santiago,"Autos, camionetas y 4x4",44,109,False,False,False,False,False
+Alfa Romeo,Giulia,2021,40900,Usado,Negro,28900000,Metropolitana de Santiago,Vitacura,"Autos, Camionetas y 4x4",0,131,False,False,False,False,False
+Ram,700,2025,16,Usado,Blanco,16641000,Metropolitana de Santiago,Las Condes,"Autos, Camionetas y 4x4",50,23,False,False,False,False,False
+Kia,Rio 4,2023,22000,Usado,Blanco,11890000,Valparaíso,Concón,Sedán,35,235,False,False,False,False,True
+Nissan,X-Trail,2023,35000,Usado,Plata,21990000,Bío Bío,Los Angeles,"Autos, Camionetas y 4x4",46,299,False,False,False,False,False
+BMW,X1,2015,112000,Usado,Plata,11000000,Metropolitana de Santiago,Huechuraba,"Autos, camionetas y 4x4",2,301,False,False,False,False,False
+Peugeot,Boxer,2021,24000,Usado,Blanco,22500000,Metropolitana de Santiago,La Florida,"Autos, camionetas y 4x4",48,53,True,False,False,False,True
+Ford,Ecosport,2019,62000,Usado,Blanco,14000000,Aysén,Coihaique,"Autos, camionetas y 4x4",18,112,False,False,False,False,False
+Citroën,C3,2017,120000,Usado,Gris,7600000,Metropolitana de Santiago,Talagante,Autos-vehículo,8,58,True,False,False,False,False
+Mitsubishi,Eclipse Cross,2020,78000,Usado,Grafito,10980000,Metropolitana de Santiago,Vitacura,Autos-vehículo,45,111,False,False,False,False,False
+MINI,Cooper,2019,75000,Usado,Gris,15390000,Valparaíso,Los Andes,Autos-vehículo,39,80,True,False,False,False,False
+Hyundai,Santa Fe,2017,96000,Usado,Negro,13980000,Antofagasta,Antofagasta,Autos-vehículo,27,244,True,False,False,False,False
+Audi,A3,2017,51400,Usado,Plata,15450000,Metropolitana de Santiago,Las Condes,Autos-vehículo,1,25,False,False,False,False,False
+Audi,Q7,2017,146506,Usado,Gris,27900000,Metropolitana de Santiago,Las Condes,Autos-vehículo,1,223,True,False,False,False,False
+Subaru,Xv,2022,7800,Usado,Azul Azul,23390000,Metropolitana de Santiago,Quilicura,Autos-vehículo,57,314,False,False,False,False,False
+Citroën,C3,2014,163,Usado,Blanco,7300000,Araucanía,Padre de las casas,Autos-vehículo,8,58,False,False,False,False,False
+Ford,Explorer,2014,230000,Usado,Gris,9500000,Los Lagos,Calbuco,"Autos, camionetas y 4x4",18,118,False,False,False,False,False
+Renault,Oroch,2020,107633,Usado,Gris,9890000,Valparaíso,Viña del Mar,"Autos, Camionetas y 4x4",52,211,False,False,False,False,True
+Jmc,Vigus,2022,55440,Usado,GRIS,10900000,Bío Bío,Los Ángeles,"Autos, Camionetas y 4x4",33,287,True,False,False,False,True
+Dongfeng,Sx5,2022,35000,Usado,Blanco,8190000,Maule,Curicó,Station Wagon,14,262,False,False,False,False,True
+Chevrolet,Groove,2023,19368,Usado,Blanco Blanco,11890000,Metropolitana de Santiago,Macul,"Autos, camionetas y 4x4",7,144,False,False,False,False,True
+Mercedes-Benz,A 200,2017,51000,Usado,Azul,13900000,Metropolitana de Santiago,Peñaflor,"Autos, camionetas y 4x4",44,24,True,False,False,False,False
+Citroën,C-Elysee,2019,158000,Usado,Azul,8450000,Metropolitana de Santiago,Buin,"Autos, camionetas y 4x4",8,57,True,False,False,False,True
+Ford,Ecosport,2018,88929,Usado,BLANCO,8190000,Metropolitana de Santiago,San Joaquín,"Autos, Camionetas y 4x4",18,112,False,False,False,False,True
+Kia,Morning,2019,16000,Usado,Rojo,7500000,Valparaíso,Villa Alemana,"Autos, camionetas y 4x4",35,200,False,False,False,False,True
+Volvo,Xc60,2022,18100,Usado,Plata,32890000,Metropolitana de Santiago,Las Condes,"Autos, camionetas y 4x4",61,313,False,False,False,False,False
+Peugeot,301,2017,136000,Usado,Negro,8200000,OHiggins,San Vicente de Tagua Tagua,"Autos, camionetas y 4x4",48,12,True,False,False,False,True
+Ford,Explorer,2022,51500,Usado,Blanco,32890000,Valparaíso,Los Andes,"Autos, Camionetas y 4x4",18,118,False,False,False,False,False
+JAC,S3,2016,130000,Usado,Gris,8100000,Araucanía,Nueva Imperial,"Autos, camionetas y 4x4",28,241,False,False,False,False,True
+Range Rover,Evoque,2015,165000,Usado,Azul,19200000,Metropolitana de Santiago,Talagante,"Autos, camionetas y 4x4",51,116,False,False,False,False,False
+Ford,Explorer,2016,60000,Usado,Azul,16500000,Metropolitana de Santiago,Vitacura,"Autos, Camionetas y 4x4",18,118,False,False,False,False,False
+BMW,X5,2019,130000,Usado,Gris,29900000,Metropolitana de Santiago,Las Condes,"Autos, Camionetas y 4x4",2,307,True,False,False,False,False
+Ford,Maverick,2023,62000,Usado,Naranja,21950000,Metropolitana de Santiago,Las Condes,"Autos, Camionetas y 4x4",18,188,False,False,False,False,False
+Ford,Ranger,2013,174000,Usado,Rojo,9700000,Metropolitana de Santiago,Providencia,"Autos, camionetas y 4x4",18,229,True,False,False,False,True
+Suzuki,Swift,2013,140000,Usado,Blanco,7200000,Bío Bío,Concepción,"Autos, camionetas y 4x4",58,260,False,False,False,False,True
+BMW,X3,2011,140000,Usado,Rojo,10200000,Araucanía,Temuco,"Autos, camionetas y 4x4",2,303,False,False,False,False,False
+Toyota,Prius C,2021,87637,Usado,Plata,11900000,Metropolitana de Santiago,vitacura,"Autos, Camionetas y 4x4",59,220,False,False,True,False,False
+SsangYong,Rexton,2018,89109,Usado,Gris,13500000,Coquimbo,Coquimbo,"Autos, camionetas y 4x4",56,232,False,False,False,False,False
+Hyundai,I30,2011,165000,Usado,Blanco,5150000,Metropolitana de Santiago,Santiago,"Autos, camionetas y 4x4",27,156,False,False,False,False,True
+Mitsubishi,Lancer,2018,54300,Usado,Gris,9990000,Valparaíso,Quillota,Autos-vehículo,45,177,False,False,False,False,False
+Peugeot,3008,2024,5,Usado,Gris,23590000,Metropolitana de Santiago,Huechuraba,Autos-vehículo,48,11,False,False,False,False,False
+Volkswagen,Amarok,2020,162542,Usado,Plata,16900000,Valparaíso,El Belloto,Autos-vehículo,60,33,True,False,False,False,False
+Land Rover,Discovery Sport,2018,58500,Usado,Blanco,17890000,Metropolitana de Santiago,Las Condes,Autos-vehículo,36,103,False,False,False,False,False
+BMW,530,2018,110000,Usado,Gris,29990000,Maule,Talca,Autos-vehículo,2,22,True,False,False,False,False
+Honda,Hr-V,2022,40900,Usado,Blanco,15890000,OHiggins,Rancagua,Autos-vehículo,25,153,False,False,False,False,False
+Toyota,Fortuner,2022,23000,Usado,Grafito,36800000,Metropolitana de Santiago,Vitacura,Autos-vehículo,59,127,True,False,False,False,False
+Mitsubishi,Eclipse Cross,2021,33000,Usado,Blanco,14980000,Metropolitana de Santiago,Las Condes,Autos-vehículo,45,111,False,False,False,False,False
+MG,3,2022,22400,Usado,Blanco,7980000,OHiggins,Rancagua,Autos-vehículo,38,8,False,False,False,False,False
+MG,Mg5,2022,84792,Usado,Blanco,8490000,Bío Bío,Hualpén,Autos-vehículo,38,193,False,False,False,False,False
+Chevrolet,Sail,2024,1,Usado,Blanco,10790000,Valparaíso,Viña del Mar,Autos-vehículo,7,243,False,False,False,False,False
+Jac,Js2,2022,30000,Usado,Rojo Rojo,8490000,Ñuble,Chillán,Autos-vehículo,29,167,False,False,False,False,False
+Peugeot,2008,2017,79000,Usado,Rojo,9990000,Metropolitana de Santiago,Huechuraba,Autos-vehículo,48,6,False,False,False,False,False
+Volkswagen,Virtus,2024,11000,Usado,Blanco,17190000,Metropolitana de Santiago,Las Condes,Autos-vehículo,60,288,False,False,False,False,False
+MG,Rx5,2022,34000,Usado,Blanco,10480000,Bío Bío,Los Angeles,Autos-vehículo,38,238,False,False,False,False,False
+MG,Mg3,2023,14000,Usado,Blanco,9490000,Metropolitana de Santiago,Cerrillos,Autos-vehículo,38,192,False,False,False,False,False
+MG,Mg Rx5,2022,79000,Usado,Plata Plata,10590000,Metropolitana de Santiago,Macul,Autos-vehículo,38,190,False,False,False,False,False
+Kia,Frontier,2018,170169,Usado,Blanco,11590000,Araucanía,Temuco,Autos-vehículo,35,128,True,False,False,False,False
+JAC,S3,2017,97200,Usado,Grafito,6990000,Bío Bío,CONCEPCION,Autos-vehículo,28,241,False,False,False,False,False
+Chevrolet,Sail,2021,96000,Usado,Blanco,7990000,Metropolitana de Santiago,Huechuraba,Autos-vehículo,7,243,False,False,False,False,False
+Toyota,Rush,2023,11716,Usado,Rojo Rojo,14290000,Metropolitana de Santiago,Providencia,Autos-vehículo,59,237,False,False,False,False,False
+Ford,Explorer,2022,35771,Usado,Negro Negro,30990000,Metropolitana de Santiago,Vitacura,Autos-vehículo,18,118,False,False,False,False,False
+Haval,H6,2024,20084,Usado,Plata,21590000,Metropolitana de Santiago,MAIPU,Autos-vehículo,24,147,False,False,True,False,False
+Jetour,Dashing,2023,27000,Usado,Negro,14790000,Metropolitana de Santiago,Huechuraba,Autos-vehículo,32,102,False,False,False,False,False
+Nissan,Qashqai,2013,135000,Usado,Grafito,6950000,Metropolitana de Santiago,La Florida,Autos-vehículo,46,224,False,False,False,False,False
+Renault,Oroch,2021,90000,Usado,Blanco,8990000,Metropolitana de Santiago,Santiago,Autos-vehículo,52,211,False,False,False,False,False
+Ram,1000,2023,5100,Usado,Blanco,9890000,Metropolitana de Santiago,Vitacura,Autos-vehículo,50,0,True,False,False,False,False
+SsangYong,Tivoli,2018,85000,Usado,Blanco,10190000,Maule,Talca,Autos-vehículo,56,275,False,False,False,False,False
+Nissan,X-Trail,2009,198000,Usado,Plata,5980000,Metropolitana de Santiago,Santiago,Autos-vehículo,46,299,False,False,False,False,False
+Faw,D60,2019,71170,Usado,Bronce,5990000,Araucanía,Temuco,Autos-vehículo,16,100,False,False,False,False,False
+Chevrolet,Suburban,2013,181000,Usado,Plata,13490000,Metropolitana de Santiago,Santiago,Autos-vehículo,7,259,False,False,False,False,False
+Toyota,Corolla Cross,2023,50763,Usado,Marrón Marrón,16090000,Metropolitana de Santiago,vitacura,Autos-vehículo,59,83,False,False,False,False,False
+Zna,Rich,2021,167907,Usado,Plata Plata,8590000,Metropolitana de Santiago,Vitacura,Autos-vehículo,62,233,True,False,False,False,False
+Mazda,3 Sport,2014,95000,Usado,Negro,7900000,Valparaíso,Viña del Mar,"Autos, camionetas y 4x4",43,9,False,False,False,False,True
+Ford,F-150,2018,111000,Usado,Negro,24000000,Valparaíso,Viña Del Mar,"Autos, camionetas y 4x4",18,119,False,False,False,False,False
+Toyota,Rush,2022,25000,Usado,Plata,13400000,Metropolitana de Santiago,Buin,"Autos, camionetas y 4x4",59,237,False,False,False,False,False
+Kia,Rio 4,2023,14000,Usado,Blanco,11780000,Metropolitana de Santiago,Nuñoa,Sedán,35,235,False,False,False,False,True
+Renault,Megane III,2015,160880,Usado,Gris,8900000,Los Ríos,Rio Bueno,"Autos, Camionetas y 4x4",52,189,False,False,False,False,False
+Kia,Morning,2021,74200,Usado,Rojo,7790000,Araucanía,Temuco,"Autos, Camionetas y 4x4",35,200,False,False,False,False,False
+Peugeot,Partner,2018,65000,Usado,Blanco,7500000,Metropolitana de Santiago,Macul,"Autos, Camionetas y 4x4",48,214,True,False,False,False,False
+Opel,Mokka,2024,6000,Usado,Gris,19580000,Metropolitana de Santiago,Las Condes,"Autos, Camionetas y 4x4",47,198,True,False,False,False,False
+Citroën,Berlingo Multispace,2016,117750,Usado,Rojo,8200000,Metropolitana de Santiago,Maipú,"Autos, camionetas y 4x4",8,49,True,False,False,False,True
+SsangYong,Rexton,2022,23000,Usado,Gris,26990000,Metropolitana de Santiago,Las Condes,Autos-vehículo,56,232,True,False,False,False,False
+Jeep,Grand Cherokee,2020,50600,Usado,Blanco,31800000,Metropolitana de Santiago,Vitacura,Autos-vehículo,31,138,False,False,False,False,False
+Haval,Jolion,2021,20231,Usado,Negro,13780000,Metropolitana de Santiago,Vitacura,Autos-vehículo,24,163,False,False,False,False,False
+Land Rover,Discovery Sport,2020,62000,Usado,Blanco,24990000,Metropolitana de Santiago,Vitacura,Autos-vehículo,36,103,False,False,False,False,False
+Audi,A3,2021,35571,Usado,Gris,16990000,Bío Bío,Concepcion,Autos-vehículo,1,25,False,False,False,False,False
+Volkswagen,Gol,2022,9014,Usado,Negro,7990000,Maule,Curicó,Autos-vehículo,60,135,False,False,False,False,False
+Suzuki,Baleno,2021,78291,Usado,Blanco Blanco,10490000,Bío Bío,Concepción,Autos-vehículo,58,47,False,False,False,False,False
+Chevrolet,Silverado,2017,76000,Usado,Negro,29990000,Metropolitana de Santiago,Santiago,Autos-vehículo,7,247,False,False,False,False,False
+MINI,Cooper S 2.0 T,2015,102926,Usado,Rojo,13990000,Bío Bío,Concepción,Autos-vehículo,39,81,False,False,False,False,False
+Mercedes-Benz,A 200,2021,39832,Usado,Gris,24690000,Bío Bío,Concepción,Autos-vehículo,44,24,True,False,False,False,False
+Jaguar,F-Pace,2018,62266,Usado,Blanco,29500000,Los Lagos,Osorno,Autos-vehículo,30,120,True,False,False,False,False
+Baic,X35,2021,37000,Usado,Gris,8490000,Valparaíso,Viña del Mar,Autos-vehículo,3,305,False,False,False,False,False
+Nissan,Versa,2021,54300,Usado,Grafito,10490000,OHiggins,San Fernando,Autos-vehículo,46,285,False,False,False,False,False
+Shineray,X30,2024,5000,Usado,Blanco,7366100,Metropolitana de Santiago,Ñuñoa,Autos-vehículo,55,304,False,False,False,False,False
+Citroën,C-Elysee,2022,29772,Usado,Marrón Marrón,9490000,Metropolitana de Santiago,La Florida,Autos-vehículo,8,57,False,False,False,False,False
+Opel,Crossland,2020,23500,Usado,Blanco,11790000,Metropolitana de Santiago,Maipú,Autos-vehículo,47,89,True,False,False,False,False
+BMW,118,2024,5600,Usado,Blanco,32970000,Metropolitana de Santiago,Las Condes,Autos-vehículo,2,1,False,False,False,False,False
+Chery,Tiggo 3,2022,20500,Usado,Azul,9980000,Metropolitana de Santiago,Las Condes,Autos-vehículo,6,270,False,False,False,True,False
+Honda,City,2019,95000,Usado,Blanco Blanco,8990000,Araucanía,Temuco,Autos-vehículo,25,72,False,False,False,False,False
+Volkswagen,Nivus,2023,10203,Usado,Blanco,17290000,Valparaíso,Viña del Mar,Autos-vehículo,60,206,False,False,False,False,False
+Chevrolet,Onix,2021,35000,Usado,Blanco,8690000,Metropolitana de Santiago,Ñuñoa,Autos-vehículo,7,209,False,False,False,False,False
+Dodge,Durango,2020,33100,Usado,Negro,26990000,Metropolitana de Santiago,Santiago,Autos-vehículo,13,106,False,False,False,False,False
+MG,HS,2023,1000,Usado,Azul Azul,13490000,Ñuble,Chillán,Autos-vehículo,38,149,False,False,False,False,False
+Land Rover,Range Rover Sport,2017,62695,Usado,Azul,34500000,Metropolitana de Santiago,Lo Barnechea,Autos-vehículo,36,227,False,False,False,False,False
+Seat,Ibiza,2023,2886,Usado,Rojo Rojo,13590000,Bío Bío,Concepción,Autos-vehículo,54,157,False,False,False,False,False
+Jac,Js8,2022,14500,Usado,Bordo,12190000,Los Lagos,puerto varas,Autos-vehículo,29,169,False,False,False,False,False
+Ford,F-150,2019,91626,Usado,Marrón Marrón,28390000,Bío Bío,Concepción,Autos-vehículo,18,119,False,False,False,False,False
+Audi,Q2,2022,37913,Usado,Blanco,24000000,Metropolitana de Santiago,Las Condes,Autos-vehículo,1,221,False,False,False,False,False
+Nissan,Qashqai,2024,352,Usado,Plata Plata,26990000,Metropolitana de Santiago,Providencia,Autos-vehículo,46,224,False,False,False,False,False
+Hyundai,Tucson,2022,40461,Usado,Plata,18290000,Metropolitana de Santiago,Macul,Autos-vehículo,27,280,False,False,False,False,False
+Alfa Romeo,Mito,2014,67000,Usado,Blanco,9990000,Araucanía,Temuco,Autos-vehículo,0,197,False,False,False,False,False
+Chevrolet,Spark,2021,98580,Usado,Blanco,6490000,Metropolitana de Santiago,Santiago,Autos-vehículo,7,253,False,False,False,False,False
+Chery,Tiggo 3,2021,75000,Usado,Blanco,8790000,Metropolitana de Santiago,Maipú,Autos-vehículo,6,270,False,False,False,False,False
+Geely,Coolray,2022,29684,Usado,Rojo Rojo,11590000,Maule,Talca,Autos-vehículo,21,79,False,False,False,False,False
+MINI,Cooper,2022,10300,Usado,Gris,30900000,Metropolitana de Santiago,Lo Barnechea,Autos-vehículo,39,80,False,True,False,False,False
+SsangYong,Stavic,2017,115000,Usado,Blanco,11670000,Metropolitana de Santiago,Santiago,"Autos, Camionetas y 4x4",56,258,True,False,False,False,False
+Haval,H6,2022,45000,Usado,Bordo,12485673,Metropolitana de Santiago,Las Condes,"Autos, camionetas y 4x4",24,147,False,False,False,False,False
+Volkswagen,Nivus,2022,23000,Usado,Gris,13490000,Araucanía,Temuco,Autos-vehículo,60,206,False,False,False,False,False
+Nissan,Qashqai,2012,208900,Usado,Blanco,4400000,Metropolitana de Santiago,La Reina,Autos-vehículo,46,224,False,False,False,False,False
+Land Rover,Evoque,2019,74000,Usado,Blanco,37990000,Metropolitana de Santiago,Lo Barnechea,Autos-vehículo,36,116,False,False,False,False,False
+Changan,Hunter,2022,47700,Usado,Blanco,14290000,Metropolitana de Santiago,Huechuraba,Autos-vehículo,5,154,True,False,False,False,False
+Suzuki,Ignis,2018,85500,Usado,Marrón Marrón,8690000,Los Lagos,Castro,Autos-vehículo,58,158,False,False,False,False,False
+BMW,X6,2018,66000,Usado,Blanco,35000000,Metropolitana de Santiago,Las Condes,Autos-vehículo,2,308,False,False,False,False,False
+Hyundai,Grand I10,2021,88000,Usado,Negro,6980000,Metropolitana de Santiago,Vitacura,Autos-vehículo,27,139,False,False,False,False,False
+Suzuki,S-Presso,2022,14500,Usado,Naranja,6690000,Valparaíso,San Antonio,Autos-vehículo,58,239,False,False,False,False,False
+Nissan,Qashqai,2020,26500,Usado,Plata Plata,11990000,Metropolitana de Santiago,VITACURA,Autos-vehículo,46,224,False,False,False,False,False
+Mitsubishi,Outlander,2016,74000,Usado,Negro,10500000,Metropolitana de Santiago,La Reina,Autos-vehículo,45,213,False,False,False,False,False
+Ford,F-150,2020,53000,Usado,Blanco,29990000,Maule,Curicó,Autos-vehículo,18,119,False,False,False,False,False
+Mazda,Bt-50,2022,103000,Usado,Grafito,22980000,Maule,Curicó,Autos-vehículo,43,55,True,False,False,False,False
+Ford,Edge,2019,92800,Usado,Gris,18590000,Metropolitana de Santiago,Vitacura,Autos-vehículo,18,113,False,False,False,False,False
+Baic,X25,2018,77352,Usado,Blanco,6990000,Bío Bío,CONCEPCION,Autos-vehículo,3,302,False,False,False,False,False
+Renault,Koleos,2016,90000,Usado,Gris,6490000,Metropolitana de Santiago,Vitacura,Autos-vehículo,52,174,False,False,False,False,False
+Jmc,Vigus,2023,52000,Usado,Beige,10500000,Metropolitana de Santiago,La Florida,"Autos, camionetas y 4x4",33,287,True,False,False,False,True
+Volkswagen,Tiguan,2022,65500,Usado,Gris,21990000,Metropolitana de Santiago,La Reina,"Autos, Camionetas y 4x4",60,273,False,False,False,False,False
+Haval,H6,2021,43000,Usado,Rojo,14900000,OHiggins,San Fernando,"Autos, camionetas y 4x4",24,147,False,False,False,False,False
+Ford,Bronco Sport,2022,95000,Usado,Azul,20990000,Bío Bío,Los Ángeles,"Autos, camionetas y 4x4",18,54,False,False,False,False,False
+Mitsubishi,Outlander,2015,186400,Usado,Blanco,7990000,Metropolitana de Santiago,Santiago,"Autos, Camionetas y 4x4",45,213,False,False,False,False,False
+Jeep,Grand Cherokee,2022,27535,Usado,Negro,32490000,Metropolitana de Santiago,Vitacura,"Autos, Camionetas y 4x4",31,138,False,False,False,False,False
+Peugeot,308,2012,158000,Usado,Gris,6000000,OHiggins,Nancagua,"Autos, camionetas y 4x4",48,13,False,False,False,False,False
+Subaru,Forester,2022,42300,Usado,Gris,23590000,Metropolitana de Santiago,Las Condes,Autos-vehículo,57,125,False,False,False,False,False
+Toyota,Corolla Cross,2023,40471,Usado,Gris,15900000,Bío Bío,Los Ángeles,Autos-vehículo,59,83,False,False,False,False,False
+Jac,S3,2022,22000,Usado,Plata,8990000,Maule,Talca,Autos-vehículo,29,241,False,False,False,False,False
+Ram,1500,2022,14500,Usado,Plata Plata,35990000,Bío Bío,Concepción,Autos-vehículo,50,4,False,False,False,False,False
+Chevrolet,Groove,2023,25000,Usado,Plata,13280000,Metropolitana de Santiago,La Reina,Autos-vehículo,7,144,False,False,False,False,False
+Chevrolet,Traverse,2021,57557,Usado,Negro Negro,23490000,Metropolitana de Santiago,Vitacura,"Autos, camionetas y 4x4",7,279,False,False,False,False,False
+Volkswagen,Tiguan,2012,105568,Usado,Gris,7990000,Los Lagos,Osorno,Sedan,60,273,False,False,False,False,False
+Citroën,C4 Cactus,2017,90900,Usado,Blanco,10900000,Valparaíso,Calle Larga,"Autos, camionetas y 4x4",8,62,True,False,False,False,False
+Volkswagen,Gol,2019,28911,Usado,Gris,6990000,Maule,Linares,"Autos, camionetas y 4x4",60,135,False,False,False,False,False
+Chevrolet,Spark Gt,2021,40084,Usado,Rojo Rojo,6690000,Metropolitana de Santiago,La florida,"Autos, camionetas y 4x4",7,254,False,False,False,False,False
+Citroën,C5 Aircross,2021,93000,Usado,Marrón Marrón,14190000,Metropolitana de Santiago,Maipú,"Autos, camionetas y 4x4",8,63,True,False,False,False,False
+Chevrolet,Tracker,2023,32000,Usado,Azul,10500000,Valparaíso,Valparaiso,"Autos, camionetas y 4x4",7,277,False,False,False,False,True
+Honda,Ridgeline,2019,62000,Usado,Gris Grafito,27880000,Metropolitana de Santiago,Vitacura,"Autos, Camionetas y 4x4",25,234,False,False,False,False,False
+Peugeot,Partner,2019,58911,Usado,Blanco,8800000,Metropolitana de Santiago,San Joaquin,"Autos, Camionetas y 4x4",48,214,True,False,False,False,True
+Chevrolet,Sail,2020,109670,Usado,Blanco Blanco,5790000,Metropolitana de Santiago,La Florida,"Autos, camionetas y 4x4",7,243,False,False,False,False,True
+Dodge,Journey,2018,114136,Usado,Gris Gris,11490000,Bío Bío,Los Angeles,"Autos, camionetas y 4x4",13,164,False,False,False,False,False
+Jeep,Wrangler,2015,150000,Usado,Rojo,24990000,Metropolitana de Santiago,Vitacura,"Autos, Camionetas y 4x4",31,296,False,False,False,False,False
+Citroën,Berlingo,2022,56130,Usado,BLANCO,10900000,Coquimbo,La serena,"Autos, Camionetas y 4x4",8,48,True,False,False,False,True
+Suzuki,Dzire,2020,97000,Usado,Plata,8490000,Coquimbo,La Serena,"Autos, Camionetas y 4x4",58,108,False,False,False,False,True
+Chevrolet,Spark Gt,2018,51436,Usado,Plata Plata,5390000,Metropolitana de Santiago,San Bernardo,"Autos, camionetas y 4x4",7,254,False,False,False,False,True
+Citroën,C3,2023,29621,Usado,Marrón Marrón,9490000,Ñuble,Chillán,"Autos, camionetas y 4x4",8,58,False,False,False,False,True
+Jac,Js2,2022,24600,Usado,ROJO BITONO,8590000,Antofagasta,Antofagasta,"Autos, Camionetas y 4x4",29,167,False,False,False,False,True
+Hyundai,Santa Fe,2024,25600,Usado,Negro,34990000,Los Lagos,Osorno,"Autos, Camionetas y 4x4",27,244,True,False,False,False,False
+Suzuki,Sx4 S-Cross,2010,138000,Usado,Negro,4500000,Araucanía,Villarrica,"Autos, camionetas y 4x4",58,261,False,False,False,False,True
+Ford,F-150,2015,70000,Usado,Azul,29500000,Maule,Linares,"Autos, camionetas y 4x4",18,119,False,False,False,False,False
+Fiat,Argo,2020,38983,Usado,Blanco Blanco,8180000,Metropolitana de Santiago,Cerrillos,"Autos, camionetas y 4x4",17,34,False,False,False,False,True
+Chery,Tiggo 2,2019,83375,Usado,Gris,5870000,Metropolitana de Santiago,San Miguel,"Autos, Camionetas y 4x4",6,269,False,False,False,False,True
+Toyota,Rav4,2023,39000,Usado,Blanco,30900000,Metropolitana de Santiago,Las Condes,"Autos, camionetas y 4x4",59,230,False,False,True,False,False
+Mercedes-Benz,X 250D,2019,71000,Usado,Azul,34900000,Bío Bío,Concepción,"Autos, camionetas y 4x4",44,298,True,False,False,False,False
+Ford,F-150,2013,210000,Usado,Rojo,19000000,OHiggins,Olivar,"Autos, camionetas y 4x4",18,119,False,False,False,False,False
+SsangYong,Rexton,2022,73400,Usado,Blanco,24490000,Los Lagos,Osorno,"Autos, Camionetas y 4x4",56,232,True,False,False,False,False
+Mazda,Cx-5,2024,25500,Usado,Plata,21990000,Metropolitana de Santiago,Las Condes,"Autos, camionetas y 4x4",43,96,False,False,False,False,False
+MG,One,2023,31000,Usado,Naranja,12890000,Metropolitana de Santiago,Las Condes,"Autos, Camionetas y 4x4",38,208,False,False,False,False,False
+Fiat,Uno,2021,69650,Usado,Negro,6790000,Coquimbo,Monte Patria,"Autos, camionetas y 4x4",17,281,False,False,False,False,True
+Toyota,Hilux,2012,197000,Usado,Rojo,10500000,OHiggins,Rancagua,"Autos, camionetas y 4x4",59,152,True,False,False,False,True
+SKODA,Kodiaq,2023,40000,Usado,Plata,22900000,Metropolitana de Santiago,Vitacura,"Autos, camionetas y 4x4",53,173,False,False,False,False,False
+Peugeot,Landtrek,2023,41000,Usado,Gris,19000000,Coquimbo,Vicuña,"Autos, camionetas y 4x4",48,178,True,False,False,False,True
+Citroën,C3,2012,200,Usado,Negro,3750000,Metropolitana de Santiago,Quilicura,"Autos, camionetas y 4x4",8,58,False,False,False,False,True
+Suzuki,Grand Vitara,2015,94000,Usado,Gris,10900000,Valparaíso,Los Andes,"Autos, camionetas y 4x4",58,142,False,False,False,False,False
+Citroën,C-Elysee,2019,80000,Usado,Gris,11900000,Los Lagos,Puerto Montt,"Autos, camionetas y 4x4",8,57,True,False,False,False,True
+Mitsubishi,L200,2022,110697,Usado,Blanco,15800000,Metropolitana de Santiago,San Joaquin,"Autos, Camionetas y 4x4",45,176,True,False,False,False,True
+Ford,F-150,2016,152000,Usado,Rojo,21800000,Atacama,Copiapó,"Autos, camionetas y 4x4",18,119,False,False,False,False,False
+Chevrolet,Captiva,2021,78000,Usado,Rojo,11890000,Valparaíso,Villa Alemana,"Autos, camionetas y 4x4",7,65,False,False,False,False,False
+Hyundai,Porter Hr,2012,155000,Usado,Blanco,8600000,Metropolitana de Santiago,Ñuñoa,"Autos, camionetas y 4x4",27,219,True,False,False,False,True
+Audi,Q5,2022,56000,Usado,Plata,36000000,Metropolitana de Santiago,Colina,"Autos, camionetas y 4x4",1,222,False,False,True,False,False
+Kia,Rio 4,2018,156000,Usado,Gris,7400000,Metropolitana de Santiago,Lampa,"Autos, camionetas y 4x4",35,235,False,False,False,False,True
+MINI,Countryman,2022,24000,Usado,Azul,30590000,Metropolitana de Santiago,Providencia,"Autos, camionetas y 4x4",39,85,False,False,True,False,False
+Peugeot,208,2022,53000,Usado,Blanco,9000000,Metropolitana de Santiago,Pudahuel,"Autos, camionetas y 4x4",48,7,False,False,False,False,True
+BMW,X3,2017,109000,Usado,Gris,25000000,OHiggins,Pichidegua,"Autos, camionetas y 4x4",2,303,True,False,False,False,False
+Citroën,C4 Cactus,2019,106000,Usado,Blanco,12800000,Metropolitana de Santiago,Maipú,"Autos, camionetas y 4x4",8,62,True,False,False,False,False
+Volvo,V40 1.6 T4 Comfort,2015,114000,Usado,Azul,11500000,Metropolitana de Santiago,Huechuraba,"Autos, camionetas y 4x4",61,283,False,False,False,False,False
+Kia,Frontier,2018,168000,Usado,Blanco,11800000,Metropolitana de Santiago,Colina,"Autos, camionetas y 4x4",35,128,True,False,False,False,True
+Nissan,X-Trail,2019,70000,Usado,Gris,12890000,Valparaíso,Concón,"Autos, camionetas y 4x4",46,299,False,False,False,False,False
+Faw,Besturn B50,2014,180000,Usado,Gris,3100000,Los Lagos,Puerto Montt,"Autos, camionetas y 4x4",16,50,False,False,False,False,True
+Kia,Sorento,2017,64880,Usado,Gris,13980000,Tarapacá,Iquique,Autos-vehículo,35,251,False,False,False,False,False
+Volkswagen,Polo,2022,22476,Usado,Blanco,11780000,Metropolitana de Santiago,La Florida,Autos-vehículo,60,218,False,False,False,False,False
+Hyundai,I20,2022,16400,Usado,Blanco,10480000,Coquimbo,La Serena,Autos-vehículo,27,155,False,False,False,False,False
+Chevrolet,Blazer,2022,25900,Usado,Rojo,10990000,Metropolitana de Santiago,Las Condes,Autos-vehículo,7,51,False,False,False,False,False
+Peugeot,308,2019,85350,Usado,Blanco,15990000,Metropolitana de Santiago,Las Condes,Autos-vehículo,48,13,True,False,False,False,False
+Changan,Cx70 Luxury 1.6,2023,19000,Usado,Negro,10990000,Valparaíso,QUILPÚE,Autos-vehículo,5,98,False,False,False,False,False
+Mitsubishi,L200,2021,87402,Usado,Blanco,15180000,Metropolitana de Santiago,Las Condes,Autos-vehículo,45,176,True,False,False,False,False
+Subaru,Xv,2023,18050,Usado,Gris Gris,20490000,Metropolitana de Santiago,Quilicura,Autos-vehículo,57,314,False,False,False,False,False
+Great Wall,Wingle 5,2020,98000,Usado,Blanco,7980000,Metropolitana de Santiago,la granja,"Autos, Camionetas y 4x4",22,294,True,False,False,False,True
+Hyundai,Creta,2017,95000,Usado,Blanco,9000000,Metropolitana de Santiago,San Joaquín,"Autos, camionetas y 4x4",27,87,False,False,False,False,True
+Mitsubishi,L200,2019,138000,Usado,Plata,19990000,Metropolitana de Santiago,Vitacura,"Autos, camionetas y 4x4",45,176,True,False,False,False,True
+Peugeot,Boxer,2024,50249,Usado,Blanco,24590000,Metropolitana de Santiago,Macul,"Autos, Camionetas y 4x4",48,53,True,False,False,False,True
+Kia,Sorento,2013,148400,Usado,Negro,9100000,Metropolitana de Santiago,Las Condes,"Autos, camionetas y 4x4",35,251,False,False,False,False,False
+Toyota,Rav4,2022,45110,Usado,Gris,18711246,Metropolitana de Santiago,Las Condes,"Autos, Camionetas y 4x4",59,230,False,False,False,False,True
+BMW,X1,2024,18000,Usado,Azul,37500000,Los Lagos,Puerto Montt,"Autos, camionetas y 4x4",2,301,False,False,False,False,False
+Jeep,Grand Cherokee,2018,72000,Usado,Plata,19600000,Metropolitana de Santiago,Las Condes,"Autos, camionetas y 4x4",31,138,False,False,False,False,False
+Range Rover,Evoque,2017,103000,Usado,Bronce,18000000,Metropolitana de Santiago,Las Condes,"Autos, camionetas y 4x4",51,116,False,False,False,False,False
+Ford,Ecosport,2019,113460,Usado,Blanco Blanco,8290000,Metropolitana de Santiago,San Bernardo,"Autos, camionetas y 4x4",18,112,False,False,False,False,True
+Opel,Grandland,2024,14310,Usado,Granate,18690000,Valparaíso,Viña del Mar,"Autos, Camionetas y 4x4",47,143,False,False,False,False,False
+Peugeot,208,2018,80180,Usado,Blanco,8200000,Metropolitana de Santiago,San Miguel,"Autos, camionetas y 4x4",48,7,True,False,False,False,True
+Jeep,Grand Cherokee,2014,124000,Usado,Negro,13990000,Metropolitana de Santiago,Lo Barnechea,"Autos, Camionetas y 4x4",31,138,False,False,False,False,False
+Mazda,Cx-3,2023,11000,Usado,Blanco,16500000,Metropolitana de Santiago,La Reina,"Autos, camionetas y 4x4",43,95,False,False,False,False,True
+Ford,F-150,2023,55000,Usado,BLANCO,38990000,Metropolitana de Santiago,La Reina,"Autos, Camionetas y 4x4",18,119,False,False,False,False,False
+Chevrolet,Colorado,2021,80000,Usado,Blanco,24000000,Los Ríos,Paillaco,"Autos, camionetas y 4x4",7,76,True,False,False,False,False
+Citroën,C-Elysee,2021,67000,Usado,Gris,7900000,Metropolitana de Santiago,La Florida,"Autos, camionetas y 4x4",8,57,True,False,False,False,True
+Hyundai,Tucson,2021,12970,Usado,Gris,16800000,Antofagasta,Antofagasta,"Autos, camionetas y 4x4",27,280,False,False,False,False,True
+Haval,H6,2022,31000,Usado,Azul,15990000,Metropolitana de Santiago,Las Condes,"Autos, Camionetas y 4x4",24,147,False,False,False,False,False
+Cupra,Formentor,2023,46093,Usado,Blanco,22700000,Metropolitana de Santiago,Las Condes,"Autos, camionetas y 4x4",9,126,False,False,False,False,False
+Hyundai,Santa Fe,2022,56853,Usado,Blanco,20780000,Metropolitana de Santiago,Vitacura,"Autos, Camionetas y 4x4",27,244,False,False,False,False,False
+BMW,418,2021,68000,Usado,Azul,22990000,Valparaíso,Valparaiso,"Autos, Camionetas y 4x4",2,16,False,False,False,False,False
+BMW,X5,2018,146000,Usado,Gris,23990000,Maule,Talca,"Autos, Camionetas y 4x4",2,307,True,False,False,False,False
+Maple,Maple 30X,2022,45800,Usado,Borgoña,13400000,Metropolitana de Santiago,Lo Barnechea,"Autos, Camionetas y 4x4",41,184,False,True,False,False,False
+Mercedes-Benz,B 200,2022,30573,Usado,Gris,27990000,Metropolitana de Santiago,Colina,"Autos, Camionetas y 4x4",44,46,False,False,False,False,False
+Fiat,Argo,2023,10,Usado,Blanco,11490000,Valparaíso,Viña del Mar,"Autos, Camionetas y 4x4",17,34,False,False,False,False,False
+Chery,Tiggo 2,2021,60000,Usado,Naranja,8480000,Metropolitana de Santiago,Las Condes,Autos-vehículo,6,269,False,False,False,False,False
+Volkswagen,Virtus,2022,28926,Usado,Blanco,10200000,Metropolitana de Santiago,Las Condes,Autos-vehículo,60,288,False,False,False,False,False
+Kia,Sorento,2017,109271,Usado,Gris Gris,13190000,Metropolitana de Santiago,Cerrillos,Autos-vehículo,35,251,False,False,False,False,False
+Peugeot,Partner,2024,1,Usado,Blanco Blanco,17190000,Metropolitana de Santiago,Macul,Autos-vehículo,48,214,True,False,False,False,False
+Suzuki,Jimny,2022,18477,Usado,Plata,14380000,Metropolitana de Santiago,Las Condes,Autos-vehículo,58,161,False,False,False,False,False
+BMW,X3,2019,57630,Usado,Blanco,33900000,Bío Bío,Concepción,Autos-vehículo,2,303,False,False,False,False,False
+Mazda,2,2016,82000,Usado,Gris,9980000,Metropolitana de Santiago,santiago,Autos-vehículo,43,5,False,False,False,False,False

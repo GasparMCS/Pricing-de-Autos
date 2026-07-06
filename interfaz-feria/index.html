@@ -1,0 +1,311 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>¿Tu auto está bien valorado? — UDP Data Science</title>
+<style>
+  :root{
+    --bg:#080d1a; --bg2:#0c1327;
+    --surface:#0f1730; --surface2:#131d3a; --surface3:#182444;
+    --line:#1f2c4d; --line2:#2a3a63;
+    --ink:#eaf0ff; --muted:#8a99c0; --muted2:#5f6f97;
+    --brand:#2f6bff; --brand-2:#4d84ff; --brand-glow:rgba(47,107,255,.35);
+    --green:#22c37a; --green-bg:rgba(34,195,122,.12);
+    --red:#ff5c66; --red-bg:rgba(255,92,102,.12);
+    --yellow:#f5c451; --yellow-bg:rgba(245,196,81,.12);
+    --radius:18px;
+    --font:'Segoe UI',system-ui,-apple-system,Roboto,Helvetica,Arial,sans-serif;
+  }
+  *{box-sizing:border-box}
+  html,body{margin:0}
+  body{
+    font-family:var(--font); color:var(--ink); min-height:100vh; padding:40px 16px;
+    background:
+      radial-gradient(1100px 500px at 50% -10%, rgba(47,107,255,.18), transparent 60%),
+      radial-gradient(800px 500px at 90% 10%, rgba(34,195,122,.10), transparent 55%),
+      linear-gradient(180deg, var(--bg) 0%, var(--bg2) 100%);
+    background-attachment:fixed;
+  }
+  .wrap{max-width:940px;margin:0 auto}
+
+  /* ── Encabezado ── */
+  header{text-align:center;margin-bottom:32px}
+  .logo{
+    width:64px;height:64px;margin:0 auto 18px;position:relative;
+    display:grid;place-items:center;border-radius:50%;
+    background:radial-gradient(circle at 50% 35%, rgba(47,107,255,.25), transparent 70%);
+  }
+  .logo svg{width:64px;height:64px;filter:drop-shadow(0 4px 14px var(--brand-glow))}
+  header .kicker{
+    display:inline-block;font-size:11px;letter-spacing:2.5px;text-transform:uppercase;
+    color:#a9c0ff;background:rgba(47,107,255,.12);padding:6px 15px;border-radius:999px;
+    border:1px solid rgba(77,132,255,.25);margin-bottom:16px;font-weight:600;
+  }
+  header h1{font-size:clamp(28px,4.5vw,44px);margin:0 0 12px;line-height:1.12;letter-spacing:-.5px}
+  header h1 .grad{background:linear-gradient(90deg,var(--brand-2),var(--green));
+    -webkit-background-clip:text;background-clip:text;-webkit-text-fill-color:transparent}
+  header p{color:var(--muted);max-width:560px;margin:0 auto;font-size:16px;line-height:1.6}
+
+  /* ── Barra estado modelo ── */
+  .modelbar{
+    font-size:13px;color:var(--muted);text-align:center;margin-bottom:20px;
+    padding:9px 14px;border:1px solid var(--line);border-radius:12px;
+    background:var(--surface);max-width:560px;margin-left:auto;margin-right:auto;
+  }
+  .modelbar code{background:var(--surface3);padding:1px 6px;border-radius:5px;color:#cdd8f5;font-size:12px}
+  .modelbar .ok{color:#6ee7a8;font-weight:600} .modelbar .warn{color:var(--yellow);font-weight:600}
+
+  /* ── Tarjeta ── */
+  .card{
+    background:linear-gradient(180deg, var(--surface) 0%, var(--bg2) 120%);
+    border:1px solid var(--line);border-radius:var(--radius);
+    box-shadow:0 24px 60px rgba(0,0,0,.45);
+    padding:30px;margin-bottom:22px;
+  }
+  .card h2{margin:0 0 4px;font-size:19px;letter-spacing:-.2px}
+  .card .sub{color:var(--muted);font-size:14px;margin:0 0 24px}
+
+  /* ── Formulario ── */
+  .grid{display:grid;grid-template-columns:repeat(2,1fr);gap:16px}
+  .field{display:flex;flex-direction:column;gap:7px}
+  .field.full{grid-column:1 / -1}
+  label{font-size:12.5px;font-weight:600;color:#b7c4e6;letter-spacing:.2px}
+  label .hint{font-weight:400;color:var(--muted2)}
+  select,input{
+    font-family:inherit;font-size:15px;padding:12px 13px;border:1.5px solid var(--line2);
+    border-radius:11px;background:var(--surface2);color:var(--ink);transition:.15s;width:100%;
+    appearance:none;
+  }
+  select{background-image:
+    url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='8' viewBox='0 0 12 8'%3E%3Cpath fill='%238a99c0' d='M1 1l5 5 5-5'/%3E%3C/svg%3E");
+    background-repeat:no-repeat;background-position:right 14px center;padding-right:36px;cursor:pointer}
+  select:focus,input:focus{outline:none;border-color:var(--brand);background:var(--surface3);
+    box-shadow:0 0 0 4px var(--brand-glow)}
+  select:disabled{opacity:.5;cursor:not-allowed}
+  input::placeholder{color:var(--muted2)}
+  option{background:var(--surface2);color:var(--ink)}
+
+  .segmented{display:flex;gap:6px;background:var(--surface2);padding:5px;border-radius:12px;border:1px solid var(--line)}
+  .segmented button{
+    flex:1;border:none;background:transparent;padding:11px;border-radius:8px;
+    font-family:inherit;font-size:14px;font-weight:600;color:var(--muted);cursor:pointer;transition:.18s;
+  }
+  .segmented button.active{background:linear-gradient(180deg,var(--brand),var(--brand-2));
+    color:#fff;box-shadow:0 6px 18px var(--brand-glow)}
+
+  .cta{
+    grid-column:1 / -1;margin-top:8px;border:none;cursor:pointer;
+    background:linear-gradient(180deg,var(--brand),var(--brand-2));color:#fff;
+    font-size:16.5px;font-weight:700;font-family:inherit;letter-spacing:.2px;
+    padding:16px;border-radius:13px;transition:.18s;box-shadow:0 10px 30px var(--brand-glow);
+  }
+  .cta:hover{transform:translateY(-1px);box-shadow:0 14px 38px var(--brand-glow)}
+  .cta:active{transform:translateY(0)}
+
+  /* ── Resultado ── */
+  #resultado{display:none}
+  #resultado.show{display:block;animation:fade .4s ease}
+  @keyframes fade{from{opacity:0;transform:translateY(10px)}to{opacity:1;transform:none}}
+
+  .verdict{display:flex;align-items:center;gap:18px;padding:22px;border-radius:15px;margin-bottom:24px;
+    border:1px solid transparent}
+  .verdict .emoji{font-size:44px;line-height:1}
+  .verdict h3{margin:0;font-size:23px;letter-spacing:-.3px}
+  .verdict p{margin:5px 0 0;font-size:14px;opacity:.92;line-height:1.5}
+  .v-green{background:var(--green-bg);border-color:rgba(34,195,122,.3);color:#7ff0b4}
+  .v-red{background:var(--red-bg);border-color:rgba(255,92,102,.3);color:#ff9ba1}
+  .v-yellow{background:var(--yellow-bg);border-color:rgba(245,196,81,.3);color:#f6d585}
+  .verdict h3{color:var(--ink)}
+
+  .prices{display:grid;grid-template-columns:repeat(3,1fr);gap:14px;margin-bottom:26px}
+  .price-box{background:var(--surface2);border:1px solid var(--line);border-radius:13px;padding:18px;text-align:center}
+  .price-box .plabel{font-size:11px;color:var(--muted);text-transform:uppercase;letter-spacing:.6px}
+  .price-box .pval{font-size:23px;font-weight:700;margin-top:8px;letter-spacing:-.5px}
+  .price-box.hl{border-color:var(--brand);background:linear-gradient(180deg,rgba(47,107,255,.14),var(--surface2));
+    box-shadow:inset 0 0 0 1px rgba(47,107,255,.2)}
+  .diff-pos{color:var(--red)} .diff-neg{color:var(--green)} .diff-neu{color:var(--yellow)}
+
+  /* ── Barra medidor ── */
+  .gauge-wrap{margin-bottom:6px}
+  .gauge-title{font-size:13px;font-weight:600;color:#b7c4e6;margin-bottom:12px}
+  .gauge{position:relative;height:24px;border-radius:999px;overflow:hidden;
+    box-shadow:inset 0 1px 3px rgba(0,0,0,.4);
+    background:linear-gradient(90deg,
+      var(--green) 0%,var(--green) 28%,
+      var(--yellow) 40%,var(--yellow) 60%,
+      var(--red) 72%,var(--red) 100%);}
+  .gauge .marker{position:absolute;top:50%;width:16px;height:16px;border-radius:50%;
+    background:#fff;border:3px solid var(--bg);transform:translate(-50%,-50%);
+    box-shadow:0 2px 8px rgba(0,0,0,.5);transition:left .5s cubic-bezier(.34,1.4,.5,1)}
+  .gauge-scale{display:flex;justify-content:space-between;font-size:11px;color:var(--muted2);margin-top:8px}
+  .gauge-legend{display:flex;flex-wrap:wrap;justify-content:center;gap:20px;font-size:12.5px;color:var(--muted);margin-top:16px}
+  .gauge-legend span{display:inline-flex;align-items:center;gap:7px}
+  .dot{width:11px;height:11px;border-radius:4px;display:inline-block}
+
+  /* ── Contribuciones (SHAP waterfall) ── */
+  .shap-wrap{margin-top:26px;padding-top:22px;border-top:1px solid var(--line)}
+  .shap-base{font-size:13px;color:var(--muted);margin-bottom:18px;line-height:1.55}
+  .shap-base b{color:#c3cff0}
+  .shap-row{display:grid;grid-template-columns:100px 1fr 64px;align-items:center;gap:10px;margin-bottom:11px}
+  .shap-name{font-size:13px;color:#b7c4e6;text-align:right;font-weight:600}
+  .shap-track{position:relative;height:18px;background:var(--surface2);border-radius:6px;border:1px solid var(--line)}
+  .shap-mid{position:absolute;left:50%;top:-3px;bottom:-3px;width:2px;background:var(--line2);transform:translateX(-50%)}
+  .shap-bar{position:absolute;top:2px;bottom:2px;border-radius:4px;transition:width .5s ease}
+  .shap-val{font-size:12.5px;font-weight:700;text-align:left}
+  .shap-help{font-size:12.5px;color:var(--muted2);margin-top:16px;line-height:1.55}
+
+  .note{font-size:13px;color:var(--muted);margin-top:22px;padding-top:20px;border-top:1px solid var(--line);line-height:1.65}
+  .note b{color:#c3cff0}
+
+  footer{text-align:center;color:var(--muted2);font-size:12px;margin-top:10px;line-height:1.8}
+  footer b{color:var(--muted)}
+
+  @media(max-width:640px){
+    .grid{grid-template-columns:1fr}
+    .prices{grid-template-columns:1fr}
+    .card{padding:22px}
+  }
+</style>
+</head>
+<body>
+<div class="wrap">
+
+  <header>
+    <div class="logo">
+      <svg viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <circle cx="32" cy="32" r="26" stroke="#2f6bff" stroke-width="5"/>
+        <path d="M22 33l7 7 15-16" stroke="#22c37a" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+      </svg>
+    </div>
+    <span class="kicker">UDP · Data Science · XGBoost</span>
+    <h1>¿Tu auto está <span class="grad">bien valorado</span>?</h1>
+    <p>Ingresa los datos del vehículo y el precio publicado. Nuestro modelo predice
+       su precio de mercado y te dice si está subvalorado, en precio justo o sobrevalorado.</p>
+  </header>
+
+  <div class="modelbar" id="modelbar">Cargando modelo…</div>
+
+  <div class="card">
+    <h2>Datos del vehículo</h2>
+    <p class="sub">Completa los campos y presiona <b>Evaluar</b>.</p>
+
+    <form id="form">
+      <div class="field full">
+        <label>¿Qué quieres hacer?</label>
+        <div class="segmented" id="modo">
+          <button type="button" data-modo="vender" class="active">Quiero vender este auto</button>
+          <button type="button" data-modo="comprar">Encontré este auto publicado</button>
+        </div>
+      </div>
+
+      <div class="grid">
+        <div class="field">
+          <label for="marca">Marca</label>
+          <select id="marca"><option value="">Selecciona…</option></select>
+        </div>
+        <div class="field">
+          <label for="modelo">Modelo</label>
+          <select id="modelo" disabled><option value="">Primero elige la marca</option></select>
+        </div>
+        <div class="field">
+          <label for="anio">Año</label>
+          <select id="anio"></select>
+        </div>
+        <div class="field">
+          <label for="km">Kilometraje <span class="hint">(km)</span></label>
+          <input id="km" type="number" min="0" step="1000" placeholder="Ej: 60000" inputmode="numeric">
+        </div>
+        <div class="field">
+          <label for="combustible">Combustible</label>
+          <select id="combustible">
+            <option value="Bencina">Bencina</option>
+            <option value="Diesel">Diésel</option>
+            <option value="Híbrido">Híbrido</option>
+            <option value="Eléctrico">Eléctrico</option>
+            <option value="Gas">Gas</option>
+            <option value="Otro">Otro</option>
+          </select>
+        </div>
+        <div class="field">
+          <label for="transmision">Transmisión</label>
+          <select id="transmision">
+            <option value="Automática">Automática</option>
+            <option value="Manual">Manual</option>
+          </select>
+        </div>
+        <div class="field full">
+          <label for="precio" id="precioLabel">Precio publicado <span class="hint">(CLP)</span></label>
+          <input id="precio" type="number" min="0" step="100000" placeholder="Ej: 8500000" inputmode="numeric">
+        </div>
+
+        <button class="cta" type="submit" id="btn">Evaluar mi auto</button>
+      </div>
+    </form>
+  </div>
+
+  <!-- ── Resultado ── -->
+  <div class="card" id="resultado">
+    <div class="verdict" id="verdict">
+      <div class="emoji" id="vEmoji">🟡</div>
+      <div>
+        <h3 id="vTitle">Precio justo</h3>
+        <p id="vText"></p>
+      </div>
+    </div>
+
+    <div class="prices">
+      <div class="price-box">
+        <div class="plabel" id="precioIngresadoLabel">Precio publicado</div>
+        <div class="pval" id="outUser">—</div>
+      </div>
+      <div class="price-box hl">
+        <div class="plabel">Precio predicho (modelo)</div>
+        <div class="pval" id="outPred">—</div>
+      </div>
+      <div class="price-box">
+        <div class="plabel">Diferencia</div>
+        <div class="pval" id="outDiff">—</div>
+      </div>
+    </div>
+
+    <div class="gauge-wrap">
+      <div class="gauge-title">¿Dónde cae tu auto respecto al mercado?</div>
+      <div class="gauge">
+        <div class="marker" id="marker" style="left:50%"></div>
+      </div>
+      <div class="gauge-scale"><span>−40%</span><span>0%</span><span>+40%</span></div>
+      <div class="gauge-legend">
+        <span><i class="dot" style="background:var(--green)"></i>Subvalorado</span>
+        <span><i class="dot" style="background:var(--yellow)"></i>Precio justo</span>
+        <span><i class="dot" style="background:var(--red)"></i>Sobrevalorado</span>
+      </div>
+    </div>
+
+    <!-- ── Contribuciones: por qué el modelo predice ese precio ── -->
+    <div class="shap-wrap" id="shapWrap" style="display:none">
+      <div class="gauge-title">¿Por qué el modelo predice ese precio?</div>
+      <div class="shap-base" id="shapBase"></div>
+      <div id="shap"></div>
+      <p class="shap-help">Cada barra muestra cuánto <b style="color:var(--red)">sube 🔴</b> o
+        <b style="color:var(--brand-2)">baja 🔵</b> el precio predicho por cada característica de tu
+        auto, respecto a un auto promedio. El porcentaje es el efecto de esa variable sobre el precio.</p>
+    </div>
+
+    <p class="note" id="note"></p>
+  </div>
+
+  <footer>
+    Modelo XGBoost entrenado sobre ~31.800 autos usados chilenos ·
+    R² test ≈ 0,82 · MAPE ≈ 18,6% · Umbrales calibrados con Chileautos (P25/P75).<br>
+    <b>Herramienta de referencia estadística — no constituye una tasación oficial.</b>
+  </footer>
+
+</div>
+
+<!-- 1) Modelo real (reemplaza el de ejemplo cuando lo exportes desde Colab) -->
+<script src="modelo_web.js"></script>
+<!-- 2) Lógica de la interfaz -->
+<script src="app.js"></script>
+</body>
+</html>

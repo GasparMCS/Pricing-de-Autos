@@ -1,0 +1,697 @@
+Marca,Modelo,Ano,Kilometraje,Condicion,Combustible,Color,Transmision,price,location,Comuna,Tipo_de_vendedor,Category
+Mitsubishi,L200,2022,178180,Usado,Diesel,ROJO,Manual,14900000,Bío Bío,Los Ángeles,Vendedor de autos.,"Autos, Camionetas y 4x4"
+Audi,Q5,2011,169100,Usado,Diesel,Plata,Automática,10800000,Metropolitana de Santiago,Las Condes,Vendedor de autos.,"Autos, camionetas y 4x4"
+Renault,Logan,2008,75000,Usado,Bencina,Plata,Manual,3950000,Metropolitana de Santiago,La Reina,Vendedor de autos.,"Autos, camionetas y 4x4"
+MG,3,2020,34000,Usado,Bencina,Negro,Manual,6990000,Coquimbo,La Serena,Vendedor de autos.,"Autos, Camionetas y 4x4"
+Toyota,Aygo,2020,45000,Usado,Bencina,Gris,Manual,6900000,Araucanía,Temuco,Vendedor de autos.,"Autos, camionetas y 4x4"
+Peugeot,3008,2020,72300,Usado,Diesel,bordeaux,Manual,14599999,Valparaíso,Valparaiso,Vendedor de autos.,"Autos, camionetas y 4x4"
+Peugeot,208,2016,167000,Usado,Bencina,Blanco,Manual,6300000,Metropolitana de Santiago,Santiago,Vendedor de autos.,"Autos, Camionetas y 4x4"
+Toyota,Rav4,2015,155663,Usado,Bencina,Plata,Automática,11690000,Los Lagos,Osorno,Vendedor de autos.,"Autos, Camionetas y 4x4"
+Kia,Morning,2017,78000,Usado,Bencina,Blanco,Manual,6200000,Los Lagos,Ancud,Vendedor de autos.,"Autos, camionetas y 4x4"
+Chevrolet,Captiva,2020,74200,Usado,Bencina,Plata,Automática,10990000,Metropolitana de Santiago,Chicureo,Vendedor de autos.,"Autos, Camionetas y 4x4"
+Opel,Adam,2023,44355,Usado,Bencina,Cs/gris Plata,Manual,12390000,Metropolitana de Santiago,Huechuraba,Vendedor de autos.,"Autos, Camionetas y 4x4"
+Lexus,Is,2008,150000,Usado,Bencina,Plata,Automática,8200000,Metropolitana de Santiago,La Florida,Vendedor de autos.,"Autos, camionetas y 4x4"
+Jetour,X70,2024,29000,Usado,Bencina,BLANCO,Automática,12990000,Metropolitana de Santiago,San Bernardo,Vendedor de autos.,"Autos, Camionetas y 4x4"
+Jeep,Compass,2022,130376,Usado,Bencina,Blanco Blanco,Automática,14290000,Metropolitana de Santiago,Cerrillos,Vendedor de autos.,"Autos, camionetas y 4x4"
+Suzuki,Jimny,2024,36700,Usado,Bencina,Gris,Manual,16500000,Metropolitana de Santiago,Santiago,Vendedor de autos.,"Autos, camionetas y 4x4"
+Hyundai,Santa Fe,2012,105000,Usado,Bencina,Negro,Manual,7200000,Metropolitana de Santiago,Las Condes,Vendedor de autos.,"Autos, camionetas y 4x4"
+Volkswagen,Gol,2016,69509,Usado,Bencina,Gris,Manual,7700000,Metropolitana de Santiago,Pudahuel,Vendedor de autos.,Autos-vehículo
+Hyundai,Tucson,2020,85400,Usado,Bencina,Blanco,Manual,14000000,Los Lagos,Calbuco,Vendedor de autos.,Autos-vehículo
+Nissan,X-Trail,2021,92000,Usado,Bencina,Gris,Automática,13500000,Valparaíso,Los Andes,Vendedor de autos.,Autos-vehículo
+Opel,Mokka,2022,32000,Usado,Bencina,Verde,Automática,14000000,Valparaíso,Villa Alemana,Vendedor de autos.,Autos-vehículo
+Chery,Tiggo 8 Pro,2022,147000,Usado,Bencina,Negro,Automática,14000000,Metropolitana de Santiago,Lampa,Vendedor de autos.,Autos-vehículo
+Ram,1000,2021,58000,Usado,Diesel,Blanco,Automática,21500000,Metropolitana de Santiago,Colina,Vendedor de autos.,Autos-vehículo
+JAC,Js8,2022,45000,Usado,Bencina,Rojo,Manual,14000000,Los Lagos,Frutillar,Vendedor de autos.,Autos-vehículo
+Mercedes-Benz,Sprinter 316,2014,125000,Usado,Bencina,Blanco,Automática,14000000,Bío Bío,Chiguayante,Vendedor de autos.,Autos-vehículo
+Fiat,500,2022,32500,Usado,Bencina,Gris,Manual,13800000,Metropolitana de Santiago,Huechuraba,Vendedor de autos.,Autos-vehículo
+Suzuki,Swift,2018,104175,Usado,Bencina,Rojo,Manual,5600000,Metropolitana de Santiago,Peñaflor,Vendedor de autos.,Autos-vehículo
+Subaru,Impreza,1998,100000,Usado,Bencina,Blanco,Automática,800000,Metropolitana de Santiago,Providencia,Vendedor de autos.,Autos-vehículo
+Changan,Cs35,2016,95000,Usado,Bencina,Rojo,Manual,5400000,Bío Bío,Hualpén,Vendedor de autos.,Autos-vehículo
+Mazda,3,2007,178541,Usado,Bencina,Gris,Automática,5200000,Metropolitana de Santiago,La Florida,Vendedor de autos.,Autos-vehículo
+Audi,A3,2024,23000,Usado,Bencina,Rojo,Automática,27990000,Araucanía,Temuco,Vendedor de autos.,Autos-vehículo
+Changan,M201,2016,70400,Usado,Bencina,Blanco,Manual,3800000,Metropolitana de Santiago,San José De Maipo,Vendedor de autos.,Autos-vehículo
+Chevrolet,Silverado,2020,82000,Usado,Bencina,Rojo,Automática,32000000,Bío Bío,Los Ángeles,Vendedor de autos.,Autos-vehículo
+Jeep,Compass,2013,150000,Usado,Bencina,Gris,Automática,7200000,Metropolitana de Santiago,Talagante,Vendedor de autos.,Autos-vehículo
+Renault,Symbol,2022,68600,Usado,Bencina,Gris,Manual,7200000,Metropolitana de Santiago,Vitacura,Vendedor de autos.,Autos-vehículo
+Chevrolet,Groove,2025,5610,Usado,Bencina,Plata Plata,Manual,10090000,Metropolitana de Santiago,Cerrillos,Vendedor de autos.,Autos-vehículo
+Chevrolet,Sail,2021,44000,Usado,Bencina,Gris,Manual,7200000,Antofagasta,San Pedro de Atacama,Vendedor de autos.,Autos-vehículo
+Chevrolet,Captiva,2013,114025,Usado,Bencina,Plata,Automática,8500000,Metropolitana de Santiago,Pudahuel,Vendedor de autos.,Autos-vehículo
+Mazda,2,2017,55000,Usado,Bencina,Rojo,Manual,8599000,Metropolitana de Santiago,Huechuraba,Vendedor de autos.,Autos-vehículo
+Dodge,Challenger,2016,72000,Usado,Bencina,Negro,Automática,35990000,Maule,Talca,Vendedor de autos.,Autos-vehículo
+BMW,530,2023,34560,Usado,Híbrido,Gris,Automática,39000000,Metropolitana de Santiago,Vitacura,Vendedor de autos.,Autos-vehículo
+Chevrolet,Traverse,2015,123000,Usado,Bencina,Blanco,Automática,12000000,Metropolitana de Santiago,Colina,Vendedor de autos.,Autos-vehículo
+Hyundai,Creta,2020,95821,Usado,Bencina,Negro,Automática,12000000,Ñuble,Chillán,Vendedor de autos.,Autos-vehículo
+Audi,A4,2010,142000,Usado,Bencina,Azul,Automática,10500000,Valparaíso,Viña del Mar,Vendedor de autos.,"Autos, camionetas y 4x4"
+Chevrolet,Sail,2011,100000,Usado,Bencina,Blanco,Manual,3950000,Metropolitana de Santiago,Las Condes,Vendedor de autos.,"Autos, camionetas y 4x4"
+Peugeot,3008,2018,90000,Usado,Diesel,Rojo,Manual,10800000,Maule,Linares,Vendedor de autos.,"Autos, camionetas y 4x4"
+Great Wall,Wingle 5,2016,189000,Usado,Diesel,Gris,Manual,5300000,Metropolitana de Santiago,Puente Alto,Vendedor de autos.,"Autos, camionetas y 4x4"
+Renault,Master,2018,165000,Usado,Diesel,Blanco,Manual,9100000,Metropolitana de Santiago,Colina,Vendedor de autos.,"Autos, camionetas y 4x4"
+Subaru,Xv,2014,145000,Usado,Bencina,Gris,Manual,7590000,Los Lagos,Puerto Montt,Vendedor de autos.,"Autos, Camionetas y 4x4"
+Kia,Grand Carnival,2016,132000,Usado,Diesel,Gris,Automática,18500000,Metropolitana de Santiago,Las Condes,Vendedor de autos.,"Autos, camionetas y 4x4"
+Subaru,Forester,2020,95000,Usado,Bencina,Plata,Automática,18000000,Maule,Talca,Vendedor de autos.,"Autos, camionetas y 4x4"
+Peugeot,5008,2023,38747,Usado,Diesel,Blanco Blanco,Automática,22190000,Araucanía,Temuco,Vendedor de autos.,"Autos, camionetas y 4x4"
+SsangYong,Musso,2019,120029,Usado,Diesel,Blanco,Automática,18990000,Metropolitana de Santiago,Huechuraba,Vendedor de autos.,"Autos, Camionetas y 4x4"
+Renault,Duster,2023,43720,Usado,Bencina,Marrón Marrón,Manual,12190000,Metropolitana de Santiago,Cerrillos,Vendedor de autos.,"Autos, camionetas y 4x4"
+BMW,X4,2016,121000,Usado,Bencina,Blanco,Automática,21990000,Metropolitana de Santiago,Vitacura,Vendedor de autos.,"Autos, camionetas y 4x4"
+Chevrolet,D-Max,2022,120000,Usado,Diesel,Blanco,Manual,14950000,Metropolitana de Santiago,Vitacura,Vendedor de autos.,"Autos, camionetas y 4x4"
+Opel,Mokka,2023,42025,Usado,Bencina,Marrón Marrón,Automática,15290000,Coquimbo,La Serena,Vendedor de autos.,"Autos, camionetas y 4x4"
+Chevrolet,Trailblazer,2023,37598,Usado,Diesel,Negro,Automática,26990000,Metropolitana de Santiago,Chicureo,Vendedor de autos.,"Autos, Camionetas y 4x4"
+Kia,Sportage,2011,150000,Usado,Bencina,Negro,Manual,7600000,Metropolitana de Santiago,Las Condes,Vendedor de autos.,"Autos, camionetas y 4x4"
+Peugeot,Expert,2016,201000,Usado,Diesel,Gris,Manual,9300000,Bío Bío,Coronel,Vendedor de autos.,"Autos, camionetas y 4x4"
+Hyundai,Tucson,2014,158000,Usado,Bencina,Gris,Manual,8500000,Bío Bío,Concepción,Vendedor de autos.,"Autos, camionetas y 4x4"
+Nissan,Altima,2016,56406,Usado,Bencina,Grafito,Automática,8990000,Metropolitana de Santiago,Santiago,Vendedor de autos.,"Autos, Camionetas y 4x4"
+Jetour,X70 Plus,2024,30994,Usado,Bencina,AZUL,Automática,13500000,Coquimbo,La serena,Vendedor de autos.,"Autos, Camionetas y 4x4"
+Ford,Bronco Sport,2024,18000,Usado,Bencina,GRIS,Automática,24500000,Metropolitana de Santiago,Vitacura,Vendedor de autos.,"Autos, Camionetas y 4x4"
+BMW,320I,2015,105000,Usado,Bencina,Plata,Automática,14800000,Coquimbo,La Serena,Vendedor de autos.,"Autos, camionetas y 4x4"
+Mercedes-Benz,Gla 220,2019,81000,Usado,Diesel,Azul,Automática,23890000,Los Lagos,Puerto Montt,Vendedor de autos.,"Autos, Camionetas y 4x4"
+Peugeot,3008,2018,150000,Usado,Diesel,Azul,Manual,11250000,Valparaíso,Quintero,Vendedor de autos.,"Autos, camionetas y 4x4"
+Mitsubishi,Outlander,2010,190000,Usado,Bencina,Negro,Manual,5790000,Metropolitana de Santiago,Peñalolén,Vendedor de autos.,"Autos, camionetas y 4x4"
+Great Wall,Wingle 7,2024,15000,Usado,Bencina,Blanco,Manual,13200000,Araucanía,Lautaro,Vendedor de autos.,"Autos, camionetas y 4x4"
+Great Wall,Wingle 7,2022,26175,Usado,Bencina,Marrón Marrón,Automática,10590000,Metropolitana de Santiago,Cerrillos,Vendedor de autos.,Autos-vehículo
+Chery,Arrizo5,2017,104000,Usado,Bencina,Blanco,Automática,6490000,Metropolitana de Santiago,La Reina,Vendedor de autos.,Autos-vehículo
+Jac,S5,2019,39000,Usado,Bencina,Blanco,Automática,8590000,Valparaíso,Viña del Mar,Vendedor de autos.,Autos-vehículo
+Citroën,C4,2007,103000,Usado,Bencina,Gris,Automática,2985000,Metropolitana de Santiago,Independencia,Vendedor de autos.,Autos-vehículo
+Ford,Escape,2017,91000,Usado,Bencina,Blanco,Automática,12490000,Los Lagos,Puerto Montt,Vendedor de autos.,Autos-vehículo
+Suzuki,Baleno,2021,33000,Usado,Bencina,Azul,Automática,8990000,Valparaíso,Viña del Mar - Quillota,Vendedor de autos.,Autos-vehículo
+Renault,Dokker,2016,66025,Usado,Bencina,Blanco,Automática,4990000,Metropolitana de Santiago,Cerrillos,Vendedor de autos.,Autos-vehículo
+Ford,Edge,2017,121670,Usado,Bencina,Bordo,Automática,13290000,Coquimbo,La Serena,Vendedor de autos.,"Autos, Camionetas y 4x4"
+Ford,Ecosport,2015,62000,Usado,Bencina,Rojo,Manual,12300000,Coquimbo,La Serena,Vendedor de autos.,"Autos, camionetas y 4x4"
+Ford,Edge,2021,93400,Usado,Bencina,Rojo Rojo,Automática,21690000,OHiggins,Rancagua,Vendedor de autos.,"Autos, camionetas y 4x4"
+Hyundai,Santa Fe,2015,120000,Usado,Bencina,Plata,Manual,10300000,Metropolitana de Santiago,La Florida,Vendedor de autos.,"Autos, camionetas y 4x4"
+Mitsubishi,Montero,2011,225000,Usado,Diesel,Gris,Manual,11600000,Metropolitana de Santiago,Las Condes,Vendedor de autos.,"Autos, camionetas y 4x4"
+Hyundai,Accent,2006,140000,Usado,Bencina,Azul,Manual,2700000,Bío Bío,Lota,Vendedor de autos.,"Autos, camionetas y 4x4"
+Chevrolet,Bolt Euv,2024,100,Usado,Eléctrico,Blanco Blanco,Automática,20990000,Bío Bío,Los Ángeles,Vendedor de autos.,Autos-vehículo
+SKODA,Kodiaq,2022,68185,Usado,Diesel,Blanco Blanco,Automática,23790000,Bío Bío,Concepción,Vendedor de autos.,Autos-vehículo
+Hyundai,Elantra,2011,194000,Usado,Bencina,Plata,Automática,4500000,Valparaíso,Viña del Mar,Vendedor de autos.,Autos-vehículo
+Subaru,Forester,2014,134000,Usado,Bencina,Gris,Manual,9150000,Bío Bío,Los Ángeles,Vendedor de autos.,Autos-vehículo
+Mercedes-Benz,E 300,2018,52528,Usado,Bencina,Plata,Automática,39500000,Metropolitana de Santiago,Las Condes,Vendedor de autos.,Autos-vehículo
+Dodge,Journey,2019,19500,Usado,Bencina,Gris,Automática,16000000,Antofagasta,Antofagasta,Vendedor de autos.,Autos-vehículo
+Renault,Captur,2019,42700,Usado,Bencina,Café,Automática,10780000,Metropolitana de Santiago,Las Condes,Vendedor de autos.,Autos-vehículo
+Chevrolet,D-Max,2015,226000,Usado,Diesel,Blanco,Manual,10300000,Bío Bío,Hualpén,Vendedor de autos.,Autos-vehículo
+Subaru,Wrx,2022,30000,Usado,Bencina,Blanco,Automática,30990000,Valparaíso,Viña del Mar - Quillota,Vendedor de autos.,Autos-vehículo
+SsangYong,Korando,2011,190000,Usado,Diesel,Gris,Automática,3000000,Los Ríos,Lago Ranco,Vendedor de autos.,Autos-vehículo
+Dongfeng,Joyear X3,2022,200000,Usado,Bencina,Amarillo,Manual,20000000,Metropolitana de Santiago,Buin,Vendedor de autos.,Autos-vehículo
+Fiat,Fullback,2018,109300,Usado,Diesel,Blanco,Manual,13700000,Metropolitana de Santiago,Vitacura,Vendedor de autos.,Autos-vehículo
+BMW,530,2016,115000,Usado,Diesel,Plata,Automática,24590000,Bío Bío,Concepción,Vendedor de autos.,Autos-vehículo
+Toyota,4Runner,2011,196000,Usado,Bencina,Negro,Automática,14900000,Metropolitana de Santiago,Las Condes,Vendedor de autos.,Autos-vehículo
+Chevrolet,Onix,2024,27118,Usado,Bencina,PLATA,Manual,13290000,Antofagasta,Calama,Vendedor de autos.,Autos-vehículo
+Nissan,Navara,2021,103497,Usado,Diesel,Blanco,Automática,22990000,Los Lagos,Osorno,Vendedor de autos.,Autos-vehículo
+Ford,Maverick,2024,40430,Usado,Bencina,Azul,Automática,22990000,Metropolitana de Santiago,La Reina,Vendedor de autos.,Autos-vehículo
+Mercedes-Benz,C,2023,17000,Usado,Bencina,Gris,Automática,36900000,Metropolitana de Santiago,Las Condes,Vendedor de autos.,Autos-vehículo
+MG,Mg5,2022,30000,Usado,Bencina,Blanco,Manual,9000000,Metropolitana de Santiago,San Bernardo,Vendedor de autos.,Autos-vehículo
+Ford,Ranger,2016,215000,Usado,Bencina,Gris,Manual,8900000,Metropolitana de Santiago,La Florida,Vendedor de autos.,Autos-vehículo
+BMW,118,2017,200000,Usado,Bencina,Marrón,Automática,17590000,Atacama,Tierra Amarilla,Vendedor de autos.,Autos-vehículo
+BMW,X1,2018,93000,Usado,Bencina,Gris,Automática,17500000,Ñuble,Chillán,Vendedor de autos.,Autos-vehículo
+Mitsubishi,L200,2021,89697,Usado,Diesel,Marrón Marrón,Manual,15290000,Metropolitana de Santiago,Cerrillos,Vendedor de autos.,Autos-vehículo
+Jac,S2,2020,74522,Usado,Bencina,Marrón Marrón,Manual,7290000,Los Lagos,Castro,Vendedor de autos.,Autos-vehículo
+Ford,Ranger,2023,79091,Usado,Diesel,Rojo,Manual,19590000,Bío Bío,Los Ángeles,Vendedor de autos.,Autos-vehículo
+Hyundai,Santa Fe,2024,41079,Usado,Diesel,Blanco,Automática,31980000,Metropolitana de Santiago,Vitacura,Vendedor de autos.,Autos-vehículo
+Peugeot,308,2017,125000,Usado,Diesel,Blanco,Automática,11790000,Metropolitana de Santiago,La Reina,Vendedor de autos.,Autos-vehículo
+Mahindra,New Scorpio,2014,110926,Usado,Diesel,Gris,Manual,4000000,Metropolitana de Santiago,Puente Alto,Vendedor de autos.,Autos-vehículo
+Audi,Q2,2019,62000,Usado,Bencina,Plata,Automática,19800000,Metropolitana de Santiago,La Reina,Vendedor de autos.,Autos-vehículo
+Chevrolet,Silverado,2018,120000,Usado,Bencina,Negro,Automática,19790000,Maule,Curicó,Vendedor de autos.,Autos-vehículo
+BMW,X5,2020,64596,Usado,Diesel,Azul,Automática,37900000,Metropolitana de Santiago,Las Condes,Vendedor de autos.,Autos-vehículo
+Audi,A4,2018,67000,Usado,Bencina,Blanco,Automática,16200000,Metropolitana de Santiago,Ñuñoa,Vendedor de autos.,Autos-vehículo
+Dongfeng,Joyear,2021,98429,Usado,Bencina,Plata Plata,Manual,7490000,Valparaíso,Viña del Mar,Vendedor de autos.,Autos-vehículo
+Mazda,Bt-50,2013,155000,Usado,Diesel,Azul,Automática,16200000,Araucanía,Temuco,Vendedor de autos.,Autos-vehículo
+Renault,Duster,2019,128000,Usado,Bencina,Café,Manual,7490000,Valparaíso,Concón,Vendedor de autos.,Autos-vehículo
+Volkswagen,Voyage,2022,65966,Usado,Bencina,Negro,Manual,7580000,Metropolitana de Santiago,San Miguel,Vendedor de autos.,Autos-vehículo
+Mazda,Cx-3,2018,97000,Usado,Bencina,Gris,Automática,11800000,Coquimbo,La Serena,Vendedor de autos.,"Autos, camionetas y 4x4"
+Subaru,Forester,2024,29000,Usado,Bencina,Grafito,Automática,22990000,Bío Bío,San Pedro de la Paz,Vendedor de autos.,"Autos, Camionetas y 4x4"
+MG,Mg Zs,2023,27785,Usado,Bencina,Rojo Rojo,Manual,8290000,Araucanía,Temuco,Vendedor de autos.,"Autos, camionetas y 4x4"
+Ford,Fiesta,2007,170000,Usado,Bencina,Plata,Manual,4500000,Bío Bío,Los Ángeles,Vendedor de autos.,"Autos, camionetas y 4x4"
+Toyota,Corolla,2013,175000,Usado,Bencina,Gris,Manual,5650000,Metropolitana de Santiago,La Florida,Vendedor de autos.,"Autos, camionetas y 4x4"
+Chevrolet,Spin,2020,83389,Usado,Bencina,BLANCO,Manual,9490000,Metropolitana de Santiago,Santiago,Vendedor de autos.,"Autos, Camionetas y 4x4"
+Toyota,Yaris,2015,130000,Usado,Bencina,Negro,Manual,8500000,Metropolitana de Santiago,Santiago,Vendedor de autos.,"Autos, camionetas y 4x4"
+Ford,Explorer,2017,85000,Usado,Bencina,Azul,Automática,10000000,Metropolitana de Santiago,Ñuñoa,Vendedor de autos.,"Autos, camionetas y 4x4"
+Ford,Explorer,2009,207000,Usado,Bencina,Blanco,Automática,5690000,Valparaíso,La Cruz,Vendedor de autos.,"Autos, camionetas y 4x4"
+Geely,X7 Sport,2020,73229,Usado,Bencina,Plata Plata,Manual,8790000,Araucanía,Temuco,Vendedor de autos.,Autos-vehículo
+MG,Marvel R,2024,27312,Usado,Eléctrico,Blanco Blanco,Automática,25790000,Metropolitana de Santiago,Huechuraba,Vendedor de autos.,"Autos, camionetas y 4x4"
+Hyundai,Creta,2024,256,Usado,Bencina,Blanco,Manual,15290000,Coquimbo,Ovalle,Vendedor de autos.,Station Wagon
+Chevrolet,Sonic,2014,75264,Usado,Bencina,Gris,Manual,5300000,Metropolitana de Santiago,Las Condes,Vendedor de autos.,"Autos, camionetas y 4x4"
+Nissan,Versa,2017,98000,Usado,Bencina,Plata,Manual,5300000,Metropolitana de Santiago,Cerrillos,Vendedor de autos.,"Autos, camionetas y 4x4"
+Chevrolet,Traverse,2021,81600,Usado,Bencina,Blanco,Automática,27990000,Metropolitana de Santiago,La Reina,Vendedor de autos.,"Autos, Camionetas y 4x4"
+Kia,Soul,2014,124000,Usado,Bencina,Blanco,Manual,6000000,Metropolitana de Santiago,Puente Alto,Vendedor de autos.,"Autos, camionetas y 4x4"
+Dodge,Ram 1500,2019,136000,Usado,Bencina,Gris,Automática,23980000,Metropolitana de Santiago,Las Condes,Vendedor de autos.,"Autos, Camionetas y 4x4"
+Ford,Ecosport,2019,49200,Usado,Bencina,Blanco,Automática,10100000,Metropolitana de Santiago,Las Condes,Vendedor de autos.,"Autos, camionetas y 4x4"
+Chevrolet,Spin,2019,155000,Usado,Bencina,BLANCO,Manual,6980000,Los Ríos,Valdivia,Vendedor de autos.,"Autos, Camionetas y 4x4"
+Volkswagen,Virtus,2020,100000,Usado,Bencina,Gris,Manual,9790000,OHiggins,Rancagua,Vendedor de autos.,"Autos, Camionetas y 4x4"
+Chevrolet,Sail,2016,78400,Usado,Bencina,Gris,Manual,4750000,Metropolitana de Santiago,Ñuñoa,Vendedor de autos.,"Autos, camionetas y 4x4"
+Dfm,Joyear X3,2017,97550,Usado,Bencina,Plata Plata,Manual,5590000,Ñuble,Chillán,Vendedor de autos.,"Autos, camionetas y 4x4"
+Ford,Edge,2023,39377,Usado,Bencina,Blanco Metalico,Automática,29990000,Metropolitana de Santiago,Huechuraba,Vendedor de autos.,"Autos, Camionetas y 4x4"
+Foton,G7,2023,29481,Usado,Diesel,Rojo,Manual,13690000,Valparaíso,Viña del Mar,Vendedor de autos.,"Autos, Camionetas y 4x4"
+Toyota,Rav4,2012,176000,Usado,Bencina,Gris,Automática,6700000,Metropolitana de Santiago,Renca,Vendedor de autos.,"Autos, camionetas y 4x4"
+Ram,700,2022,67000,Usado,Bencina,Blanco Banchisa,Manual,9490000,Metropolitana de Santiago,Quilicura,Vendedor de autos.,"Autos, Camionetas y 4x4"
+Ford,Escape,2020,78300,Usado,Bencina,Plata,Automática,14300000,Araucanía,Temuco,Vendedor de autos.,"Autos, camionetas y 4x4"
+Suzuki,Celerio,2012,165100,Usado,Bencina,Gris,Manual,4300000,Metropolitana de Santiago,La Florida,Vendedor de autos.,"Autos, camionetas y 4x4"
+Volkswagen,Polo,2025,9038,Usado,Bencina,Plata,Automática,15790000,Metropolitana de Santiago,La Florida,Vendedor de autos.,"Autos, Camionetas y 4x4"
+Hyundai,Accent,2013,185147,Usado,Bencina,Blanco,Manual,5600000,Metropolitana de Santiago,Macul,Vendedor de autos.,"Autos, camionetas y 4x4"
+Haval,H6,2025,5000,Usado,Bencina,Gris,Automática,19900000,Bío Bío,Concepción,Vendedor de autos.,"Autos, Camionetas y 4x4"
+Citroën,C3,2024,23261,Usado,Diesel,Gris,Manual,11900000,Metropolitana de Santiago,Quilicura,Vendedor de autos.,"Autos, Camionetas y 4x4"
+Kia,Morning,2019,89150,Usado,Bencina,Marrón Marrón,Manual,8790000,Bío Bío,Concepción,Vendedor de autos.,"Autos, camionetas y 4x4"
+Volkswagen,Tiguan,2018,77000,Usado,Bencina,Gris,Automática,14690000,Metropolitana de Santiago,Vitacura,Vendedor de autos.,"Autos, camionetas y 4x4"
+Subaru,Forester,2020,106000,Usado,Bencina,Plata,Automática,19000000,Ñuble,Chillán,Vendedor de autos.,"Autos, camionetas y 4x4"
+Haval,H6,2022,70695,Usado,Bencina,Azul Azul,Automática,14690000,Metropolitana de Santiago,Macul,Vendedor de autos.,Autos-vehículo
+Hyundai,Creta,2019,85000,Usado,Bencina,Plata,Automática,10690000,Valparaíso,La Calera,Vendedor de autos.,Autos-vehículo
+Citroën,C5 Aircross,2021,35000,Usado,Diesel,Azul,Automática,25000000,Metropolitana de Santiago,Colina,Vendedor de autos.,Autos-vehículo
+Ford,Ecosport,2019,39000,Usado,Bencina,Gris,Automática,8990000,Metropolitana de Santiago,Las Condes,Vendedor de autos.,Autos-vehículo
+Chery,Tiggo 8,2021,22800,Usado,Bencina,Blanco,Automática,15190000,Metropolitana de Santiago,Vitacura,Vendedor de autos.,Autos-vehículo
+Mitsubishi,L200,2019,93611,Usado,Diesel,Grafito,Automática,14980000,Metropolitana de Santiago,LAS CONDES,Vendedor de autos.,Autos-vehículo
+Fiat,Cronos,2022,20286,Usado,Bencina,Blanco,Automática,9800000,Metropolitana de Santiago,Vitacura,Vendedor de autos.,Autos-vehículo
+Nissan,Sentra,2022,31685,Usado,Bencina,Marrón Marrón,Automática,14790000,Metropolitana de Santiago,Huechuraba,Vendedor de autos.,Autos-vehículo
+MG,Rx5,2023,12996,Usado,Bencina,Negro,Automática,13863181,Metropolitana de Santiago,Las Condes,Vendedor de autos.,Autos-vehículo
+Volkswagen,Polo,2022,40000,Usado,Bencina,Gris,Automática,10290000,Metropolitana de Santiago,Puente Alto,Vendedor de autos.,Autos-vehículo
+Jeep,Renegade,2022,30714,Usado,Bencina,Blanco Blanco,Automática,12490000,Metropolitana de Santiago,La Florida,Vendedor de autos.,Autos-vehículo
+Chevrolet,Onix,2022,31808,Usado,Bencina,Plata,Automática,9990000,Metropolitana de Santiago,Puente Alto,Vendedor de autos.,Autos-vehículo
+Dodge,Journey,2009,172684,Usado,Bencina,Plata,Automática,5500000,Metropolitana de Santiago,Santiago,Vendedor de autos.,Autos-vehículo
+Volkswagen,Gol,2021,64900,Usado,Bencina,Gris,Automática,7490000,Araucanía,Temuco,Vendedor de autos.,Autos-vehículo
+Opel,Crossland,2021,32000,Usado,Bencina,Blanco,Automática,12280000,Metropolitana de Santiago,Lo Barnechea,Vendedor de autos.,Autos-vehículo
+MG,3,2017,83000,Usado,Bencina,Amarillo,Automática,5980000,Valparaíso,Viña del Mar,Vendedor de autos.,Autos-vehículo
+Baic,X35,2023,28349,Usado,Bencina,Blanco Blanco,Automática,8190000,Maule,Curicó,Vendedor de autos.,Autos-vehículo
+Changan,Cs15,2023,5000,Usado,Bencina,Negro,Automática,9980000,Los Ríos,Valdivia,Vendedor de autos.,Autos-vehículo
+Renault,Dokker,2022,24463,Usado,Diesel,Blanco,Automática,7900000,Metropolitana de Santiago,Vitacura,Vendedor de autos.,Autos-vehículo
+MG,Zx,2022,52823,Usado,Bencina,Blanco Blanco,Automática,9690000,Metropolitana de Santiago,Cerrillos,Vendedor de autos.,Autos-vehículo
+Chevrolet,Colorado,2022,35951,Usado,Diesel,Blanco Blanco,Automática,19890000,Bío Bío,Concepción,Vendedor de autos.,Autos-vehículo
+Peugeot,Partner,2022,81318,Usado,Diesel,Blanco,Automática,10900000,Bío Bío,Concepción,Vendedor de autos.,Autos-vehículo
+Toyota,Auris,2017,109167,Usado,Bencina,Blanco,Automática,11490000,Metropolitana de Santiago,Santiago,Vendedor de autos.,Autos-vehículo
+Subaru,Forester,2017,138000,Usado,Bencina,Blanco,Automática,11490000,Metropolitana de Santiago,Santiago,Vendedor de autos.,Autos-vehículo
+Mazda,3,2018,123379,Usado,Bencina,Azul,Automática,12580000,Metropolitana de Santiago,Cerrillos,Vendedor de autos.,Autos-vehículo
+Renault,Captur,2021,26381,Usado,Diesel,Blanco,Automática,12190000,Metropolitana de Santiago,Macul,Vendedor de autos.,Autos-vehículo
+Nissan,X-Trail,2019,44000,Usado,Bencina,Blanco,Automática,13590000,Metropolitana de Santiago,Santiago,Vendedor de autos.,Autos-vehículo
+Nissan,Pathfinder,2016,137170,Usado,Bencina,Azul,Automática,10000000,Metropolitana de Santiago,Vitacura,Vendedor de autos.,Autos-vehículo
+Fiat,Weekend,2007,227800,Usado,Bencina,Blanco,Manual,3800000,Metropolitana de Santiago,Ñuñoa,Vendedor de autos.,"Autos, camionetas y 4x4"
+Exeed,Vx,2023,32199,Usado,Bencina,BLANCO,Automática,24900000,Metropolitana de Santiago,Vitacura,Vendedor de autos.,"Autos, Camionetas y 4x4"
+Chevrolet,Colorado,2011,200000,Usado,Bencina,Blanco,Automática,8500000,Metropolitana de Santiago,La Reina,Vendedor de autos.,"Autos, camionetas y 4x4"
+Volkswagen,T-Cross,2020,75000,Usado,Bencina,Blanco,Manual,11400000,Antofagasta,Antofagasta,Vendedor de autos.,"Autos, camionetas y 4x4"
+Chevrolet,Corsa,2006,211190,Usado,Bencina,Rojo,Manual,2600000,Valparaíso,Villa Alemana,Vendedor de autos.,"Autos, camionetas y 4x4"
+Dfm,A30,2018,37000,Usado,Bencina,Blanco,Manual,7500000,Metropolitana de Santiago,Conchalí,Vendedor de autos.,"Autos, camionetas y 4x4"
+Peugeot,5008,2020,108000,Usado,Diesel,Blanco,Automática,15000000,Bío Bío,San Pedro de la Paz,Vendedor de autos.,"Autos, camionetas y 4x4"
+Toyota,Hilux,2018,152738,Usado,Diesel,Gris,Manual,12500000,Maule,Constitución,Vendedor de autos.,"Autos, camionetas y 4x4"
+SsangYong,Rexton,2024,27000,Usado,Diesel,NEGRO PERLADO,Automática,24980000,Los Ríos,Valdivia,Vendedor de autos.,"Autos, Camionetas y 4x4"
+Ford,Ecosport,2019,94500,Usado,Bencina,Negro,Manual,8300000,Metropolitana de Santiago,Pudahuel,Vendedor de autos.,"Autos, camionetas y 4x4"
+Subaru,Forester,2019,87679,Usado,Bencina,GRIS GRAFITO,Automática,18990000,Metropolitana de Santiago,La Reina,Vendedor de autos.,"Autos, Camionetas y 4x4"
+Kia,Carnival,2014,133000,Usado,Diesel,Blanco,Manual,11000000,Metropolitana de Santiago,Providencia,Vendedor de autos.,"Autos, camionetas y 4x4"
+MINI,John Cooper Works,2011,90000,Usado,Bencina,Negro,Manual,10900000,Bío Bío,San Pedro de la Paz,Vendedor de autos.,"Autos, camionetas y 4x4"
+Nissan,Qashqai,2021,24000,Usado,Bencina,Gris,Manual,15500000,Maule,Linares,Vendedor de autos.,"Autos, camionetas y 4x4"
+Chery,Arrizo5,2023,77024,Usado,Bencina,Blanco,Manual,7490000,Metropolitana de Santiago,Las Condes,Vendedor de autos.,Sedán
+Ford,Explorer,2017,60000,Usado,Bencina,Gris,Automática,18200000,Valparaíso,La Ligua,Vendedor de autos.,"Autos, camionetas y 4x4"
+Mercedes-Benz,A 200,2017,104468,Usado,Diesel,Negro,Automática,16490000,Metropolitana de Santiago,Vitacura,Vendedor de autos.,"Autos, Camionetas y 4x4"
+Porsche,Macan,2017,75000,Usado,Bencina,Blanco,Manual,28990000,Metropolitana de Santiago,Providencia,Vendedor de autos.,"Autos, camionetas y 4x4"
+Haval,H6 GT,2024,23000,Usado,Bencina,Negro,Automática,18500000,Metropolitana de Santiago,San Bernardo,Vendedor de autos.,"Autos, camionetas y 4x4"
+Toyota,Rav4,2005,211625,Usado,Bencina,Gris,Manual,4200000,Metropolitana de Santiago,Recoleta,Vendedor de autos.,"Autos, camionetas y 4x4"
+Zxauto,Terralord,2021,33800,Usado,Diesel,Azul,Manual,11350000,Araucanía,Angol,Vendedor de autos.,"Autos, camionetas y 4x4"
+Nissan,X-Trail,2017,76084,Usado,Bencina,Plata Plata,Automática,10690000,Los Ríos,Valdivia,Vendedor de autos.,"Autos, camionetas y 4x4"
+Ford,Explorer,2016,113000,Usado,Bencina,Gris,Automática,14500000,Tarapacá,Iquique,Vendedor de autos.,"Autos, camionetas y 4x4"
+Toyota,Rav4,2019,166000,Usado,Bencina,Rojo,Automática,12500000,Bío Bío,Yumbel,Vendedor de autos.,"Autos, camionetas y 4x4"
+Renault,Captur,2018,230000,Usado,Diesel,Azul,Manual,8300000,Metropolitana de Santiago,Puente Alto,Vendedor de autos.,"Autos, camionetas y 4x4"
+Renault,Mégane,2001,200000,Usado,Bencina,Verde,Manual,2500000,Metropolitana de Santiago,Cerro Navia,Vendedor de autos.,"Autos, camionetas y 4x4"
+Mitsubishi,Asx,2019,78000,Usado,Bencina,Negro,Manual,11000000,Metropolitana de Santiago,La Florida,Vendedor de autos.,"Autos, camionetas y 4x4"
+Fiat,Fiorino,2018,160000,Usado,Bencina,Blanco,Manual,4750000,Valparaíso,Concón,Vendedor de autos.,"Autos, camionetas y 4x4"
+Fiat,Marea,1998,85000,Usado,Bencina,Blanco,Manual,2490000,Valparaíso,La Calera,Vendedor de autos.,"Autos, Camionetas y 4x4"
+Chevrolet,Tracker,2022,51813,Usado,Bencina,Blanco,Manual,10590000,Metropolitana de Santiago,Santiago,Vendedor de autos.,"Autos, Camionetas y 4x4"
+Haval,Jolion,2023,13253,Usado,Bencina,Azul,Automática,14790000,Araucanía,Temuco,Vendedor de autos.,"Autos, Camionetas y 4x4"
+Kia,Morning,2018,60032,Usado,Bencina,Blanco,Manual,6980000,Metropolitana de Santiago,Macul,Vendedor de autos.,"Autos, camionetas y 4x4"
+Suzuki,Swift,2016,96000,Usado,Bencina,Gris,Manual,7480000,Metropolitana de Santiago,San Miguel,Vendedor de autos.,"Autos, Camionetas y 4x4"
+Mercedes-Benz,300 E,1990,214400,Usado,Bencina,Azul,Automática,9190000,Metropolitana de Santiago,La Florida,Vendedor de autos.,"Autos, camionetas y 4x4"
+Chevrolet,Captiva,2010,188888,Usado,Diesel,Bordo,Automática,6500000,Metropolitana de Santiago,Recoleta,Vendedor de autos.,"Autos, camionetas y 4x4"
+Mazda,Cx-5,2023,43000,Usado,Bencina,Blanco,Automática,26490000,Metropolitana de Santiago,Lo Barnechea,Vendedor de autos.,"Autos, camionetas y 4x4"
+Dodge,Journey,2018,55909,Usado,Bencina,Rojo,Automática,11500000,Valparaíso,Cartagena,Vendedor de autos.,"Autos, camionetas y 4x4"
+Honda,Fit,2007,192638,Usado,Bencina,Gris,Manual,4700000,Valparaíso,Villa Alemana,Vendedor de autos.,"Autos, camionetas y 4x4"
+Dodge,Journey,2015,84000,Usado,Bencina,Negro,Automática,9900000,Metropolitana de Santiago,Las Condes,Vendedor de autos.,"Autos, camionetas y 4x4"
+Honda,Hr-V,2020,45695,Usado,Bencina,Blanco,Automática,15000000,Valparaíso,Valparaiso,Vendedor de autos.,"Autos, camionetas y 4x4"
+BMW,X6,2017,145000,Usado,Diesel,Blanco,Automática,29000000,Los Lagos,Puerto Varas,Vendedor de autos.,"Autos, camionetas y 4x4"
+Toyota,Corolla,2009,223000,Usado,Bencina,Plata,Manual,4800000,Metropolitana de Santiago,Lo Barnechea,Vendedor de autos.,"Autos, camionetas y 4x4"
+Dongfeng,Ax4,2019,30069,Usado,Bencina,Blanco,Automática,6800000,Metropolitana de Santiago,Ñuñoa,Vendedor de autos.,"Autos, camionetas y 4x4"
+BMW,420,2021,16810,Usado,Bencina,Blanco,Automática,38990000,Los Ríos,Valdivia,Vendedor de autos.,"Autos, Camionetas y 4x4"
+Maxus,T90,2024,77000,Usado,Diesel,Naranja,Automática,24990000,Araucanía,Temuco,Vendedor de autos.,"Autos, Camionetas y 4x4"
+Chevrolet,Groove,2021,63000,Usado,Bencina,Blanco,Manual,9800000,Metropolitana de Santiago,Pirque,Vendedor de autos.,"Autos, camionetas y 4x4"
+Honda,Pilot,2017,81000,Usado,Bencina,Azul,Automática,18500000,Metropolitana de Santiago,Vitacura,Vendedor de autos.,"Autos, camionetas y 4x4"
+Volkswagen,Gol,2022,46700,Usado,Bencina,BLANCO CANDY,Manual,8380000,Metropolitana de Santiago,Vitacura - LAS CONDES,Vendedor de autos.,"Autos, Camionetas y 4x4"
+Jeep,Compass,2013,86000,Usado,Bencina,Plata,Automática,10890000,Metropolitana de Santiago,Providencia,Vendedor de autos.,"Autos, camionetas y 4x4"
+Suzuki,Vitara,2017,77691,Usado,Bencina,Blanco,Manual,10290000,Metropolitana de Santiago,MAIPU,Vendedor de autos.,"Autos, Camionetas y 4x4"
+Renault,Koleos,2021,35028,Usado,Bencina,Gris Gris,Automática,17390000,Metropolitana de Santiago,Quilicura,Vendedor de autos.,Autos-vehículo
+Peugeot,3008,2023,6900,Usado,Bencina,Blanco,Automática,19990000,Maule,Talca,Vendedor de autos.,Autos-vehículo
+Foton,Midi,2020,24000,Usado,Bencina,Blanco,Automática,5880000,Metropolitana de Santiago,San Miguel,Vendedor de autos.,Autos-vehículo
+Toyota,Yaris Sport,2017,104200,Usado,Bencina,Blanco,Automática,7990000,Metropolitana de Santiago,Lo Barnechea,Vendedor de autos.,Autos-vehículo
+Kia,Soluto,2023,68213,Usado,Bencina,Blanco,Automática,9300000,Bío Bío,Los Ángeles,Vendedor de autos.,Autos-vehículo
+Geely,Azkarra,2022,12599,Usado,Bencina,Plata Plata,Automática,14390000,Araucanía,Temuco,Vendedor de autos.,Autos-vehículo
+Toyota,Rav4,2021,10800,Usado,Bencina,Grafito,Automática,18990000,Los Lagos,Puerto Montt,Vendedor de autos.,Autos-vehículo
+Nissan,Tiida,2017,119556,Usado,Bencina,Gris,Automática,5390000,Metropolitana de Santiago,La Florida,Vendedor de autos.,Autos-vehículo
+Volkswagen,Voyage,2022,40000,Usado,Bencina,Gris,Automática,7990000,Metropolitana de Santiago,La Florida,Vendedor de autos.,Autos-vehículo
+Hyundai,Tucson,2020,57000,Usado,Bencina,Negro,Automática,15990000,Valparaíso,La Calera,Vendedor de autos.,Autos-vehículo
+Peugeot,2008,2017,80000,Usado,Diesel,Rojo,Automática,9990000,Metropolitana de Santiago,Ñuñoa,Vendedor de autos.,Autos-vehículo
+SsangYong,Actyon Sports,2019,180000,Usado,Diesel,Blanco,Automática,9200000,Metropolitana de Santiago,Providencia,Vendedor de autos.,Autos-vehículo
+Mazda,3,2016,89000,Usado,Bencina,Plata,Automática,10950000,Metropolitana de Santiago,Ñuñoa,Vendedor de autos.,"Autos, camionetas y 4x4"
+Kia,Sportage,2021,46000,Usado,Diesel,Negro,Manual,17200000,Ñuble,Chillán,Vendedor de autos.,"Autos, camionetas y 4x4"
+Nissan,X-Trail E-Power,2023,41200,Usado,Híbrido,Gris,Automática,29000000,Metropolitana de Santiago,Padre Hurtado,Vendedor de autos.,"Autos, camionetas y 4x4"
+Renault,Captur,2020,80941,Usado,Diesel,Azul,Manual,11790000,Araucanía,Temuco,Vendedor de autos.,"Autos, Camionetas y 4x4"
+Citroën,Berlingo,2025,700,Usado,Diesel,BLANCO,Manual,19990000,Metropolitana de Santiago,Colina,Vendedor de autos.,Autos-vehículo
+Baic,Cargo Van,2016,56000,Usado,Bencina,Blanco,Manual,3500000,Los Lagos,Osorno,Vendedor de autos.,Autos-vehículo
+BMW,128,2021,56230,Usado,Bencina,Gris,Automática,26980000,Metropolitana de Santiago,Providencia,Vendedor de autos.,Autos-vehículo
+Nissan,Kicks,2022,36115,Usado,Bencina,Blanco Blanco,Manual,12890000,Metropolitana de Santiago,Huechuraba,Vendedor de autos.,Autos-vehículo
+Chevrolet,Cruze,2018,115000,Usado,Bencina,Gris,Automática,7800000,Metropolitana de Santiago,La Florida,Vendedor de autos.,Autos-vehículo
+Chevrolet,Silverado,2019,127300,Usado,Bencina,PLATEADO,Automática,23990000,Metropolitana de Santiago,Vitacura,Vendedor de autos.,Autos-vehículo
+Haval,Dargo,2024,13800,Usado,Bencina,Blanco,Automática,22490000,Maule,Curicó,Vendedor de autos.,Autos-vehículo
+Citroën,C3 Aircross,2019,80000,Usado,Diesel,Beige,Manual,17000000,Valparaíso,Algarrobo,Vendedor de autos.,Autos-vehículo
+Subaru,Forester,2019,105000,Usado,Bencina,Azul,Automática,17000000,Metropolitana de Santiago,Padre Hurtado,Vendedor de autos.,Autos-vehículo
+Nissan,Navara,2017,137000,Usado,Diesel,Negro,Manual,17000000,Metropolitana de Santiago,Las Condes,Vendedor de autos.,Autos-vehículo
+BMW,335,2016,86537,Usado,Bencina,Plata,Automática,22500000,Metropolitana de Santiago,San Miguel,Vendedor de autos.,Autos-vehículo
+Peugeot,2008,2025,670,Usado,Híbrido,ROJO,Automática,17990000,Metropolitana de Santiago,Vitacura,Vendedor de autos.,Autos-vehículo
+Citroën,C4,2014,171188,Usado,Diesel,Blanco,Manual,6400000,Los Lagos,Puerto Varas,Vendedor de autos.,Autos-vehículo
+Dfsk,500,2022,28000,Usado,Bencina,Blanco,Manual,8800000,Los Lagos,Puerto Montt,Vendedor de autos.,Autos-vehículo
+Dfsk,500,2022,80000,Usado,Bencina,Blanco,Manual,6490000,Los Lagos,Puerto Montt,Vendedor de autos.,Autos-vehículo
+Nissan,Navara,2020,60000,Usado,Diesel,Blanco,Manual,15980000,Metropolitana de Santiago,Las Condes,Vendedor de autos.,"Autos, Camionetas y 4x4"
+Honda,Civic,2008,229000,Usado,Bencina,Gris,Automática,5500000,Metropolitana de Santiago,Santiago,Vendedor de autos.,"Autos, camionetas y 4x4"
+Mazda,Cx-9,2011,165000,Usado,Bencina,Plata,Automática,7800000,Metropolitana de Santiago,La Florida,Vendedor de autos.,"Autos, camionetas y 4x4"
+Chevrolet,Sail,2022,11500,Usado,Bencina,Azul,Manual,8200000,Metropolitana de Santiago,Padre Hurtado,Vendedor de autos.,"Autos, camionetas y 4x4"
+MG,Mg5,2023,97405,Usado,Bencina,Rojo Rojo,Manual,8190000,Bío Bío,Hualpén,Vendedor de autos.,"Autos, camionetas y 4x4"
+Mitsubishi,Eclipse Cross,2019,48000,Usado,Bencina,Rojo,Automática,14790000,Ñuble,Chillán,Vendedor de autos.,"Autos, camionetas y 4x4"
+Suzuki,Jimny,2015,96000,Usado,Bencina,Negro,Manual,7980000,Metropolitana de Santiago,la granja,Vendedor de autos.,"Autos, Camionetas y 4x4"
+Land Rover,Range Rover Velar,2021,65000,Usado,Bencina,Blanco,Automática,36900000,Valparaíso,Viña del Mar,Vendedor de autos.,"Autos, camionetas y 4x4"
+Chery,Tiggo 8,2022,49031,Usado,Bencina,Azul,Automática,13200000,Ñuble,Chillan Viejo,Vendedor de autos.,"Autos, Camionetas y 4x4"
+Toyota,Yaris Sport,2021,31550,Usado,Bencina,Gris,Manual,10000000,Los Lagos,Castro,Vendedor de autos.,"Autos, camionetas y 4x4"
+Dodge,Caliber,2011,142000,Usado,Bencina,Negro,Automática,5800000,Valparaíso,Viña del Mar,Vendedor de autos.,"Autos, camionetas y 4x4"
+Volkswagen,Tiguan,2019,85000,Usado,Bencina,Negro,Automática,18490000,Metropolitana de Santiago,San Bernardo,Vendedor de autos.,Autos-vehículo
+Suzuki,Grand Vitara,2014,126000,Usado,Bencina,Gris,Manual,6950000,Valparaíso,Concón,Vendedor de autos.,"Autos, camionetas y 4x4"
+Haval,H6,2019,95000,Usado,Bencina,Rojo,Automática,9980000,Valparaíso,Viña del Mar,Vendedor de autos.,"Autos, camionetas y 4x4"
+Mercedes-Benz,Gla 200,2019,79000,Usado,Bencina,Blanco,Automática,18590000,Maule,Talca,Vendedor de autos.,"Autos, camionetas y 4x4"
+Volvo,Xc40,2022,33500,Usado,Bencina,Blanco,Automática,35100000,Los Lagos,Puerto Montt,Vendedor de autos.,"Autos, Camionetas y 4x4"
+Citroën,C4 Cactus,2020,90000,Usado,Diesel,Rojo,Automática,10900000,Metropolitana de Santiago,Las Condes,Vendedor de autos.,Autos-vehículo
+Great Wall,Haval,2018,68900,Usado,Bencina,Gris,Automática,9890000,Metropolitana de Santiago,Huechuraba,Vendedor de autos.,Autos-vehículo
+Opel,Vivaro,2023,5700,Usado,Diesel,Blanco,Automática,20500000,Metropolitana de Santiago,La Florida,Vendedor de autos.,Autos-vehículo
+Citroën,C3 Aircross,2018,57500,Usado,Diesel,Beige,Automática,13490000,Metropolitana de Santiago,Vitacura,Vendedor de autos.,Autos-vehículo
+Nissan,Urvan,2023,8000,Usado,Diesel,Blanco,Automática,24990000,Metropolitana de Santiago,Santiago,Vendedor de autos.,Autos-vehículo
+Suzuki,Swift,2020,85129,Usado,Bencina,Blanco Blanco,Automática,7990000,Metropolitana de Santiago,Cerrillos,Vendedor de autos.,Autos-vehículo
+Peugeot,208,2019,82000,Usado,Diesel,Blanco,Automática,8980000,Metropolitana de Santiago,Cerrillos,Vendedor de autos.,Autos-vehículo
+Jeep,Grand Cherokee,2022,37500,Usado,Bencina,Blanco,Automática,37990000,Metropolitana de Santiago,Vitacura,Vendedor de autos.,Autos-vehículo
+Toyota,Hilux,2022,75940,Usado,Diesel,Rojo,Automática,25800000,Metropolitana de Santiago,San Joaquin,Vendedor de autos.,Autos-vehículo
+Chevrolet,Colorado,2021,49200,Usado,Diesel,Rojo,Automática,19980000,Metropolitana de Santiago,Lo Barnechea,Vendedor de autos.,Autos-vehículo
+Peugeot,3008,2020,79659,Usado,Diesel,Plata,Automática,17990000,Metropolitana de Santiago,Huechuraba,Vendedor de autos.,Autos-vehículo
+Chevrolet,D-Max,2018,134274,Usado,Diesel,Blanco,Automática,9900000,Metropolitana de Santiago,Providencia,Vendedor de autos.,Autos-vehículo
+Chery,Tiggo 8 Pro,2023,5000,Usado,Bencina,Grafito,Automática,19990000,Metropolitana de Santiago,Las Condes,Vendedor de autos.,Autos-vehículo
+Changan,Hunter,2023,20000,Usado,Diesel,Gris,Automática,14800000,Metropolitana de Santiago,Las Condes,Vendedor de autos.,Autos-vehículo
+Jeep,Renegade,2017,80512,Usado,Bencina,Negro,Automática,9790000,Metropolitana de Santiago,Huechuraba,Vendedor de autos.,Autos-vehículo
+SKODA,Kodiaq,2021,42000,Usado,Bencina,Plata,Automática,20990000,Metropolitana de Santiago,La Reina,Vendedor de autos.,Autos-vehículo
+Citroën,C3,2013,125999,Usado,Bencina,Negro,Automática,5200000,Bío Bío,San Pedro de la Paz,Vendedor de autos.,Autos-vehículo
+Fiat,500,2013,146000,Usado,Bencina,Rojo,Automática,7490000,Metropolitana de Santiago,Santiago,Vendedor de autos.,Autos-vehículo
+Hyundai,Santa Fe,2019,54700,Usado,Diesel,Plata,Automática,21990000,Metropolitana de Santiago,Las Condes,Vendedor de autos.,Autos-vehículo
+Subaru,Forester,2019,55000,Usado,Bencina,Plata,Automática,15980000,Metropolitana de Santiago,Nuñoa,Vendedor de autos.,Autos-vehículo
+Renault,Clio,2023,6095,Usado,Bencina,Naranja,Automática,13990000,Metropolitana de Santiago,Las Condes,Vendedor de autos.,Autos-vehículo
+Chevrolet,Sail,2015,142000,Usado,Bencina,Azul,Automática,1700000,Metropolitana de Santiago,SANTIAGO,Vendedor de autos.,Autos-vehículo
+Citroën,C5 Aircross,2023,10400,Usado,Diesel,Azul,Automática,25500000,Metropolitana de Santiago,Vitacura,Vendedor de autos.,Autos-vehículo
+Toyota,Corolla,2020,108803,Usado,Bencina,Marrón Marrón,Automática,9490000,Los Ríos,Valdivia,Vendedor de autos.,Autos-vehículo
+Jeep,Patriot,2015,88200,Usado,Bencina,Gris Gris,Automática,9990000,Araucanía,Temuco,Vendedor de autos.,Autos-vehículo
+Jeep,Wrangler,2014,149000,Usado,Bencina,Rojo,Automática,18490000,Metropolitana de Santiago,Las Condes,Vendedor de autos.,Autos-vehículo
+Kia,Cerato,2018,104313,Usado,Bencina,Plata,Manual,10690000,Metropolitana de Santiago,Maipú,Vendedor de autos.,"Autos, Camionetas y 4x4"
+SsangYong,Korando,2019,58000,Usado,Bencina,Blanco,Manual,9000000,Metropolitana de Santiago,Maipú,Vendedor de autos.,"Autos, camionetas y 4x4"
+Citroën,Berlingo,2017,85000,Usado,Diesel,Beige,Manual,8300000,Bío Bío,Los Ángeles,Vendedor de autos.,"Autos, camionetas y 4x4"
+Kawasaki,Versys,2009,77000,Usado,Bencina,Rojo,Manual,2300000,Valparaíso,Viña del Mar,Vendedor de autos.,"Autos, camionetas y 4x4"
+Chevrolet,Captiva,2009,195000,Usado,Diesel,Verde,Manual,5500000,Los Lagos,Castro,Vendedor de autos.,"Autos, camionetas y 4x4"
+Audi,Q2,2018,88000,Usado,Bencina,Blanco,Automática,17000000,Coquimbo,Illapel,Vendedor de autos.,"Autos, camionetas y 4x4"
+Haval,H6,2019,62912,Usado,Bencina,Blanco Blanco,Automática,11590000,Metropolitana de Santiago,Huechuraba,Vendedor de autos.,"Autos, camionetas y 4x4"
+Kia,K3,2024,12149,Usado,Bencina,Plata Plata,Automática,17990000,Metropolitana de Santiago,Cerrillos,Vendedor de autos.,"Autos, camionetas y 4x4"
+Chevrolet,Silverado,2019,26500,Usado,Bencina,Rojo,Automática,32000000,Metropolitana de Santiago,Vitacura,Vendedor de autos.,"Autos, camionetas y 4x4"
+Renault,Clio,2021,105000,Usado,Bencina,Blanco,Manual,8790000,Valparaíso,QUILPÚE,Vendedor de autos.,"Autos, Camionetas y 4x4"
+BMW,X1,2019,74000,Usado,Diesel,Negro,Automática,21990000,Metropolitana de Santiago,Providencia,Vendedor de autos.,SUV
+Volkswagen,Golf,2017,99200,Usado,Bencina,Azul,Automática,16500000,Valparaíso,Algarrobo,Vendedor de autos.,"Autos, camionetas y 4x4"
+Chevrolet,Blazer,2024,35000,Usado,Bencina,Rojo,Automática,33000000,OHiggins,Rancagua,Vendedor de autos.,"Autos, camionetas y 4x4"
+Mercedes-Benz,Glc 220,2020,79088,Usado,Diesel,Gris,Automática,34990000,Metropolitana de Santiago,Lo Barnechea,Vendedor de autos.,"Autos, Camionetas y 4x4"
+Toyota,Rav4,2017,124000,Usado,Bencina,Azul,Automática,15000000,Metropolitana de Santiago,Buin,Vendedor de autos.,"Autos, camionetas y 4x4"
+Renault,Koleos,2013,100000,Usado,Bencina,Azul,Automática,8350000,Metropolitana de Santiago,Colina,Vendedor de autos.,"Autos, camionetas y 4x4"
+Hyundai,Grand Santa Fe,2011,209000,Usado,Bencina,Blanco,Manual,6900000,Metropolitana de Santiago,Maipú,Vendedor de autos.,"Autos, camionetas y 4x4"
+Peugeot,308,2024,13,Usado,Bencina,GRAFITO,Automática,21990000,Valparaíso,San Antonio,Vendedor de autos.,"Autos, Camionetas y 4x4"
+Citroën,Berlingo,2021,139000,Usado,Diesel,Blanco,Manual,10300000,Araucanía,Temuco,Vendedor de autos.,"Autos, camionetas y 4x4"
+Volkswagen,T-Cross,2022,11893,Usado,Bencina,Gris,Manual,12590000,Bío Bío,Hualpén,Vendedor de autos.,"Autos, Camionetas y 4x4"
+Hyundai,Santa Fe,2012,76500,Usado,Bencina,Plata,Automática,11980000,Metropolitana de Santiago,Ñuñoa,Vendedor de autos.,"Autos, camionetas y 4x4"
+Chevrolet,Aveo,2009,146000,Usado,Bencina,Blanco,Automática,2800000,Metropolitana de Santiago,La Granja,Vendedor de autos.,"Autos, camionetas y 4x4"
+MG,Mg Zs,2021,56040,Usado,Bencina,Rojo,Automática,11990000,Metropolitana de Santiago,Huechuraba,Vendedor de autos.,Sedan
+Land Rover,Range Rover Sport,2017,66000,Usado,Diesel,Blanco,Automática,36990000,Bío Bío,Concepción,Vendedor de autos.,"Autos, Camionetas y 4x4"
+MG,Mg6,2021,48000,Usado,Bencina,Gris Gris,Automática,9290000,Los Lagos,Puerto Montt,Vendedor de autos.,"Autos, camionetas y 4x4"
+Subaru,Crosstrek,2025,4200,Usado,Bencina,Gris,Automática,21500000,Metropolitana de Santiago,Providencia,Vendedor de autos.,"Autos, camionetas y 4x4"
+Chery,Tiggo 8,2021,74000,Usado,Bencina,Blanco,Manual,9690000,Metropolitana de Santiago,Las Condes,Vendedor de autos.,"Autos, Camionetas y 4x4"
+Chevrolet,Orlando,2016,120574,Usado,Bencina,Blanco,Automática,7990000,Metropolitana de Santiago,Maipú,Vendedor de autos.,Autos-vehículo
+Haval,Jolion,2022,101017,Usado,Bencina,Blanco,Automática,9990000,Metropolitana de Santiago,Cerrillos,Vendedor de autos.,"Autos, Camionetas y 4x4"
+Citroën,C4,2023,9000,Usado,Bencina,Blanco,Automática,21790000,Metropolitana de Santiago,La Reina,Vendedor de autos.,"Autos, camionetas y 4x4"
+Ford,F-150,2015,132500,Usado,Bencina,Negro,Automática,18980000,Metropolitana de Santiago,Vitacura,Vendedor de autos.,"Autos, Camionetas y 4x4"
+Mazda,Bt-50,2022,54710,Usado,Diesel,Azul,Automática,26490000,Los Lagos,Osorno,Vendedor de autos.,"Autos, Camionetas y 4x4"
+Land Rover,Range Rover,2014,174000,Usado,Diesel,Café,Automática,37790000,Metropolitana de Santiago,Huechuraba,Vendedor de autos.,"Autos, Camionetas y 4x4"
+Kia,Sportage,2023,69050,Usado,Diesel,Gris,Automática,22680000,Coquimbo,La Serena,Vendedor de autos.,Autos-vehículo
+Toyota,Yaris,2022,16000,Usado,Bencina,Gris,Automática,11890000,Metropolitana de Santiago,Maipú,Vendedor de autos.,Autos-vehículo
+Chevrolet,Tracker,2021,81500,Usado,Bencina,Plata,Automática,11390000,Metropolitana de Santiago,San Bernardo,Vendedor de autos.,Autos-vehículo
+Citroën,C3,2019,81045,Usado,Diesel,Gris,Automática,11200000,Maule,Linares,Vendedor de autos.,Autos-vehículo
+Subaru,Legacy,2020,57100,Usado,Bencina,Plata,Automática,23490000,Metropolitana de Santiago,Las Condes,Vendedor de autos.,Autos-vehículo
+Volvo,Xc60,2011,90000,Usado,Bencina,Gris,Automática,9800000,Los Lagos,Osorno,Vendedor de autos.,Autos-vehículo
+Nissan,Qashqai,2021,19150,Usado,Bencina,Plata Plata,Automática,12790000,Valparaíso,San Felipe,Vendedor de autos.,Autos-vehículo
+Chery,Tiggo,2018,67289,Usado,Bencina,Gris,Automática,8590000,Metropolitana de Santiago,La Florida,Vendedor de autos.,Autos-vehículo
+Ram,Van 1000,2022,40000,Usado,Diesel,Blanco,Automática,7990000,Maule,Talca,Vendedor de autos.,Autos-vehículo
+Mazda,3 Sport,2022,29850,Usado,Bencina,Plata,Automática,16880000,Los Lagos,Osorno,Vendedor de autos.,Autos-vehículo
+Toyota,Hilux,2019,141831,Usado,Diesel,Rojo,Automática,11480000,Metropolitana de Santiago,Providencia,Vendedor de autos.,Autos-vehículo
+Hyundai,Grand I10,2018,60000,Usado,Bencina,Gris,Automática,6490000,Metropolitana de Santiago,Ñuñoa,Vendedor de autos.,Autos-vehículo
+Kia,Sonet,2021,71207,Usado,Bencina,Gris,Automática,11990000,OHiggins,Rancagua,Vendedor de autos.,Autos-vehículo
+Subaru,Xv,2017,100,Usado,Bencina,Blanco,Automática,12380000,Metropolitana de Santiago,Colina,Vendedor de autos.,Autos-vehículo
+Peugeot,5008,2022,84500,Usado,Diesel,Gris,Automática,18390000,Valparaíso,Viña del Mar,Vendedor de autos.,Autos-vehículo
+Citroën,Jumper,2018,38904,Usado,Diesel,Blanco,Automática,18980000,Metropolitana de Santiago,Las Condes,Vendedor de autos.,Autos-vehículo
+SsangYong,Rexton,2019,92500,Usado,Diesel,Granate,Automática,20990000,Araucanía,Temuco,Vendedor de autos.,Autos-vehículo
+Ford,Edge,2021,52767,Usado,Bencina,Gris,Automática,21990000,Metropolitana de Santiago,San Joaquín,Vendedor de autos.,Autos-vehículo
+Chevrolet,Tracker,2022,79000,Usado,Bencina,Blanco Blanco,Manual,9490000,Bío Bío,Los Angeles,Vendedor de autos.,"Autos, camionetas y 4x4"
+MG,Mg5,2013,114000,Usado,Bencina,Blanco,Manual,4850000,Metropolitana de Santiago,Recoleta,Vendedor de autos.,"Autos, camionetas y 4x4"
+Mercedes-Benz,E 200,2018,60792,Usado,Bencina,Blanco,Automática,32570000,Metropolitana de Santiago,Vitacura,Vendedor de autos.,"Autos, Camionetas y 4x4"
+Chevrolet,Colorado,2019,107357,Usado,Diesel,Blanco,Automática,19233915,Los Lagos,Osorno,Vendedor de autos.,Pick Up
+Land Rover,Evoque,2020,57500,Usado,Bencina,Plata,Automática,29990000,Metropolitana de Santiago,Vitacura,Vendedor de autos.,"Autos, Camionetas y 4x4"
+Ford,Ranger,2019,101000,Usado,Diesel,Rojo,Manual,18990000,Los Lagos,Puerto Montt,Vendedor de autos.,"Autos, Camionetas y 4x4"
+JAC,Js2,2021,70000,Usado,Bencina,Plata,Manual,7790000,Araucanía,Temuco,Vendedor de autos.,"Autos, Camionetas y 4x4"
+Peugeot,208,2022,24500,Usado,Diesel,Gris,Manual,12880000,Metropolitana de Santiago,Las Condes,Vendedor de autos.,"Autos, Camionetas y 4x4"
+Dodge,Durango,2014,190000,Usado,Bencina,Azul,Automática,12590000,Valparaíso,Villa Alemana,Vendedor de autos.,"Autos, Camionetas y 4x4"
+Chevrolet,Trailblazer,2022,70300,Usado,Diesel,NEGRO,Automática,23990000,Metropolitana de Santiago,La Reina,Vendedor de autos.,"Autos, Camionetas y 4x4"
+Honda,Cr-V,2014,124776,Usado,Bencina,Gris,Automática,9780000,Metropolitana de Santiago,Vitacura,Vendedor de autos.,"Autos, Camionetas y 4x4"
+Ford,F-150,2010,145000,Usado,Bencina,Naranja,Automática,17990000,Metropolitana de Santiago,Vitacura,Vendedor de autos.,"Autos, Camionetas y 4x4"
+Mitsubishi,Montero,2017,122000,Usado,Diesel,Gris,Automática,23990000,OHiggins,Rancagua,Vendedor de autos.,"Autos, Camionetas y 4x4"
+JAC,Js3,2022,48000,Usado,Bencina,Rojo,Automática,8900000,Metropolitana de Santiago,Maipú,Vendedor de autos.,"Autos, camionetas y 4x4"
+Kia,Rio 5,2019,35000,Usado,Bencina,Gris,Manual,11000000,Metropolitana de Santiago,Cerrillos,Vendedor de autos.,"Autos, camionetas y 4x4"
+BMW,520,2013,86000,Usado,Bencina,Gris,Automática,15500000,Metropolitana de Santiago,Macul,Vendedor de autos.,"Autos, camionetas y 4x4"
+Jeep,Grand Cherokee,2022,44000,Usado,Bencina,Negro,Automática,29900000,Metropolitana de Santiago,Las Condes,Vendedor de autos.,"Autos, camionetas y 4x4"
+Opel,Mokka,2025,300,Usado,Bencina,Rojo,Automática,18790000,Metropolitana de Santiago,Lo Barnechea,Vendedor de autos.,"Autos, Camionetas y 4x4"
+BMW,120,2017,90500,Usado,Bencina,Negro,Automática,19850000,Metropolitana de Santiago,Santiago,Vendedor de autos.,"Autos, camionetas y 4x4"
+Peugeot,Partner,2019,170000,Usado,Diesel,Blanco,Manual,8600000,Araucanía,Padre de las casas,Vendedor de autos.,"Autos, camionetas y 4x4"
+Dodge,Durango,2014,166000,Usado,Bencina,Negro,Automática,9300000,Metropolitana de Santiago,Colina,Vendedor de autos.,"Autos, camionetas y 4x4"
+Baic,X35,2024,1700,Usado,Bencina,BLANCO,Manual,9490000,Valparaíso,Quillota,Vendedor de autos.,"Autos, Camionetas y 4x4"
+Opel,Astra,2015,107000,Usado,Bencina,Blanco,Automática,6500000,Metropolitana de Santiago,La Florida,Vendedor de autos.,"Autos, camionetas y 4x4"
+Toyota,Hilux,2021,100000,Usado,Diesel,Gris,Automática,31800000,Metropolitana de Santiago,Las Condes,Vendedor de autos.,"Autos, camionetas y 4x4"
+Subaru,Impreza,2018,62000,Usado,Bencina,Blanco,Automática,12990000,Metropolitana de Santiago,Las Condes,Vendedor de autos.,"Autos, camionetas y 4x4"
+Subaru,Forester,2021,31000,Usado,Bencina,Verde,Automática,21500000,Valparaíso,Viña del Mar,Vendedor de autos.,"Autos, camionetas y 4x4"
+Chevrolet,Onix,2019,128000,Usado,Bencina,Negro,Manual,7100000,Metropolitana de Santiago,Santiago,Vendedor de autos.,"Autos, camionetas y 4x4"
+Chevrolet,Tracker,2024,40300,Usado,Bencina,Blanco,Automática,11490000,Araucanía,PADRE LAS CASAS,Vendedor de autos.,"Autos, Camionetas y 4x4"
+Hummer,H2t,2006,119870,Usado,Bencina,Azul,Automática,32990000,Metropolitana de Santiago,La Florida,Vendedor de autos.,"Autos, camionetas y 4x4"
+Subaru,Xv,2020,129826,Usado,Bencina,AZUL,Automática,13900000,Metropolitana de Santiago,Providencia,Vendedor de autos.,"Autos, Camionetas y 4x4"
+Chevrolet,N400 Max,2024,19000,Usado,Bencina,Blanco,Manual,9800000,Ñuble,Chillán,Vendedor de autos.,"Autos, camionetas y 4x4"
+Subaru,Forester,2022,86738,Usado,Bencina,PLATEADO,Automática,22790000,Metropolitana de Santiago,Las Condes,Vendedor de autos.,"Autos, Camionetas y 4x4"
+Subaru,Crosstrek,2024,13628,Usado,Bencina,Blanco,Automática,21380000,Metropolitana de Santiago,Nuñoa,Vendedor de autos.,SUV
+Ram,1500,2020,145042,Usado,Bencina,Blanco,Automática,31990000,Araucanía,Temuco,Vendedor de autos.,"Autos, camionetas y 4x4"
+Nissan,Armada,2010,100000,Usado,Bencina,Beige,Automática,10300000,Los Lagos,Llanquihue,Vendedor de autos.,"Autos, camionetas y 4x4"
+Chevrolet,Onix,2025,10,Usado,Bencina,Blanco Blanco,Manual,11490000,Bío Bío,Concepción,Vendedor de autos.,"Autos, camionetas y 4x4"
+Opel,Corsa,2022,17000,Usado,Bencina,Rojo,Automática,12300000,Metropolitana de Santiago,Las Condes,Vendedor de autos.,"Autos, camionetas y 4x4"
+Volkswagen,Atlas,2024,52000,Usado,Bencina,GRIS,Automática,30990000,Metropolitana de Santiago,Lo Barnechea,Vendedor de autos.,"Autos, Camionetas y 4x4"
+Daihatsu,Cuore,2001,157967,Usado,Bencina,Azul,Manual,1800000,Metropolitana de Santiago,Maipú,Vendedor de autos.,"Autos, Camionetas y 4x4"
+Nissan,Versa,2023,43424,Usado,Bencina,Plata Plata,Automática,11090000,Los Ríos,Valdivia,Vendedor de autos.,"Autos, camionetas y 4x4"
+Suzuki,Grand Vitara,2005,25000,Usado,Bencina,Blanco,Manual,6500000,Maule,Linares,Vendedor de autos.,"Autos, camionetas y 4x4"
+Kia,Rio 5,2019,37000,Usado,Bencina,Blanco,Manual,12100000,Metropolitana de Santiago,Maipú,Vendedor de autos.,"Autos, camionetas y 4x4"
+Gwm,Haval Jolion,2025,18000,Usado,Bencina,Rojo,Manual,11990000,Coquimbo,Coquimbo - Ovalle,Vendedor de autos.,"Autos, Camionetas y 4x4"
+Peugeot,308,2020,37000,Usado,Diesel,Gris,Manual,15450000,Metropolitana de Santiago,Macul,Vendedor de autos.,"Autos, camionetas y 4x4"
+Jeep,Commander,2007,168000,Usado,Bencina,Gris,Automática,8000000,Valparaíso,Viña del Mar,Vendedor de autos.,"Autos, camionetas y 4x4"
+MG,3,2021,56230,Usado,Bencina,Azul,Automática,7290000,Metropolitana de Santiago,Lo Barnechea,Vendedor de autos.,"Autos, Camionetas y 4x4"
+BMW,Serie 4,2020,56149,Usado,Bencina,Negro,Automática,25000000,Metropolitana de Santiago,San Joaquín,Vendedor de autos.,"Autos, camionetas y 4x4"
+MG,Zx,2022,52000,Usado,Bencina,Negro,Automática,8000000,Metropolitana de Santiago,Quinta Normal,Vendedor de autos.,"Autos, camionetas y 4x4"
+Mazda,Bt-50,2021,83000,Usado,Diesel,Azul,Automática,21750000,Araucanía,Villarrica,Vendedor de autos.,"Autos, camionetas y 4x4"
+Peugeot,3008,2016,165000,Usado,Diesel,Negro,Manual,7900000,Metropolitana de Santiago,Maipú,Vendedor de autos.,"Autos, camionetas y 4x4"
+Peugeot,208,2018,110000,Usado,Diesel,Blanco,Manual,7100000,Coquimbo,Los vilos,Vendedor de autos.,"Autos, camionetas y 4x4"
+Mazda,Cx-5,2014,188000,Usado,Bencina,Gris,Automática,9190000,Metropolitana de Santiago,Las Condes,Vendedor de autos.,"Autos, camionetas y 4x4"
+Toyota,Rav4,2017,188000,Usado,Bencina,Gris,Automática,10950000,Valparaíso,Viña del Mar,Vendedor de autos.,"Autos, Camionetas y 4x4"
+Suzuki,Grand Nomade,2007,150700,Usado,Bencina,Gris,Manual,4800000,Metropolitana de Santiago,Ñuñoa,Vendedor de autos.,Autos-vehículo
+Subaru,Outback,2024,10000,Usado,Bencina,Verde,Automática,33990000,Metropolitana de Santiago,Las Condes,Vendedor de autos.,Autos-vehículo
+Mazda,Cx-9,2018,98000,Usado,Bencina,Blanco,Automática,20980000,Metropolitana de Santiago,Las Condes,Vendedor de autos.,Autos-vehículo
+Foton,Midi Doble Cabina,2018,108000,Usado,Bencina,Blanco,Manual,5000000,Bío Bío,Mulchén,Vendedor de autos.,Autos-vehículo
+Foton,Midi,2017,133224,Usado,Bencina,Blanco,Manual,5000000,Metropolitana de Santiago,Maipú,Vendedor de autos.,Autos-vehículo
+Chery,Tiggo 8,2021,112300,Usado,Bencina,Gris,Automática,11100000,Metropolitana de Santiago,Isla de Maipo,Vendedor de autos.,Autos-vehículo
+Ram,700,2024,24947,Usado,Bencina,Blanco Blanco,Manual,11090000,Los Ríos,Valdivia,Vendedor de autos.,Autos-vehículo
+Kia,Rio 4,2015,175500,Usado,Bencina,Gris,Manual,5800000,Metropolitana de Santiago,Pedro Aguirre Cerda,Vendedor de autos.,Autos-vehículo
+Kia,Soul,2010,195000,Usado,Bencina,Negro,Manual,4300000,Valparaíso,Quilpué,Vendedor de autos.,Autos-vehículo
+Kia,Morning,2023,17800,Usado,Bencina,Blanco,Automática,9390000,Metropolitana de Santiago,Maipú,Vendedor de autos.,Autos-vehículo
+Peugeot,2008,2021,55000,Usado,Bencina,Blanco,Manual,10890000,Metropolitana de Santiago,Las Condes,Vendedor de autos.,Autos-vehículo
+Jaguar,F-Pace,2018,100000,Usado,Diesel,Rojo,Automática,25990000,Araucanía,Temuco,Vendedor de autos.,Autos-vehículo
+Ford,Focus,2018,103000,Usado,Bencina,Azul,Automática,10890000,Valparaíso,Valparaiso,Vendedor de autos.,Autos-vehículo
+Ford,Explorer,2023,50000,Usado,Bencina,Plata,Automática,30990000,Bío Bío,Concepcion,Vendedor de autos.,"Autos, Camionetas y 4x4"
+Jeep,Renegade,2022,72165,Usado,Bencina,Blanco,Manual,12480000,Metropolitana de Santiago,Cerrillos,Vendedor de autos.,"Autos, Camionetas y 4x4"
+Byd,Dolphin Mini,2025,16000,Usado,Eléctrico,Amarillo,Automática,14980000,Valparaíso,Concón,Vendedor de autos.,"Autos, camionetas y 4x4"
+Volkswagen,Taos,2023,25000,Usado,Bencina,Plata,Automática,18490000,Metropolitana de Santiago,Las Condes,Vendedor de autos.,"Autos, Camionetas y 4x4"
+Mitsubishi,Outlander,2018,88547,Usado,Bencina,Rojo Rojo,Automática,12090000,Metropolitana de Santiago,San Joaquin,Vendedor de autos.,"Autos, camionetas y 4x4"
+Jeep,Commander,2023,12372,Usado,Bencina,Azul,Automática,29990000,Metropolitana de Santiago,Huechuraba,Vendedor de autos.,Sedan
+Nissan,Qashqai,2021,45000,Usado,Bencina,Gris,Automática,17490000,Metropolitana de Santiago,Las Condes,Vendedor de autos.,"Autos, Camionetas y 4x4"
+MINI,Cooper,2022,29800,Usado,Bencina,Verde,Automática,21780000,Metropolitana de Santiago,Vitacura,Vendedor de autos.,"Autos, Camionetas y 4x4"
+SKODA,Yeti,2014,144000,Usado,Diesel,Grafito,Automática,7990000,Metropolitana de Santiago,Lo Barnechea,Vendedor de autos.,Autos-vehículo
+Chevrolet,D-Max,2020,83700,Usado,Diesel,Rojo,Automática,13400000,Atacama,Copiapó,Vendedor de autos.,Autos-vehículo
+Nissan,Kicks,2020,16900,Usado,Bencina,Plata Plata,Automática,12090000,Metropolitana de Santiago,La Dehesa,Vendedor de autos.,Autos-vehículo
+Suzuki,Jimny,2022,15185,Usado,Bencina,Verde,Automática,14990000,Los Lagos,Puerto Montt,Vendedor de autos.,Autos-vehículo
+Gac Motor,Gs4,2022,32000,Usado,Bencina,Negro,Automática,9490000,Metropolitana de Santiago,Providencia,Vendedor de autos.,Autos-vehículo
+Seat,Arona,2021,48013,Usado,Bencina,Plata Plata,Automática,11490000,Araucanía,Temuco,Vendedor de autos.,Autos-vehículo
+Volkswagen,Nivus,2023,14165,Usado,Bencina,Marrón Marrón,Automática,14890000,Metropolitana de Santiago,Huechuraba,Vendedor de autos.,Autos-vehículo
+Citroën,C-Elysee,2022,29000,Usado,Bencina,Gris,Automática,9900000,Metropolitana de Santiago,Maipú,Vendedor de autos.,Autos-vehículo
+Kia,Sorento,2012,104000,Usado,Bencina,Plata,Automática,8980000,Metropolitana de Santiago,Las Condes,Vendedor de autos.,Autos-vehículo
+Chevrolet,Spark Gt,2021,69774,Usado,Bencina,Plata Plata,Automática,6690000,Bío Bío,Los Angeles,Vendedor de autos.,Autos-vehículo
+Suzuki,Swift,2016,136000,Usado,Bencina,Negro,Automática,6690000,Metropolitana de Santiago,Chicureo,Vendedor de autos.,Autos-vehículo
+Hyundai,Accent Prime,2024,31000,Usado,Bencina,Rojo,Automática,12190000,Coquimbo,La Serena,Vendedor de autos.,"Autos, camionetas y 4x4"
+Honda,Cr-V,2020,32000,Usado,Bencina,Plata,Automática,19000000,Metropolitana de Santiago,Providencia,Vendedor de autos.,"Autos, camionetas y 4x4"
+Jeep,Patriot,2016,121700,Usado,Bencina,Gris,Automática,10290000,Maule,Curicó,Vendedor de autos.,"Autos, Camionetas y 4x4"
+Toyota,Yaris,2022,1500,Usado,Bencina,Plata,Manual,12990000,Coquimbo,La Serena,Vendedor de autos.,"Autos, camionetas y 4x4"
+Kia,Sonet,2022,32000,Usado,Bencina,Gris,Manual,13790000,Metropolitana de Santiago,Las Condes,Vendedor de autos.,"Autos, Camionetas y 4x4"
+Suzuki,Baleno,2019,117000,Usado,Bencina,Blanco,Manual,7800000,OHiggins,Rancagua,Vendedor de autos.,"Autos, camionetas y 4x4"
+Ford,Escape,2017,83000,Usado,Bencina,Blanco,Automática,16000000,Metropolitana de Santiago,Las Condes,Vendedor de autos.,"Autos, camionetas y 4x4"
+Hyundai,Grand I10,2022,42000,Usado,Bencina,Rojo,Manual,8500000,Metropolitana de Santiago,Providencia,Vendedor de autos.,"Autos, camionetas y 4x4"
+MG,Mg3,2021,47702,Usado,Bencina,Blanco Blanco,Automática,8190000,Metropolitana de Santiago,La Florida,Vendedor de autos.,"Autos, camionetas y 4x4"
+Hyundai,Elantra,2012,165000,Usado,Bencina,Plata,Automática,5800000,Valparaíso,Concón,Vendedor de autos.,"Autos, camionetas y 4x4"
+Volkswagen,Voyage,2021,94500,Usado,Bencina,Gris,Manual,6800000,Los Lagos,Osorno,Vendedor de autos.,"Autos, camionetas y 4x4"
+Nissan,Np300,2018,200000,Usado,Diesel,Gris,Automática,17250000,Araucanía,Pucón,Vendedor de autos.,"Autos, camionetas y 4x4"
+Subaru,Outback,2021,45000,Usado,Bencina,Gris,Automática,21890000,OHiggins,Rancagua,Vendedor de autos.,"Autos, camionetas y 4x4"
+SsangYong,Korando,2022,31400,Usado,Diesel,Negro,Manual,16990000,Araucanía,Temuco,Vendedor de autos.,"Autos, Camionetas y 4x4"
+Toyota,Auris,2013,160000,Usado,Bencina,Azul,Manual,6500000,Atacama,Copiapó,Vendedor de autos.,"Autos, camionetas y 4x4"
+Mercedes-Benz,Clase Glc,2022,83600,Usado,Diesel,Blanco,Automática,36970000,Los Lagos,OSORNO,Vendedor de autos.,"Autos, Camionetas y 4x4"
+Kia,Morning,2016,108000,Usado,Bencina,Gris,Manual,5650000,Metropolitana de Santiago,La Florida,Vendedor de autos.,"Autos, camionetas y 4x4"
+Mazda,Cx-5,2014,170000,Usado,Bencina,Rojo,Automática,9680000,Metropolitana de Santiago,Santiago,Vendedor de autos.,"Autos, camionetas y 4x4"
+Chevrolet,N400 Max,2024,20806,Usado,Bencina,Blanco,Manual,9490000,Metropolitana de Santiago,Vitacura,Vendedor de autos.,"Autos, Camionetas y 4x4"
+Volvo,C30,2013,112000,Usado,Bencina,Azul,Manual,6000000,Bío Bío,Concepción,Vendedor de autos.,"Autos, camionetas y 4x4"
+Volkswagen,Touareg,2015,160000,Usado,Diesel,Blanco,Automática,25400000,Metropolitana de Santiago,Colina,Vendedor de autos.,"Autos, camionetas y 4x4"
+Lexus,Ls,2009,74000,Usado,Bencina,Negro,Automática,19000000,Metropolitana de Santiago,El Monte,Vendedor de autos.,"Autos, camionetas y 4x4"
+Mercedes-Benz,E 200,2015,86000,Usado,Bencina,Azul,Automática,15800000,Metropolitana de Santiago,Santiago,Vendedor de autos.,"Autos, camionetas y 4x4"
+Alfa Romeo,Giulia,2021,40900,Usado,Bencina,Negro,Automática,28900000,Metropolitana de Santiago,Vitacura,Vendedor de autos.,"Autos, Camionetas y 4x4"
+Ram,700,2025,16,Usado,Bencina,Blanco,Automática,16641000,Metropolitana de Santiago,Las Condes,Vendedor de autos.,"Autos, Camionetas y 4x4"
+Kia,Rio 4,2023,22000,Usado,Bencina,Blanco,Manual,11890000,Valparaíso,Concón,Vendedor de autos.,Sedán
+Nissan,X-Trail,2023,35000,Usado,Bencina,Plata,Automática,21990000,Bío Bío,Los Angeles,Vendedor de autos.,"Autos, Camionetas y 4x4"
+BMW,X1,2015,112000,Usado,Bencina,Plata,Automática,11000000,Metropolitana de Santiago,Huechuraba,Vendedor de autos.,"Autos, camionetas y 4x4"
+Peugeot,Boxer,2021,24000,Usado,Diesel,Blanco,Manual,22500000,Metropolitana de Santiago,La Florida,Vendedor de autos.,"Autos, camionetas y 4x4"
+Ford,Ecosport,2019,62000,Usado,Bencina,Blanco,Automática,14000000,Aysén,Coihaique,Vendedor de autos.,"Autos, camionetas y 4x4"
+Citroën,C3,2017,120000,Usado,Diesel,Gris,Automática,7600000,Metropolitana de Santiago,Talagante,Vendedor de autos.,Autos-vehículo
+Mitsubishi,Eclipse Cross,2020,78000,Usado,Bencina,Grafito,Automática,10980000,Metropolitana de Santiago,Vitacura,Vendedor de autos.,Autos-vehículo
+MINI,Cooper,2019,75000,Usado,Diesel,Gris,Automática,15390000,Valparaíso,Los Andes,Vendedor de autos.,Autos-vehículo
+Hyundai,Santa Fe,2017,96000,Usado,Diesel,Negro,Automática,13980000,Antofagasta,Antofagasta,Vendedor de autos.,Autos-vehículo
+Audi,A3,2017,51400,Usado,Bencina,Plata,Automática,15450000,Metropolitana de Santiago,Las Condes,Vendedor de autos.,Autos-vehículo
+Audi,Q7,2017,146506,Usado,Diesel,Gris,Automática,27900000,Metropolitana de Santiago,Las Condes,Vendedor de autos.,Autos-vehículo
+Subaru,Xv,2022,7800,Usado,Bencina,Azul Azul,Automática,23390000,Metropolitana de Santiago,Quilicura,Vendedor de autos.,Autos-vehículo
+Citroën,C3,2014,163,Usado,Bencina,Blanco,Automática,7300000,Araucanía,Padre de las casas,Vendedor de autos.,Autos-vehículo
+Ford,Explorer,2014,230000,Usado,Bencina,Gris,Automática,9500000,Los Lagos,Calbuco,Vendedor de autos.,"Autos, camionetas y 4x4"
+Renault,Oroch,2020,107633,Usado,Bencina,Gris,Manual,9890000,Valparaíso,Viña del Mar,Vendedor de autos.,"Autos, Camionetas y 4x4"
+Jmc,Vigus,2022,55440,Usado,Diesel,GRIS,Manual,10900000,Bío Bío,Los Ángeles,Vendedor de autos.,"Autos, Camionetas y 4x4"
+Dongfeng,Sx5,2022,35000,Usado,Bencina,Blanco,Manual,8190000,Maule,Curicó,Vendedor de autos.,Station Wagon
+Chevrolet,Groove,2023,19368,Usado,Bencina,Blanco Blanco,Manual,11890000,Metropolitana de Santiago,Macul,Vendedor de autos.,"Autos, camionetas y 4x4"
+Mercedes-Benz,A 200,2017,51000,Usado,Diesel,Azul,Automática,13900000,Metropolitana de Santiago,Peñaflor,Vendedor de autos.,"Autos, camionetas y 4x4"
+Citroën,C-Elysee,2019,158000,Usado,Diesel,Azul,Manual,8450000,Metropolitana de Santiago,Buin,Vendedor de autos.,"Autos, camionetas y 4x4"
+Ford,Ecosport,2018,88929,Usado,Bencina,BLANCO,Manual,8190000,Metropolitana de Santiago,San Joaquín,Vendedor de autos.,"Autos, Camionetas y 4x4"
+Kia,Morning,2019,16000,Usado,Bencina,Rojo,Manual,7500000,Valparaíso,Villa Alemana,Vendedor de autos.,"Autos, camionetas y 4x4"
+Volvo,Xc60,2022,18100,Usado,Bencina,Plata,Automática,32890000,Metropolitana de Santiago,Las Condes,Vendedor de autos.,"Autos, camionetas y 4x4"
+Peugeot,301,2017,136000,Usado,Diesel,Negro,Manual,8200000,OHiggins,San Vicente de Tagua Tagua,Vendedor de autos.,"Autos, camionetas y 4x4"
+Ford,Explorer,2022,51500,Usado,Bencina,Blanco,Automática,32890000,Valparaíso,Los Andes,Vendedor de autos.,"Autos, Camionetas y 4x4"
+JAC,S3,2016,130000,Usado,Bencina,Gris,Manual,8100000,Araucanía,Nueva Imperial,Vendedor de autos.,"Autos, camionetas y 4x4"
+Range Rover,Evoque,2015,165000,Usado,Bencina,Azul,Automática,19200000,Metropolitana de Santiago,Talagante,Vendedor de autos.,"Autos, camionetas y 4x4"
+Ford,Explorer,2016,60000,Usado,Bencina,Azul,Automática,16500000,Metropolitana de Santiago,Vitacura,Vendedor de autos.,"Autos, Camionetas y 4x4"
+BMW,X5,2019,130000,Usado,Diesel,Gris,Automática,29900000,Metropolitana de Santiago,Las Condes,Vendedor de autos.,"Autos, Camionetas y 4x4"
+Ford,Maverick,2023,62000,Usado,Bencina,Naranja,Automática,21950000,Metropolitana de Santiago,Las Condes,Vendedor de autos.,"Autos, Camionetas y 4x4"
+Ford,Ranger,2013,174000,Usado,Diesel,Rojo,Manual,9700000,Metropolitana de Santiago,Providencia,Vendedor de autos.,"Autos, camionetas y 4x4"
+Suzuki,Swift,2013,140000,Usado,Bencina,Blanco,Manual,7200000,Bío Bío,Concepción,Vendedor de autos.,"Autos, camionetas y 4x4"
+BMW,X3,2011,140000,Usado,Bencina,Rojo,Automática,10200000,Araucanía,Temuco,Vendedor de autos.,"Autos, camionetas y 4x4"
+Toyota,Prius C,2021,87637,Usado,Híbrido,Plata,Automática,11900000,Metropolitana de Santiago,vitacura,Vendedor de autos.,"Autos, Camionetas y 4x4"
+SsangYong,Rexton,2018,89109,Usado,Bencina,Gris,Automática,13500000,Coquimbo,Coquimbo,Vendedor de autos.,"Autos, camionetas y 4x4"
+Hyundai,I30,2011,165000,Usado,Bencina,Blanco,Manual,5150000,Metropolitana de Santiago,Santiago,Vendedor de autos.,"Autos, camionetas y 4x4"
+Mitsubishi,Lancer,2018,54300,Usado,Bencina,Gris,Automática,9990000,Valparaíso,Quillota,Vendedor de autos.,Autos-vehículo
+Peugeot,3008,2024,5,Usado,Bencina,Gris,Automática,23590000,Metropolitana de Santiago,Huechuraba,Vendedor de autos.,Autos-vehículo
+Volkswagen,Amarok,2020,162542,Usado,Diesel,Plata,Automática,16900000,Valparaíso,El Belloto,Vendedor de autos.,Autos-vehículo
+Land Rover,Discovery Sport,2018,58500,Usado,Bencina,Blanco,Automática,17890000,Metropolitana de Santiago,Las Condes,Vendedor de autos.,Autos-vehículo
+BMW,530,2018,110000,Usado,Diesel,Gris,Automática,29990000,Maule,Talca,Vendedor de autos.,Autos-vehículo
+Honda,Hr-V,2022,40900,Usado,Bencina,Blanco,Automática,15890000,OHiggins,Rancagua,Vendedor de autos.,Autos-vehículo
+Toyota,Fortuner,2022,23000,Usado,Diesel,Grafito,Automática,36800000,Metropolitana de Santiago,Vitacura,Vendedor de autos.,Autos-vehículo
+Mitsubishi,Eclipse Cross,2021,33000,Usado,Bencina,Blanco,Automática,14980000,Metropolitana de Santiago,Las Condes,Vendedor de autos.,Autos-vehículo
+MG,3,2022,22400,Usado,Bencina,Blanco,Automática,7980000,OHiggins,Rancagua,Vendedor de autos.,Autos-vehículo
+MG,Mg5,2022,84792,Usado,Bencina,Blanco,Automática,8490000,Bío Bío,Hualpén,Vendedor de autos.,Autos-vehículo
+Chevrolet,Sail,2024,1,Usado,Bencina,Blanco,Automática,10790000,Valparaíso,Viña del Mar,Vendedor de autos.,Autos-vehículo
+Jac,Js2,2022,30000,Usado,Bencina,Rojo Rojo,Automática,8490000,Ñuble,Chillán,Vendedor de autos.,Autos-vehículo
+Peugeot,2008,2017,79000,Usado,Bencina,Rojo,Automática,9990000,Metropolitana de Santiago,Huechuraba,Vendedor de autos.,Autos-vehículo
+Volkswagen,Virtus,2024,11000,Usado,Bencina,Blanco,Automática,17190000,Metropolitana de Santiago,Las Condes,Vendedor de autos.,Autos-vehículo
+MG,Rx5,2022,34000,Usado,Bencina,Blanco,Automática,10480000,Bío Bío,Los Angeles,Vendedor de autos.,Autos-vehículo
+MG,Mg3,2023,14000,Usado,Bencina,Blanco,Automática,9490000,Metropolitana de Santiago,Cerrillos,Vendedor de autos.,Autos-vehículo
+MG,Mg Rx5,2022,79000,Usado,Bencina,Plata Plata,Automática,10590000,Metropolitana de Santiago,Macul,Vendedor de autos.,Autos-vehículo
+Kia,Frontier,2018,170169,Usado,Diesel,Blanco,Automática,11590000,Araucanía,Temuco,Vendedor de autos.,Autos-vehículo
+JAC,S3,2017,97200,Usado,Bencina,Grafito,Automática,6990000,Bío Bío,CONCEPCION,Vendedor de autos.,Autos-vehículo
+Chevrolet,Sail,2021,96000,Usado,Bencina,Blanco,Automática,7990000,Metropolitana de Santiago,Huechuraba,Vendedor de autos.,Autos-vehículo
+Toyota,Rush,2023,11716,Usado,Bencina,Rojo Rojo,Automática,14290000,Metropolitana de Santiago,Providencia,Vendedor de autos.,Autos-vehículo
+Ford,Explorer,2022,35771,Usado,Bencina,Negro Negro,Automática,30990000,Metropolitana de Santiago,Vitacura,Vendedor de autos.,Autos-vehículo
+Haval,H6,2024,20084,Usado,Híbrido,Plata,Automática,21590000,Metropolitana de Santiago,MAIPU,Vendedor de autos.,Autos-vehículo
+Jetour,Dashing,2023,27000,Usado,Bencina,Negro,Automática,14790000,Metropolitana de Santiago,Huechuraba,Vendedor de autos.,Autos-vehículo
+Nissan,Qashqai,2013,135000,Usado,Bencina,Grafito,Automática,6950000,Metropolitana de Santiago,La Florida,Vendedor de autos.,Autos-vehículo
+Renault,Oroch,2021,90000,Usado,Bencina,Blanco,Automática,8990000,Metropolitana de Santiago,Santiago,Vendedor de autos.,Autos-vehículo
+Ram,1000,2023,5100,Usado,Diesel,Blanco,Automática,9890000,Metropolitana de Santiago,Vitacura,Vendedor de autos.,Autos-vehículo
+SsangYong,Tivoli,2018,85000,Usado,Bencina,Blanco,Automática,10190000,Maule,Talca,Vendedor de autos.,Autos-vehículo
+Nissan,X-Trail,2009,198000,Usado,Bencina,Plata,Automática,5980000,Metropolitana de Santiago,Santiago,Vendedor de autos.,Autos-vehículo
+Faw,D60,2019,71170,Usado,Bencina,Bronce,Automática,5990000,Araucanía,Temuco,Vendedor de autos.,Autos-vehículo
+Chevrolet,Suburban,2013,181000,Usado,Bencina,Plata,Automática,13490000,Metropolitana de Santiago,Santiago,Vendedor de autos.,Autos-vehículo
+Toyota,Corolla Cross,2023,50763,Usado,Bencina,Marrón Marrón,Automática,16090000,Metropolitana de Santiago,vitacura,Vendedor de autos.,Autos-vehículo
+Zna,Rich,2021,167907,Usado,Diesel,Plata Plata,Automática,8590000,Metropolitana de Santiago,Vitacura,Vendedor de autos.,Autos-vehículo
+Mazda,3 Sport,2014,95000,Usado,Bencina,Negro,Manual,7900000,Valparaíso,Viña del Mar,Vendedor de autos.,"Autos, camionetas y 4x4"
+Ford,F-150,2018,111000,Usado,Bencina,Negro,Automática,24000000,Valparaíso,Viña Del Mar,Vendedor de autos.,"Autos, camionetas y 4x4"
+Toyota,Rush,2022,25000,Usado,Bencina,Plata,Automática,13400000,Metropolitana de Santiago,Buin,Vendedor de autos.,"Autos, camionetas y 4x4"
+Kia,Rio 4,2023,14000,Usado,Bencina,Blanco,Manual,11780000,Metropolitana de Santiago,Nuñoa,Vendedor de autos.,Sedán
+Renault,Megane III,2015,160880,Usado,Bencina,Gris,Automática,8900000,Los Ríos,Rio Bueno,Vendedor de autos.,"Autos, Camionetas y 4x4"
+Kia,Morning,2021,74200,Usado,Bencina,Rojo,Automática,7790000,Araucanía,Temuco,Vendedor de autos.,"Autos, Camionetas y 4x4"
+Peugeot,Partner,2018,65000,Usado,Diesel,Blanco,Automática,7500000,Metropolitana de Santiago,Macul,Vendedor de autos.,"Autos, Camionetas y 4x4"
+Opel,Mokka,2024,6000,Usado,Diesel,Gris,Automática,19580000,Metropolitana de Santiago,Las Condes,Vendedor de autos.,"Autos, Camionetas y 4x4"
+Citroën,Berlingo Multispace,2016,117750,Usado,Diesel,Rojo,Manual,8200000,Metropolitana de Santiago,Maipú,Vendedor de autos.,"Autos, camionetas y 4x4"
+SsangYong,Rexton,2022,23000,Usado,Diesel,Gris,Automática,26990000,Metropolitana de Santiago,Las Condes,Vendedor de autos.,Autos-vehículo
+Jeep,Grand Cherokee,2020,50600,Usado,Bencina,Blanco,Automática,31800000,Metropolitana de Santiago,Vitacura,Vendedor de autos.,Autos-vehículo
+Haval,Jolion,2021,20231,Usado,Bencina,Negro,Automática,13780000,Metropolitana de Santiago,Vitacura,Vendedor de autos.,Autos-vehículo
+Land Rover,Discovery Sport,2020,62000,Usado,Bencina,Blanco,Automática,24990000,Metropolitana de Santiago,Vitacura,Vendedor de autos.,Autos-vehículo
+Audi,A3,2021,35571,Usado,Bencina,Gris,Automática,16990000,Bío Bío,Concepcion,Vendedor de autos.,Autos-vehículo
+Volkswagen,Gol,2022,9014,Usado,Bencina,Negro,Automática,7990000,Maule,Curicó,Vendedor de autos.,Autos-vehículo
+Suzuki,Baleno,2021,78291,Usado,Bencina,Blanco Blanco,Automática,10490000,Bío Bío,Concepción,Vendedor de autos.,Autos-vehículo
+Chevrolet,Silverado,2017,76000,Usado,Bencina,Negro,Automática,29990000,Metropolitana de Santiago,Santiago,Vendedor de autos.,Autos-vehículo
+MINI,Cooper S 2.0 T,2015,102926,Usado,Bencina,Rojo,Automática,13990000,Bío Bío,Concepción,Vendedor de autos.,Autos-vehículo
+Mercedes-Benz,A 200,2021,39832,Usado,Diesel,Gris,Automática,24690000,Bío Bío,Concepción,Vendedor de autos.,Autos-vehículo
+Jaguar,F-Pace,2018,62266,Usado,Diesel,Blanco,Automática,29500000,Los Lagos,Osorno,Vendedor de autos.,Autos-vehículo
+Baic,X35,2021,37000,Usado,Bencina,Gris,Automática,8490000,Valparaíso,Viña del Mar,Vendedor de autos.,Autos-vehículo
+Nissan,Versa,2021,54300,Usado,Bencina,Grafito,Automática,10490000,OHiggins,San Fernando,Vendedor de autos.,Autos-vehículo
+Shineray,X30,2024,5000,Usado,Bencina,Blanco,Automática,7366100,Metropolitana de Santiago,Ñuñoa,Vendedor de autos.,Autos-vehículo
+Citroën,C-Elysee,2022,29772,Usado,Bencina,Marrón Marrón,Automática,9490000,Metropolitana de Santiago,La Florida,Vendedor de autos.,Autos-vehículo
+Opel,Crossland,2020,23500,Usado,Diesel,Blanco,Automática,11790000,Metropolitana de Santiago,Maipú,Vendedor de autos.,Autos-vehículo
+BMW,118,2024,5600,Usado,Bencina,Blanco,Automática,32970000,Metropolitana de Santiago,Las Condes,Vendedor de autos.,Autos-vehículo
+Chery,Tiggo 3,2022,20500,Usado,Otro,Azul,Automática,9980000,Metropolitana de Santiago,Las Condes,Vendedor de autos.,Autos-vehículo
+Honda,City,2019,95000,Usado,Bencina,Blanco Blanco,Automática,8990000,Araucanía,Temuco,Vendedor de autos.,Autos-vehículo
+Volkswagen,Nivus,2023,10203,Usado,Bencina,Blanco,Automática,17290000,Valparaíso,Viña del Mar,Vendedor de autos.,Autos-vehículo
+Chevrolet,Onix,2021,35000,Usado,Bencina,Blanco,Automática,8690000,Metropolitana de Santiago,Ñuñoa,Vendedor de autos.,Autos-vehículo
+Dodge,Durango,2020,33100,Usado,Bencina,Negro,Automática,26990000,Metropolitana de Santiago,Santiago,Vendedor de autos.,Autos-vehículo
+MG,HS,2023,1000,Usado,Bencina,Azul Azul,Automática,13490000,Ñuble,Chillán,Vendedor de autos.,Autos-vehículo
+Land Rover,Range Rover Sport,2017,62695,Usado,Bencina,Azul,Automática,34500000,Metropolitana de Santiago,Lo Barnechea,Vendedor de autos.,Autos-vehículo
+Seat,Ibiza,2023,2886,Usado,Bencina,Rojo Rojo,Automática,13590000,Bío Bío,Concepción,Vendedor de autos.,Autos-vehículo
+Jac,Js8,2022,14500,Usado,Bencina,Bordo,Automática,12190000,Los Lagos,puerto varas,Vendedor de autos.,Autos-vehículo
+Ford,F-150,2019,91626,Usado,Bencina,Marrón Marrón,Automática,28390000,Bío Bío,Concepción,Vendedor de autos.,Autos-vehículo
+Audi,Q2,2022,37913,Usado,Bencina,Blanco,Automática,24000000,Metropolitana de Santiago,Las Condes,Vendedor de autos.,Autos-vehículo
+Nissan,Qashqai,2024,352,Usado,Bencina,Plata Plata,Automática,26990000,Metropolitana de Santiago,Providencia,Vendedor de autos.,Autos-vehículo
+Hyundai,Tucson,2022,40461,Usado,Bencina,Plata,Automática,18290000,Metropolitana de Santiago,Macul,Vendedor de autos.,Autos-vehículo
+Alfa Romeo,Mito,2014,67000,Usado,Bencina,Blanco,Automática,9990000,Araucanía,Temuco,Vendedor de autos.,Autos-vehículo
+Chevrolet,Spark,2021,98580,Usado,Bencina,Blanco,Automática,6490000,Metropolitana de Santiago,Santiago,Vendedor de autos.,Autos-vehículo
+Chery,Tiggo 3,2021,75000,Usado,Bencina,Blanco,Automática,8790000,Metropolitana de Santiago,Maipú,Vendedor de autos.,Autos-vehículo
+Geely,Coolray,2022,29684,Usado,Bencina,Rojo Rojo,Automática,11590000,Maule,Talca,Vendedor de autos.,Autos-vehículo
+MINI,Cooper,2022,10300,Usado,Eléctrico,Gris,Automática,30900000,Metropolitana de Santiago,Lo Barnechea,Vendedor de autos.,Autos-vehículo
+SsangYong,Stavic,2017,115000,Usado,Diesel,Blanco,Automática,11670000,Metropolitana de Santiago,Santiago,Vendedor de autos.,"Autos, Camionetas y 4x4"
+Haval,H6,2022,45000,Usado,Bencina,Bordo,Automática,12485673,Metropolitana de Santiago,Las Condes,Vendedor de autos.,"Autos, camionetas y 4x4"
+Volkswagen,Nivus,2022,23000,Usado,Bencina,Gris,Automática,13490000,Araucanía,Temuco,Vendedor de autos.,Autos-vehículo
+Nissan,Qashqai,2012,208900,Usado,Bencina,Blanco,Automática,4400000,Metropolitana de Santiago,La Reina,Vendedor de autos.,Autos-vehículo
+Land Rover,Evoque,2019,74000,Usado,Bencina,Blanco,Automática,37990000,Metropolitana de Santiago,Lo Barnechea,Vendedor de autos.,Autos-vehículo
+Changan,Hunter,2022,47700,Usado,Diesel,Blanco,Automática,14290000,Metropolitana de Santiago,Huechuraba,Vendedor de autos.,Autos-vehículo
+Suzuki,Ignis,2018,85500,Usado,Bencina,Marrón Marrón,Automática,8690000,Los Lagos,Castro,Vendedor de autos.,Autos-vehículo
+BMW,X6,2018,66000,Usado,Bencina,Blanco,Automática,35000000,Metropolitana de Santiago,Las Condes,Vendedor de autos.,Autos-vehículo
+Hyundai,Grand I10,2021,88000,Usado,Bencina,Negro,Automática,6980000,Metropolitana de Santiago,Vitacura,Vendedor de autos.,Autos-vehículo
+Suzuki,S-Presso,2022,14500,Usado,Bencina,Naranja,Automática,6690000,Valparaíso,San Antonio,Vendedor de autos.,Autos-vehículo
+Nissan,Qashqai,2020,26500,Usado,Bencina,Plata Plata,Automática,11990000,Metropolitana de Santiago,VITACURA,Vendedor de autos.,Autos-vehículo
+Mitsubishi,Outlander,2016,74000,Usado,Bencina,Negro,Automática,10500000,Metropolitana de Santiago,La Reina,Vendedor de autos.,Autos-vehículo
+Ford,F-150,2020,53000,Usado,Bencina,Blanco,Automática,29990000,Maule,Curicó,Vendedor de autos.,Autos-vehículo
+Mazda,Bt-50,2022,103000,Usado,Diesel,Grafito,Automática,22980000,Maule,Curicó,Vendedor de autos.,Autos-vehículo
+Ford,Edge,2019,92800,Usado,Bencina,Gris,Automática,18590000,Metropolitana de Santiago,Vitacura,Vendedor de autos.,Autos-vehículo
+Baic,X25,2018,77352,Usado,Bencina,Blanco,Automática,6990000,Bío Bío,CONCEPCION,Vendedor de autos.,Autos-vehículo
+Renault,Koleos,2016,90000,Usado,Bencina,Gris,Automática,6490000,Metropolitana de Santiago,Vitacura,Vendedor de autos.,Autos-vehículo
+Jmc,Vigus,2023,52000,Usado,Diesel,Beige,Manual,10500000,Metropolitana de Santiago,La Florida,Vendedor de autos.,"Autos, camionetas y 4x4"
+Volkswagen,Tiguan,2022,65500,Usado,Bencina,Gris,Automática,21990000,Metropolitana de Santiago,La Reina,Vendedor de autos.,"Autos, Camionetas y 4x4"
+Haval,H6,2021,43000,Usado,Bencina,Rojo,Automática,14900000,OHiggins,San Fernando,Vendedor de autos.,"Autos, camionetas y 4x4"
+Ford,Bronco Sport,2022,95000,Usado,Bencina,Azul,Automática,20990000,Bío Bío,Los Ángeles,Vendedor de autos.,"Autos, camionetas y 4x4"
+Mitsubishi,Outlander,2015,186400,Usado,Bencina,Blanco,Automática,7990000,Metropolitana de Santiago,Santiago,Vendedor de autos.,"Autos, Camionetas y 4x4"
+Jeep,Grand Cherokee,2022,27535,Usado,Bencina,Negro,Automática,32490000,Metropolitana de Santiago,Vitacura,Vendedor de autos.,"Autos, Camionetas y 4x4"
+Peugeot,308,2012,158000,Usado,Bencina,Gris,Automática,6000000,OHiggins,Nancagua,Vendedor de autos.,"Autos, camionetas y 4x4"
+Subaru,Forester,2022,42300,Usado,Bencina,Gris,Automática,23590000,Metropolitana de Santiago,Las Condes,Vendedor de autos.,Autos-vehículo
+Toyota,Corolla Cross,2023,40471,Usado,Bencina,Gris,Automática,15900000,Bío Bío,Los Ángeles,Vendedor de autos.,Autos-vehículo
+Jac,S3,2022,22000,Usado,Bencina,Plata,Automática,8990000,Maule,Talca,Vendedor de autos.,Autos-vehículo
+Ram,1500,2022,14500,Usado,Bencina,Plata Plata,Automática,35990000,Bío Bío,Concepción,Vendedor de autos.,Autos-vehículo
+Chevrolet,Groove,2023,25000,Usado,Bencina,Plata,Automática,13280000,Metropolitana de Santiago,La Reina,Vendedor de autos.,Autos-vehículo
+Chevrolet,Traverse,2021,57557,Usado,Bencina,Negro Negro,Automática,23490000,Metropolitana de Santiago,Vitacura,Vendedor de autos.,"Autos, camionetas y 4x4"
+Volkswagen,Tiguan,2012,105568,Usado,Bencina,Gris,Automática,7990000,Los Lagos,Osorno,Vendedor de autos.,Sedan
+Citroën,C4 Cactus,2017,90900,Usado,Diesel,Blanco,Automática,10900000,Valparaíso,Calle Larga,Vendedor de autos.,"Autos, camionetas y 4x4"
+Volkswagen,Gol,2019,28911,Usado,Bencina,Gris,Automática,6990000,Maule,Linares,Vendedor de autos.,"Autos, camionetas y 4x4"
+Chevrolet,Spark Gt,2021,40084,Usado,Bencina,Rojo Rojo,Automática,6690000,Metropolitana de Santiago,La florida,Vendedor de autos.,"Autos, camionetas y 4x4"
+Citroën,C5 Aircross,2021,93000,Usado,Diesel,Marrón Marrón,Automática,14190000,Metropolitana de Santiago,Maipú,Vendedor de autos.,"Autos, camionetas y 4x4"
+Chevrolet,Tracker,2023,32000,Usado,Bencina,Azul,Manual,10500000,Valparaíso,Valparaiso,Vendedor de autos.,"Autos, camionetas y 4x4"
+Honda,Ridgeline,2019,62000,Usado,Bencina,Gris Grafito,Automática,27880000,Metropolitana de Santiago,Vitacura,Vendedor de autos.,"Autos, Camionetas y 4x4"
+Peugeot,Partner,2019,58911,Usado,Diesel,Blanco,Manual,8800000,Metropolitana de Santiago,San Joaquin,Vendedor de autos.,"Autos, Camionetas y 4x4"
+Chevrolet,Sail,2020,109670,Usado,Bencina,Blanco Blanco,Manual,5790000,Metropolitana de Santiago,La Florida,Vendedor de autos.,"Autos, camionetas y 4x4"
+Dodge,Journey,2018,114136,Usado,Bencina,Gris Gris,Automática,11490000,Bío Bío,Los Angeles,Vendedor de autos.,"Autos, camionetas y 4x4"
+Jeep,Wrangler,2015,150000,Usado,Bencina,Rojo,Automática,24990000,Metropolitana de Santiago,Vitacura,Vendedor de autos.,"Autos, Camionetas y 4x4"
+Citroën,Berlingo,2022,56130,Usado,Diesel,BLANCO,Manual,10900000,Coquimbo,La serena,Vendedor de autos.,"Autos, Camionetas y 4x4"
+Suzuki,Dzire,2020,97000,Usado,Bencina,Plata,Manual,8490000,Coquimbo,La Serena,Vendedor de autos.,"Autos, Camionetas y 4x4"
+Chevrolet,Spark Gt,2018,51436,Usado,Bencina,Plata Plata,Manual,5390000,Metropolitana de Santiago,San Bernardo,Vendedor de autos.,"Autos, camionetas y 4x4"
+Citroën,C3,2023,29621,Usado,Bencina,Marrón Marrón,Manual,9490000,Ñuble,Chillán,Vendedor de autos.,"Autos, camionetas y 4x4"
+Jac,Js2,2022,24600,Usado,Bencina,ROJO BITONO,Manual,8590000,Antofagasta,Antofagasta,Vendedor de autos.,"Autos, Camionetas y 4x4"
+Hyundai,Santa Fe,2024,25600,Usado,Diesel,Negro,Automática,34990000,Los Lagos,Osorno,Vendedor de autos.,"Autos, Camionetas y 4x4"
+Suzuki,Sx4 S-Cross,2010,138000,Usado,Bencina,Negro,Manual,4500000,Araucanía,Villarrica,Vendedor de autos.,"Autos, camionetas y 4x4"
+Ford,F-150,2015,70000,Usado,Bencina,Azul,Automática,29500000,Maule,Linares,Vendedor de autos.,"Autos, camionetas y 4x4"
+Fiat,Argo,2020,38983,Usado,Bencina,Blanco Blanco,Manual,8180000,Metropolitana de Santiago,Cerrillos,Vendedor de autos.,"Autos, camionetas y 4x4"
+Chery,Tiggo 2,2019,83375,Usado,Bencina,Gris,Manual,5870000,Metropolitana de Santiago,San Miguel,Vendedor de autos.,"Autos, Camionetas y 4x4"
+Toyota,Rav4,2023,39000,Usado,Híbrido,Blanco,Automática,30900000,Metropolitana de Santiago,Las Condes,Vendedor de autos.,"Autos, camionetas y 4x4"
+Mercedes-Benz,X 250D,2019,71000,Usado,Diesel,Azul,Automática,34900000,Bío Bío,Concepción,Vendedor de autos.,"Autos, camionetas y 4x4"
+Ford,F-150,2013,210000,Usado,Bencina,Rojo,Automática,19000000,OHiggins,Olivar,Vendedor de autos.,"Autos, camionetas y 4x4"
+SsangYong,Rexton,2022,73400,Usado,Diesel,Blanco,Automática,24490000,Los Lagos,Osorno,Vendedor de autos.,"Autos, Camionetas y 4x4"
+Mazda,Cx-5,2024,25500,Usado,Bencina,Plata,Automática,21990000,Metropolitana de Santiago,Las Condes,Vendedor de autos.,"Autos, camionetas y 4x4"
+MG,One,2023,31000,Usado,Bencina,Naranja,Automática,12890000,Metropolitana de Santiago,Las Condes,Vendedor de autos.,"Autos, Camionetas y 4x4"
+Fiat,Uno,2021,69650,Usado,Bencina,Negro,Manual,6790000,Coquimbo,Monte Patria,Vendedor de autos.,"Autos, camionetas y 4x4"
+Toyota,Hilux,2012,197000,Usado,Diesel,Rojo,Manual,10500000,OHiggins,Rancagua,Vendedor de autos.,"Autos, camionetas y 4x4"
+SKODA,Kodiaq,2023,40000,Usado,Bencina,Plata,Automática,22900000,Metropolitana de Santiago,Vitacura,Vendedor de autos.,"Autos, camionetas y 4x4"
+Peugeot,Landtrek,2023,41000,Usado,Diesel,Gris,Manual,19000000,Coquimbo,Vicuña,Vendedor de autos.,"Autos, camionetas y 4x4"
+Citroën,C3,2012,200,Usado,Bencina,Negro,Manual,3750000,Metropolitana de Santiago,Quilicura,Vendedor de autos.,"Autos, camionetas y 4x4"
+Suzuki,Grand Vitara,2015,94000,Usado,Bencina,Gris,Automática,10900000,Valparaíso,Los Andes,Vendedor de autos.,"Autos, camionetas y 4x4"
+Citroën,C-Elysee,2019,80000,Usado,Diesel,Gris,Manual,11900000,Los Lagos,Puerto Montt,Vendedor de autos.,"Autos, camionetas y 4x4"
+Mitsubishi,L200,2022,110697,Usado,Diesel,Blanco,Manual,15800000,Metropolitana de Santiago,San Joaquin,Vendedor de autos.,"Autos, Camionetas y 4x4"
+Ford,F-150,2016,152000,Usado,Bencina,Rojo,Automática,21800000,Atacama,Copiapó,Vendedor de autos.,"Autos, camionetas y 4x4"
+Chevrolet,Captiva,2021,78000,Usado,Bencina,Rojo,Automática,11890000,Valparaíso,Villa Alemana,Vendedor de autos.,"Autos, camionetas y 4x4"
+Hyundai,Porter Hr,2012,155000,Usado,Diesel,Blanco,Manual,8600000,Metropolitana de Santiago,Ñuñoa,Vendedor de autos.,"Autos, camionetas y 4x4"
+Audi,Q5,2022,56000,Usado,Híbrido,Plata,Automática,36000000,Metropolitana de Santiago,Colina,Vendedor de autos.,"Autos, camionetas y 4x4"
+Kia,Rio 4,2018,156000,Usado,Bencina,Gris,Manual,7400000,Metropolitana de Santiago,Lampa,Vendedor de autos.,"Autos, camionetas y 4x4"
+MINI,Countryman,2022,24000,Usado,Híbrido,Azul,Automática,30590000,Metropolitana de Santiago,Providencia,Vendedor de autos.,"Autos, camionetas y 4x4"
+Peugeot,208,2022,53000,Usado,Bencina,Blanco,Manual,9000000,Metropolitana de Santiago,Pudahuel,Vendedor de autos.,"Autos, camionetas y 4x4"
+BMW,X3,2017,109000,Usado,Diesel,Gris,Automática,25000000,OHiggins,Pichidegua,Vendedor de autos.,"Autos, camionetas y 4x4"
+Citroën,C4 Cactus,2019,106000,Usado,Diesel,Blanco,Automática,12800000,Metropolitana de Santiago,Maipú,Vendedor de autos.,"Autos, camionetas y 4x4"
+Volvo,V40 1.6 T4 Comfort,2015,114000,Usado,Bencina,Azul,Automática,11500000,Metropolitana de Santiago,Huechuraba,Vendedor de autos.,"Autos, camionetas y 4x4"
+Kia,Frontier,2018,168000,Usado,Diesel,Blanco,Manual,11800000,Metropolitana de Santiago,Colina,Vendedor de autos.,"Autos, camionetas y 4x4"
+Nissan,X-Trail,2019,70000,Usado,Bencina,Gris,Automática,12890000,Valparaíso,Concón,Vendedor de autos.,"Autos, camionetas y 4x4"
+Faw,Besturn B50,2014,180000,Usado,Bencina,Gris,Manual,3100000,Los Lagos,Puerto Montt,Vendedor de autos.,"Autos, camionetas y 4x4"
+Kia,Sorento,2017,64880,Usado,Bencina,Gris,Automática,13980000,Tarapacá,Iquique,Vendedor de autos.,Autos-vehículo
+Volkswagen,Polo,2022,22476,Usado,Bencina,Blanco,Automática,11780000,Metropolitana de Santiago,La Florida,Vendedor de autos.,Autos-vehículo
+Hyundai,I20,2022,16400,Usado,Bencina,Blanco,Automática,10480000,Coquimbo,La Serena,Vendedor de autos.,Autos-vehículo
+Chevrolet,Blazer,2022,25900,Usado,Bencina,Rojo,Automática,10990000,Metropolitana de Santiago,Las Condes,Vendedor de autos.,Autos-vehículo
+Peugeot,308,2019,85350,Usado,Diesel,Blanco,Automática,15990000,Metropolitana de Santiago,Las Condes,Vendedor de autos.,Autos-vehículo
+Changan,Cx70 Luxury 1.6,2023,19000,Usado,Bencina,Negro,Automática,10990000,Valparaíso,QUILPÚE,Vendedor de autos.,Autos-vehículo
+Mitsubishi,L200,2021,87402,Usado,Diesel,Blanco,Automática,15180000,Metropolitana de Santiago,Las Condes,Vendedor de autos.,Autos-vehículo
+Subaru,Xv,2023,18050,Usado,Bencina,Gris Gris,Automática,20490000,Metropolitana de Santiago,Quilicura,Vendedor de autos.,Autos-vehículo
+Great Wall,Wingle 5,2020,98000,Usado,Diesel,Blanco,Manual,7980000,Metropolitana de Santiago,la granja,Vendedor de autos.,"Autos, Camionetas y 4x4"
+Hyundai,Creta,2017,95000,Usado,Bencina,Blanco,Manual,9000000,Metropolitana de Santiago,San Joaquín,Vendedor de autos.,"Autos, camionetas y 4x4"
+Mitsubishi,L200,2019,138000,Usado,Diesel,Plata,Manual,19990000,Metropolitana de Santiago,Vitacura,Vendedor de autos.,"Autos, camionetas y 4x4"
+Peugeot,Boxer,2024,50249,Usado,Diesel,Blanco,Manual,24590000,Metropolitana de Santiago,Macul,Vendedor de autos.,"Autos, Camionetas y 4x4"
+Kia,Sorento,2013,148400,Usado,Bencina,Negro,Automática,9100000,Metropolitana de Santiago,Las Condes,Vendedor de autos.,"Autos, camionetas y 4x4"
+Toyota,Rav4,2022,45110,Usado,Bencina,Gris,Manual,18711246,Metropolitana de Santiago,Las Condes,Vendedor de autos.,"Autos, Camionetas y 4x4"
+BMW,X1,2024,18000,Usado,Bencina,Azul,Automática,37500000,Los Lagos,Puerto Montt,Vendedor de autos.,"Autos, camionetas y 4x4"
+Jeep,Grand Cherokee,2018,72000,Usado,Bencina,Plata,Automática,19600000,Metropolitana de Santiago,Las Condes,Vendedor de autos.,"Autos, camionetas y 4x4"
+Range Rover,Evoque,2017,103000,Usado,Bencina,Bronce,Automática,18000000,Metropolitana de Santiago,Las Condes,Vendedor de autos.,"Autos, camionetas y 4x4"
+Ford,Ecosport,2019,113460,Usado,Bencina,Blanco Blanco,Manual,8290000,Metropolitana de Santiago,San Bernardo,Vendedor de autos.,"Autos, camionetas y 4x4"
+Opel,Grandland,2024,14310,Usado,Bencina,Granate,Automática,18690000,Valparaíso,Viña del Mar,Vendedor de autos.,"Autos, Camionetas y 4x4"
+Peugeot,208,2018,80180,Usado,Diesel,Blanco,Manual,8200000,Metropolitana de Santiago,San Miguel,Vendedor de autos.,"Autos, camionetas y 4x4"
+Jeep,Grand Cherokee,2014,124000,Usado,Bencina,Negro,Automática,13990000,Metropolitana de Santiago,Lo Barnechea,Vendedor de autos.,"Autos, Camionetas y 4x4"
+Mazda,Cx-3,2023,11000,Usado,Bencina,Blanco,Manual,16500000,Metropolitana de Santiago,La Reina,Vendedor de autos.,"Autos, camionetas y 4x4"
+Ford,F-150,2023,55000,Usado,Bencina,BLANCO,Automática,38990000,Metropolitana de Santiago,La Reina,Vendedor de autos.,"Autos, Camionetas y 4x4"
+Chevrolet,Colorado,2021,80000,Usado,Diesel,Blanco,Automática,24000000,Los Ríos,Paillaco,Vendedor de autos.,"Autos, camionetas y 4x4"
+Citroën,C-Elysee,2021,67000,Usado,Diesel,Gris,Manual,7900000,Metropolitana de Santiago,La Florida,Vendedor de autos.,"Autos, camionetas y 4x4"
+Hyundai,Tucson,2021,12970,Usado,Bencina,Gris,Manual,16800000,Antofagasta,Antofagasta,Vendedor de autos.,"Autos, camionetas y 4x4"
+Haval,H6,2022,31000,Usado,Bencina,Azul,Automática,15990000,Metropolitana de Santiago,Las Condes,Vendedor de autos.,"Autos, Camionetas y 4x4"
+Cupra,Formentor,2023,46093,Usado,Bencina,Blanco,Automática,22700000,Metropolitana de Santiago,Las Condes,Vendedor de autos.,"Autos, camionetas y 4x4"
+Hyundai,Santa Fe,2022,56853,Usado,Bencina,Blanco,Automática,20780000,Metropolitana de Santiago,Vitacura,Vendedor de autos.,"Autos, Camionetas y 4x4"
+BMW,418,2021,68000,Usado,Bencina,Azul,Automática,22990000,Valparaíso,Valparaiso,Vendedor de autos.,"Autos, Camionetas y 4x4"
+BMW,X5,2018,146000,Usado,Diesel,Gris,Automática,23990000,Maule,Talca,Vendedor de autos.,"Autos, Camionetas y 4x4"
+Maple,Maple 30X,2022,45800,Usado,Eléctrico,Borgoña,Automática,13400000,Metropolitana de Santiago,Lo Barnechea,Vendedor de autos.,"Autos, Camionetas y 4x4"
+Mercedes-Benz,B 200,2022,30573,Usado,Bencina,Gris,Automática,27990000,Metropolitana de Santiago,Colina,Vendedor de autos.,"Autos, Camionetas y 4x4"
+Fiat,Argo,2023,10,Usado,Bencina,Blanco,Automática,11490000,Valparaíso,Viña del Mar,Vendedor de autos.,"Autos, Camionetas y 4x4"
+Chery,Tiggo 2,2021,60000,Usado,Bencina,Naranja,Automática,8480000,Metropolitana de Santiago,Las Condes,Vendedor de autos.,Autos-vehículo
+Volkswagen,Virtus,2022,28926,Usado,Bencina,Blanco,Automática,10200000,Metropolitana de Santiago,Las Condes,Vendedor de autos.,Autos-vehículo
+Kia,Sorento,2017,109271,Usado,Bencina,Gris Gris,Automática,13190000,Metropolitana de Santiago,Cerrillos,Vendedor de autos.,Autos-vehículo
+Peugeot,Partner,2024,1,Usado,Diesel,Blanco Blanco,Automática,17190000,Metropolitana de Santiago,Macul,Vendedor de autos.,Autos-vehículo
+Suzuki,Jimny,2022,18477,Usado,Bencina,Plata,Automática,14380000,Metropolitana de Santiago,Las Condes,Vendedor de autos.,Autos-vehículo
+BMW,X3,2019,57630,Usado,Bencina,Blanco,Automática,33900000,Bío Bío,Concepción,Vendedor de autos.,Autos-vehículo
+Mazda,2,2016,82000,Usado,Bencina,Gris,Automática,9980000,Metropolitana de Santiago,santiago,Vendedor de autos.,Autos-vehículo
